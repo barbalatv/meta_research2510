@@ -1,0 +1,20 @@
+[
+  ".gitignore",
+  "Dockerfile",
+  "LICENSE",
+  "README.md",
+  "assets/screenshot.png",
+  "composer.json",
+  "phpunit.xml",
+  "public/index.php",
+  "src/Base62.php",
+  "src/Database.php",
+  "src/LinkRepository.php",
+  "src/Middleware/JsonRequestLogger.php",
+  "src/UrlValidator.php",
+  "src/ValidationException.php",
+  "tests/Base62Test.php",
+  "tests/HttpTest.php",
+  "tests/LinkRepositoryTest.php",
+  "tests/UrlValidatorTest.php"
+]

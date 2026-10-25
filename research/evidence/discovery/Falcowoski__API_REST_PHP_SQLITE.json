@@ -1,0 +1,22 @@
+{
+  "repo": "Falcowoski/API_REST_PHP_SQLITE",
+  "stage": "DISCOVERY_ONLY",
+  "files": {
+    "README.md": {
+      "url": "https://raw.githubusercontent.com/Falcowoski/API_REST_PHP_SQLITE/HEAD/README.md",
+      "text": "## 💻 Projeto\n\n- Essa é uma **API REST** desenvolvida em **PHP 8**, que utiliza o **SQLite** como **DB.**\n\n- Ela foi desenvolvida com base no **teste técnico** de uma entrevista de estágio para **Desenvolvimento Web** com **PHP.**\n\n## 🚀 Tecnologias\n\nEsse projeto foi desenvolvido com as seguintes tecnologias:\n- PHP\n- SQLite\n"
+    },
+    "LICENSE": {
+      "url": "https://raw.githubusercontent.com/Falcowoski/API_REST_PHP_SQLITE/HEAD/LICENSE",
+      "text": "MIT License\n\nCopyright (c) 2021 Leonardo Falcoski\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.\n"
+    },
+    "LICENSE.md": {
+      "url": "https://raw.githubusercontent.com/Falcowoski/API_REST_PHP_SQLITE/HEAD/LICENSE.md",
+      "error": "HTTP Error 404: Not Found"
+    },
+    "composer.json": {
+      "url": "https://raw.githubusercontent.com/Falcowoski/API_REST_PHP_SQLITE/HEAD/composer.json",
+      "error": "HTTP Error 404: Not Found"
+    }
+  }
+}

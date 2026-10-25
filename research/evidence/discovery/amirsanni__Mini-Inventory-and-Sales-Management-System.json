@@ -1,0 +1,22 @@
+{
+  "repo": "amirsanni/Mini-Inventory-and-Sales-Management-System",
+  "stage": "DISCOVERY_ONLY",
+  "files": {
+    "README.md": {
+      "url": "https://raw.githubusercontent.com/amirsanni/Mini-Inventory-and-Sales-Management-System/HEAD/README.md",
+      "text": "# Mini-Inventory-and-Sales-Management-System\nAn Inventory and Sales Management System written in PHP (codeIgniter) with support for MySQL and Sqlite3 databases\n\n\n# Features\n- Products Management\n- Transaction Management\n- Viewing and Printing of Transactions Within Specific Dates\n- Barcode Scanning of Products for product and transaction management\n- Custom Analytics\n- User Management\n- Monthly/Yearly Earnings Overview\n- VAT\n- Discount\n\n# Getting Started\n- _mod_rewrite_ must be enabled\n- PHP >= 5.4 is recommended\n- Browser with support for most ES6 features is recommended\n- If you edit the folder name, you will need to do the following:\n  - Open __.htaccess in the root folder__ and change the line with __\"mini-inventory-and-sales-management-system\"__ to your new folder name. Leave it blank if app is directly inside your __www__ or __html__ directory.\n  - Open __\"application/config/config.php\"__ and do the same.\n  - Open __\"public/js/main.js\"__ and do the same.\n\n# Demo\nView demo here: https://inventory.1410inc.xyz/\n\nTo log in:\n\n- Email: demo@1410inc.xyz\n- Password: demopass\n"
+    },
+    "LICENSE": {
+      "url": "https://raw.githubusercontent.com/amirsanni/Mini-Inventory-and-Sales-Management-System/HEAD/LICENSE",
+      "error": "HTTP Error 404: Not Found"
+    },
+    "LICENSE.md": {
+      "url": "https://raw.githubusercontent.com/amirsanni/Mini-Inventory-and-Sales-Management-System/HEAD/LICENSE.md",
+      "error": "HTTP Error 404: Not Found"
+    },
+    "composer.json": {
+      "url": "https://raw.githubusercontent.com/amirsanni/Mini-Inventory-and-Sales-Management-System/HEAD/composer.json",
+      "error": "HTTP Error 404: Not Found"
+    }
+  }
+}

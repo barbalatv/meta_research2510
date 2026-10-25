@@ -1,0 +1,3104 @@
+{
+  "method": "Physical PHP SLOC from static tokens; no PHP source is executed.\n\nExcludes whitespace, comments, PHP delimiters and inline HTML. Multiline PHP\nstring literals (SQL, etc.) count on each nonblank line. Category totals keep\nhandwritten presentation separate from core and setup; manual scaffolding and\nthird-party exclusions are explicit below. Uses installed Pygments, not cloc.\n",
+  "pygments_version": "2.21.0",
+  "repos": {
+    "Alespfer__wisenomy": {
+      "production_php_sloc": 2575,
+      "production_plus_setup_sloc": 2575,
+      "totals": {
+        "core_php": 1916,
+        "presentation_php": 659
+      },
+      "files": [
+        {
+          "path": "index.php",
+          "category": "core_php",
+          "php_sloc": 625,
+          "sha256": "d7dbbacfd5318a12cdc27003a499e85e20fdc37c4ae1bc081a2cc0ffc7a5b951"
+        },
+        {
+          "path": "lib/activity.php",
+          "category": "core_php",
+          "php_sloc": 24,
+          "sha256": "49d4acd84509539c7f96d907158e4a562a85741820a526eeb0c798c1b1b3ee39"
+        },
+        {
+          "path": "lib/auth.php",
+          "category": "core_php",
+          "php_sloc": 272,
+          "sha256": "44ab8c6e7edf4f5548a9027f447008274b6f4fe5262b40e8b20f23ef0ab0f154"
+        },
+        {
+          "path": "lib/config.php",
+          "category": "core_php",
+          "php_sloc": 25,
+          "sha256": "2130fc17fa90d183963e07be8bae5d7358a555bcb631fc9dbe15b576c300ba54"
+        },
+        {
+          "path": "lib/csv.php",
+          "category": "core_php",
+          "php_sloc": 191,
+          "sha256": "9eb7c5ffa813ba0bd71014cb3c63dcb4f205bb9483ba7ca39eae313254b54026"
+        },
+        {
+          "path": "lib/currency.php",
+          "category": "core_php",
+          "php_sloc": 82,
+          "sha256": "76999f58670ad522b12303d1897d9dcc5d8a3c7496379819912dd30658c8ee18"
+        },
+        {
+          "path": "lib/db.php",
+          "category": "core_php",
+          "php_sloc": 73,
+          "sha256": "e8aeb311a5fbc54568175827bc4af3425dabe6bc3123784d734d2c4fd83376c7"
+        },
+        {
+          "path": "lib/invites.php",
+          "category": "core_php",
+          "php_sloc": 78,
+          "sha256": "5fbad3a692a90789bc9fe4215abd03a5d34147f2866648d20ce1a396a4cb667b"
+        },
+        {
+          "path": "lib/mail.php",
+          "category": "core_php",
+          "php_sloc": 59,
+          "sha256": "5068a83ba1d4afcf2d02280a6c1cbb4abcddfd4653e983085591cd8fe2e16919"
+        },
+        {
+          "path": "lib/repo.php",
+          "category": "core_php",
+          "php_sloc": 401,
+          "sha256": "af071ac888065b50f4f414fb6acc3cae55c0702a81a986f79da989533cc0bfcb"
+        },
+        {
+          "path": "lib/settlement.php",
+          "category": "core_php",
+          "php_sloc": 86,
+          "sha256": "0aa0306c41551b5eb66ac3cb82cb86c7a4de8c34495a0bd965ad5790f23ecf33"
+        },
+        {
+          "path": "views/activity.php",
+          "category": "presentation_php",
+          "php_sloc": 63,
+          "sha256": "e96ea80788a2bf237aa14f6b16f65cef2689b87f5ff3a92e659bc1cb23ccace0"
+        },
+        {
+          "path": "views/forgot.php",
+          "category": "presentation_php",
+          "php_sloc": 13,
+          "sha256": "c15fcb957643d2cd05ed54a5f628ba5ee823b7fb0f1f41009d5f5e0b42b3ed35"
+        },
+        {
+          "path": "views/group_detail.php",
+          "category": "presentation_php",
+          "php_sloc": 194,
+          "sha256": "97c90f7555eda0dd788efb59e29ddc5a0917d4a34a268050ca18ea3ff7a249b6"
+        },
+        {
+          "path": "views/group_form.php",
+          "category": "presentation_php",
+          "php_sloc": 91,
+          "sha256": "0f2dc232ecd59d289a9650f3cc63ec2b409042b68e39592f98e2b7047785163f"
+        },
+        {
+          "path": "views/groups.php",
+          "category": "presentation_php",
+          "php_sloc": 17,
+          "sha256": "3aa6db591772503c319e5413bc7dd07248adf1a69589438fb4210f8d89f35a55"
+        },
+        {
+          "path": "views/import.php",
+          "category": "presentation_php",
+          "php_sloc": 24,
+          "sha256": "0bbc136527af9b288e5788bfca2031720106cbc5254400c6deed89d7deff0725"
+        },
+        {
+          "path": "views/layout.php",
+          "category": "presentation_php",
+          "php_sloc": 29,
+          "sha256": "f19542326f69ac89c39521a944799d3f6e83c4cb0f6adfe91ed618212f48dd1f"
+        },
+        {
+          "path": "views/legal.php",
+          "category": "presentation_php",
+          "php_sloc": 6,
+          "sha256": "4eccb4a09a90601a8f56eaafa292ab328e51125b5366ff135c0513b73d378ac5"
+        },
+        {
+          "path": "views/login.php",
+          "category": "presentation_php",
+          "php_sloc": 13,
+          "sha256": "9e950a921dd22ca2dc58339ca748a7f315dac56cdb2ba1cb00d08afaf31177f5"
+        },
+        {
+          "path": "views/participant_form.php",
+          "category": "presentation_php",
+          "php_sloc": 19,
+          "sha256": "eefd5639d7164de59cd0696319aa29c1f2a3225e13bd440c75b132006925f32a"
+        },
+        {
+          "path": "views/privacy.php",
+          "category": "presentation_php",
+          "php_sloc": 6,
+          "sha256": "079869fa1fdd1f4c47307fab4aa9389229936315c05bc93755a84c264de592b4"
+        },
+        {
+          "path": "views/profile.php",
+          "category": "presentation_php",
+          "php_sloc": 16,
+          "sha256": "9ba9a20e0ed2264e4a1f2958d4dd2b2e840b693c33491dbc3ab84ae9e1576a85"
+        },
+        {
+          "path": "views/register.php",
+          "category": "presentation_php",
+          "php_sloc": 15,
+          "sha256": "cd6c8ee0ebae9f914e2eaf8dbf3fee69c2bf893a97fe1f95ea216046146dee0a"
+        },
+        {
+          "path": "views/reset.php",
+          "category": "presentation_php",
+          "php_sloc": 13,
+          "sha256": "8c1aef2f5c0a53258a79ea2b569bbba196531f59dba704a7c2f5ee542a611ea8"
+        },
+        {
+          "path": "views/stats.php",
+          "category": "presentation_php",
+          "php_sloc": 59,
+          "sha256": "cde6ef8c3446ad83de8119077af23306757d5567b5cc17935edc1b28f8a71703"
+        },
+        {
+          "path": "views/terms.php",
+          "category": "presentation_php",
+          "php_sloc": 6,
+          "sha256": "3fcbb68f37723af82d3ef4b6044b34891f23e45bb489e12c5da6cb3cfc4ad56a"
+        },
+        {
+          "path": "views/tx_form.php",
+          "category": "presentation_php",
+          "php_sloc": 67,
+          "sha256": "26fd4a7c29826bf15fd20312ef87786e28934d8b2b2d07b5496bbaceb0471ddd"
+        },
+        {
+          "path": "views/verify_email.php",
+          "category": "presentation_php",
+          "php_sloc": 8,
+          "sha256": "24bdae7edc1e648bb9da85c95ae0cec8171131f6ca371d64001faa6cbdd8f467"
+        }
+      ]
+    },
+    "azlux__Simple-URL-Shortener": {
+      "production_php_sloc": 300,
+      "production_plus_setup_sloc": 333,
+      "totals": {
+        "core_php": 290,
+        "presentation_php": 10,
+        "setup_php": 33
+      },
+      "files": [
+        {
+          "path": "inc/bdd.php",
+          "category": "core_php",
+          "php_sloc": 17,
+          "sha256": "1cf185c061b80ebeedf6fd1c9c4d891d791e6a1da24e6d9b5f3acd2a1802b09f"
+        },
+        {
+          "path": "inc/config.example.php",
+          "category": "core_php",
+          "php_sloc": 11,
+          "sha256": "56f55b65c0cece27c564fd19e0b1f04c86997a03396aa6a8544679e479896065"
+        },
+        {
+          "path": "inc/footer.php",
+          "category": "presentation_php",
+          "php_sloc": 1,
+          "sha256": "08e56438b6224c362bd38a5bba7fa26cdb69c72f9f5f0f8efb58dea5d990c4c6"
+        },
+        {
+          "path": "inc/header.php",
+          "category": "presentation_php",
+          "php_sloc": 9,
+          "sha256": "1ce54143ccf2286628d04948ede420fcd496102c2b5f659c3b86548b73962597"
+        },
+        {
+          "path": "index.php",
+          "category": "core_php",
+          "php_sloc": 33,
+          "sha256": "3135f4796d12f9246d6ff9183c98547d4575ff1313aed16b464ad6dda4f85cc6"
+        },
+        {
+          "path": "installation.php",
+          "category": "setup_php",
+          "php_sloc": 33,
+          "sha256": "28cbac861a8b86bd83b1733164b86e09b72db422dde8af0a9a6fb4d465625139"
+        },
+        {
+          "path": "list.php",
+          "category": "core_php",
+          "php_sloc": 60,
+          "sha256": "eab8ff75047a7ad814dbaf970a586fb921ddd8ba748a5314a147e0ea6877f027"
+        },
+        {
+          "path": "login.php",
+          "category": "core_php",
+          "php_sloc": 55,
+          "sha256": "6b5814304964e385371758425f0cb21aaea61f1a083f66af6e763a81ff4bfccc"
+        },
+        {
+          "path": "shorten.php",
+          "category": "core_php",
+          "php_sloc": 114,
+          "sha256": "58d43761f84b9583a48b796740fe3ef3b5c94ab08ab643489b7a878ad13d2f58"
+        }
+      ]
+    },
+    "coskunsoysal__rest-api-sample": {
+      "production_php_sloc": 276,
+      "production_plus_setup_sloc": 288,
+      "totals": {
+        "core_php": 276,
+        "setup_php": 12
+      },
+      "files": [
+        {
+          "path": "bootstrap.php",
+          "category": "core_php",
+          "php_sloc": 16,
+          "sha256": "2d5c0b554429b06ae82081f9c246a691ad1c581507c0420bd430628fddd48b67"
+        },
+        {
+          "path": "db/config/default.php",
+          "category": "setup_php",
+          "php_sloc": 12,
+          "sha256": "0859e40fdacb2f4d362568c6856595c09b0735da9532f20cad619a8b9396ef58"
+        },
+        {
+          "path": "lib/API/Application.php",
+          "category": "core_php",
+          "php_sloc": 54,
+          "sha256": "8069a45c74956ca19e29088c1ea8e4df36151a4be130c52e8236858a8a598a24"
+        },
+        {
+          "path": "lib/API/Exception/ValidationException.php",
+          "category": "core_php",
+          "php_sloc": 14,
+          "sha256": "31d247704b92170c3aad90a458b68abc8cfd82a6f53271148ae406ebeba1a9ed"
+        },
+        {
+          "path": "lib/API/Exception.php",
+          "category": "core_php",
+          "php_sloc": 4,
+          "sha256": "200c17d94d923708e564d184ecff881dbecbfcae2ca8abd64d6b2a96b8061bfa"
+        },
+        {
+          "path": "lib/API/Middleware/JSON.php",
+          "category": "core_php",
+          "php_sloc": 32,
+          "sha256": "883778f61ab796bce0c968722cab770c6c1f2bb2478a74bbff8214ed88023679"
+        },
+        {
+          "path": "lib/API/Middleware/TokenOverBasicAuth.php",
+          "category": "core_php",
+          "php_sloc": 48,
+          "sha256": "e157f00e265191b3f32ea5393be9b5b95483d6b2fc4a6b60811218788f4771bc"
+        },
+        {
+          "path": "public/index.php",
+          "category": "core_php",
+          "php_sloc": 108,
+          "sha256": "63c9f14726d8e4327554d0566fe73c15f456e02bd4c26f9836f1bd2c422eed47"
+        }
+      ]
+    },
+    "kanboard__kanboard__v1.0.0": {
+      "production_php_sloc": 2349,
+      "production_plus_setup_sloc": 2366,
+      "totals": {
+        "setup_php": 17,
+        "core_php": 1902,
+        "presentation_php": 447,
+        "excluded_test_vendor_example": 1659
+      },
+      "files": [
+        {
+          "path": "check_setup.php",
+          "category": "setup_php",
+          "php_sloc": 17,
+          "sha256": "e728787b7851caa3f01fb3483a74ef500f9f7728324969ee32723687caae3b05"
+        },
+        {
+          "path": "controllers/app.php",
+          "category": "core_php",
+          "php_sloc": 13,
+          "sha256": "e0bf137197d0361cb40e9cdd55351bee03b6d064219d3a4aae2937b9e2597eae"
+        },
+        {
+          "path": "controllers/base.php",
+          "category": "core_php",
+          "php_sloc": 73,
+          "sha256": "416c1b66868c5dd4087c5e2ca23fe5988a420c8ee12cb7c50ea2c6696cd5ec5d"
+        },
+        {
+          "path": "controllers/board.php",
+          "category": "core_php",
+          "php_sloc": 145,
+          "sha256": "fcdbcddf783d6bc2c7fa793527619ca9388d67aaff3b65228d53dddeabc666a2"
+        },
+        {
+          "path": "controllers/config.php",
+          "category": "core_php",
+          "php_sloc": 56,
+          "sha256": "af1f275123651a134436b27685a5c9047fe76fa9780983b89d8c1e9c11d3d551"
+        },
+        {
+          "path": "controllers/project.php",
+          "category": "core_php",
+          "php_sloc": 120,
+          "sha256": "1bb8365f484427ab7eea0497b7088593d65c8d080e07b969dad38c68271fefba"
+        },
+        {
+          "path": "controllers/task.php",
+          "category": "core_php",
+          "php_sloc": 166,
+          "sha256": "e2635ebc2ab699c8ea2b6028b527e6b03eef538ab837f372d45ff0796abab8f7"
+        },
+        {
+          "path": "controllers/user.php",
+          "category": "core_php",
+          "php_sloc": 151,
+          "sha256": "749b82f4e8bdef6ed1322d9baeb71a5925afa1f422f2c34248d027ce2819e40e"
+        },
+        {
+          "path": "index.php",
+          "category": "core_php",
+          "php_sloc": 5,
+          "sha256": "90e73511ba5adfa663e160aaadf5489edd62a8748caf402b7144680bd56493ca"
+        },
+        {
+          "path": "lib/helper.php",
+          "category": "core_php",
+          "php_sloc": 163,
+          "sha256": "0d7a556a5fb8852d27b84993b9830472083a23d3ee5200e5ebc9ae05bcde3460"
+        },
+        {
+          "path": "lib/request.php",
+          "category": "core_php",
+          "php_sloc": 34,
+          "sha256": "58659e83ce74c92a673e6eec23043162fd97d5befdae8982904e284f78e7aaba"
+        },
+        {
+          "path": "lib/response.php",
+          "category": "core_php",
+          "php_sloc": 100,
+          "sha256": "8205a9095a0665522218919fec3dd55b4390a9eaee29db13be8300d0d408dc34"
+        },
+        {
+          "path": "lib/router.php",
+          "category": "core_php",
+          "php_sloc": 34,
+          "sha256": "8cdc5f8aff0b82b577de10d8798e06c58d67f93951aa061a27b755da9e811834"
+        },
+        {
+          "path": "lib/session.php",
+          "category": "core_php",
+          "php_sloc": 28,
+          "sha256": "d376d7415788831b9dd9c0335123015f6efd75904c0138061737a7a26be24d0f"
+        },
+        {
+          "path": "lib/template.php",
+          "category": "core_php",
+          "php_sloc": 26,
+          "sha256": "278266446f6105ab1b8f1065693a00906348dd9172b21feff00eb2bfac3fd1d5"
+        },
+        {
+          "path": "lib/translator.php",
+          "category": "core_php",
+          "php_sloc": 87,
+          "sha256": "8fd8e50ea1981c29b03da3150aff659dc39100fc9fbd3c1594a0c8fd657f497b"
+        },
+        {
+          "path": "locales/fr_FR/translations.php",
+          "category": "presentation_php",
+          "php_sloc": 169,
+          "sha256": "5aaa928d5e67d95c2bd70543288fadb30afa1fc1eeace05f54971bacb74b2a09"
+        },
+        {
+          "path": "models/base.php",
+          "category": "core_php",
+          "php_sloc": 40,
+          "sha256": "96c1bd69ec5d7e694216f035cf73e699baaa01366a2fe64b0199df48a6e7f8ae"
+        },
+        {
+          "path": "models/board.php",
+          "category": "core_php",
+          "php_sloc": 119,
+          "sha256": "4bb99bab4024b79a4a37e3837e0df0ae744cb7d5aebf9e97a477bc4ce30a7883"
+        },
+        {
+          "path": "models/config.php",
+          "category": "core_php",
+          "php_sloc": 72,
+          "sha256": "c33c96d5cbde2f3be7c5d39baefd7a0ec406018e9e3a3a4b73e46d7a77bc4f0c"
+        },
+        {
+          "path": "models/project.php",
+          "category": "core_php",
+          "php_sloc": 132,
+          "sha256": "c4bd50ddfe7f470ccb3852f53c073962711d228bb3f70d455371871b336b375b"
+        },
+        {
+          "path": "models/schema.php",
+          "category": "core_php",
+          "php_sloc": 62,
+          "sha256": "7d3af02738429c58374197db001185834a98c508b4af875b4c9edd50c4d83ad8"
+        },
+        {
+          "path": "models/task.php",
+          "category": "core_php",
+          "php_sloc": 152,
+          "sha256": "5840636c8f32014c6829a9c565866c43c33280c33fa1d7ba2eee40e3fd8577a8"
+        },
+        {
+          "path": "models/user.php",
+          "category": "core_php",
+          "php_sloc": 124,
+          "sha256": "ed693eb803712e454b46385d772477d1ccce48f5602b9489a27446e52f8b6350"
+        },
+        {
+          "path": "templates/board_edit.php",
+          "category": "presentation_php",
+          "php_sloc": 19,
+          "sha256": "c7f60154d70c976876d34509a2ff46deb6e9ab12ef6e59dde2d9ebb3b059957a"
+        },
+        {
+          "path": "templates/board_index.php",
+          "category": "presentation_php",
+          "php_sloc": 26,
+          "sha256": "317d231fc05aa5f03d9e4868d7a0fc85c63b55f5abc3f364b6bd7c22b62fa798"
+        },
+        {
+          "path": "templates/board_remove.php",
+          "category": "presentation_php",
+          "php_sloc": 5,
+          "sha256": "534c459b4046c1ae020047bb08da3608ab1b404bab3e3ed834b6f114ace3b8d1"
+        },
+        {
+          "path": "templates/config_index.php",
+          "category": "presentation_php",
+          "php_sloc": 21,
+          "sha256": "5c0f4e5f2b792af0a4dbeebc49d351aab05bbb2a79fa51b7f66c7acd2ec9711e"
+        },
+        {
+          "path": "templates/layout.php",
+          "category": "presentation_php",
+          "php_sloc": 18,
+          "sha256": "ab21fbdcba9ef5333eca134bbbfadbcf46598105cb5d024c7fb855c2e70cee25"
+        },
+        {
+          "path": "templates/project_edit.php",
+          "category": "presentation_php",
+          "php_sloc": 9,
+          "sha256": "689e73c3040c34985a04d14b6471b722fb37e57cfb8b28251264522dbe1af47a"
+        },
+        {
+          "path": "templates/project_index.php",
+          "category": "presentation_php",
+          "php_sloc": 33,
+          "sha256": "602fdbbfd870bcc8f2d0b80b1ab31a9356143548dac6b0b0cbf2ec12377815aa"
+        },
+        {
+          "path": "templates/project_new.php",
+          "category": "presentation_php",
+          "php_sloc": 6,
+          "sha256": "12c55f76bececb5c7e73c443b29f04b6cdfeaeabe0c337d52d1910a4694b0b0d"
+        },
+        {
+          "path": "templates/project_remove.php",
+          "category": "presentation_php",
+          "php_sloc": 4,
+          "sha256": "af6e2c9906ad2b463279f074a83fcd5690137fb75012e83044fc3cbaa71d6418"
+        },
+        {
+          "path": "templates/task_close.php",
+          "category": "presentation_php",
+          "php_sloc": 4,
+          "sha256": "92d20f92f170bfc05bac96d1ffe415748cf8bf18005ba80e0a977e66a62803fe"
+        },
+        {
+          "path": "templates/task_edit.php",
+          "category": "presentation_php",
+          "php_sloc": 17,
+          "sha256": "b9c41c6aa88727aec8573edbe40e19b96881d7b7bc231d8cf838a739509e79ab"
+        },
+        {
+          "path": "templates/task_new.php",
+          "category": "presentation_php",
+          "php_sloc": 16,
+          "sha256": "e0db38376cd4b7ed9fe6d52c75dfd410e4000df03c1605a0a3d82e39db8fdbb2"
+        },
+        {
+          "path": "templates/task_open.php",
+          "category": "presentation_php",
+          "php_sloc": 4,
+          "sha256": "eeac8f966507771d7fd03fccfc51c4b9b6098ba7b28a2319c8b030ddebc48f9d"
+        },
+        {
+          "path": "templates/task_show.php",
+          "category": "presentation_php",
+          "php_sloc": 27,
+          "sha256": "ca7cf6738880bdeb6a3d9c447e9aa04147b5c568c9abc35615ee0073c32d376b"
+        },
+        {
+          "path": "templates/user_edit.php",
+          "category": "presentation_php",
+          "php_sloc": 15,
+          "sha256": "8ca85a78d8c54484c1590c723d9e2012af9194dcc88bc0b4f0be84d17ed5d920"
+        },
+        {
+          "path": "templates/user_forbidden.php",
+          "category": "presentation_php",
+          "php_sloc": 2,
+          "sha256": "33b9120b7dc424e9d35aec5be39211b840f46b96475398664f554ec670713bdd"
+        },
+        {
+          "path": "templates/user_index.php",
+          "category": "presentation_php",
+          "php_sloc": 26,
+          "sha256": "856d39891e1155e2bcf4b41ba1fda3c7727901cd2d3d2d8b2371ebf54ad2a264"
+        },
+        {
+          "path": "templates/user_login.php",
+          "category": "presentation_php",
+          "php_sloc": 9,
+          "sha256": "b4beca3531e2b07def36f0f1faadffb9f253e467dc7de90bd962266a0825ce2c"
+        },
+        {
+          "path": "templates/user_new.php",
+          "category": "presentation_php",
+          "php_sloc": 13,
+          "sha256": "c1a625996cb86abba5b65a23d11f4035699b01aa14a9229707cf8aff728a1e83"
+        },
+        {
+          "path": "templates/user_remove.php",
+          "category": "presentation_php",
+          "php_sloc": 4,
+          "sha256": "e3e411e961be5c1ebac01fa5c65e9c88b0222a8a4f97d52bce4c31e3c4577b3e"
+        },
+        {
+          "path": "vendor/Parsedown/Parsedown.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 657,
+          "sha256": "a4ffd6da139030c0a5b0329bdd8357fce1774435834f8b31dea35c68c1a8e97a"
+        },
+        {
+          "path": "vendor/password.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 158,
+          "sha256": "021d82e3bbe71ed2617d2cc987bf576491b6e31df1964f4d3e64a7cfed5d3241"
+        },
+        {
+          "path": "vendor/PicoDb/Database.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 95,
+          "sha256": "1ad268cb71351bac0429724fc47928204df192a7b6660cb1c8c1e13640b3a04c"
+        },
+        {
+          "path": "vendor/PicoDb/Drivers/Sqlite.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 31,
+          "sha256": "699e666f54cb5e719118cd986017149afc416b283477b2f780b40b6274220ba6"
+        },
+        {
+          "path": "vendor/PicoDb/Schema.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 39,
+          "sha256": "0e290964ce84e2cd4a1de12f7311f146a5e9a985c6963ac8fe5eb3d8e33a3617"
+        },
+        {
+          "path": "vendor/PicoDb/Table.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 312,
+          "sha256": "a6678d92beb69cf2cba9f732b9a37d1a55339bd118530eca873f95ea1d7ea816"
+        },
+        {
+          "path": "vendor/SimpleValidator/Base.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 21,
+          "sha256": "bedf3f62c169ba3fbffe6cad3b34072b724f691cb6108dbd16b589e92feba26b"
+        },
+        {
+          "path": "vendor/SimpleValidator/Validator.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 37,
+          "sha256": "0cd074dd7b6ae4f4969bac4ecd11b76f5dfe97323a13779f2b2628311e093a69"
+        },
+        {
+          "path": "vendor/SimpleValidator/Validators/Alpha.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 14,
+          "sha256": "d9c49eb14d015ef85959869ea4e7c8a88b446d723fadbf63c04193922d5755a0"
+        },
+        {
+          "path": "vendor/SimpleValidator/Validators/AlphaNumeric.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 14,
+          "sha256": "aaa3b86886912dd2ca4780b31604190fd8632f7b5a3fe77e5ea361ffab411439"
+        },
+        {
+          "path": "vendor/SimpleValidator/Validators/Email.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 38,
+          "sha256": "56a969428e5589542651cd6dc9abdd3d62ebfce547842266865b9af3aae0b0e7"
+        },
+        {
+          "path": "vendor/SimpleValidator/Validators/Equals.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 19,
+          "sha256": "db474138dcc858e45d117e6fcaa83d7798d0601b5207dd440daf53f2c09b563c"
+        },
+        {
+          "path": "vendor/SimpleValidator/Validators/Integer.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 20,
+          "sha256": "36f726edba507a2eaaa04ea273b072e11d646a164b94ef1e00b5d24ac6d7039d"
+        },
+        {
+          "path": "vendor/SimpleValidator/Validators/Ip.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 14,
+          "sha256": "dc7f22af9b0d23a3719a82633a20de4e49528eb0f9aa1d8d910eb53027d15ac7"
+        },
+        {
+          "path": "vendor/SimpleValidator/Validators/Length.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 23,
+          "sha256": "705274de888521e99d14a693780b2cb7e3368321c95d5359ff496af929415c6c"
+        },
+        {
+          "path": "vendor/SimpleValidator/Validators/MacAddress.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 16,
+          "sha256": "c86f0706e7a0797766d1e3a093c43c457ea24dde89ee7e653dfa5476fced8a8c"
+        },
+        {
+          "path": "vendor/SimpleValidator/Validators/MaxLength.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 21,
+          "sha256": "a8c966e656c2e5e6848177a6be5865bc1691c00c4cd68cb45f37339fdd3790ec"
+        },
+        {
+          "path": "vendor/SimpleValidator/Validators/MinLength.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 21,
+          "sha256": "d07c15e4de1e51bea1a29f53aa95731654ffd3bd9713b59849ec68e3c5e5a8d3"
+        },
+        {
+          "path": "vendor/SimpleValidator/Validators/Numeric.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 14,
+          "sha256": "0dcd17d21dda88d1f1bf07a1e8651644a2eb30589d1b254642dd8a2933294df5"
+        },
+        {
+          "path": "vendor/SimpleValidator/Validators/Range.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 25,
+          "sha256": "4fdc549fc687619f246bc443f21ac33d09844cb12a5a9a7afbbb7c5af36e67ba"
+        },
+        {
+          "path": "vendor/SimpleValidator/Validators/Required.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 12,
+          "sha256": "a52b2a7aaec569f7e446607c6e751bedc60b505f5595adf8098c872a0eb95389"
+        },
+        {
+          "path": "vendor/SimpleValidator/Validators/Unique.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 45,
+          "sha256": "39cc6ba2b1a14be700e5bf38ef19ad0b59b9bcd7273883bc1b1296dcf051fbf4"
+        },
+        {
+          "path": "vendor/SimpleValidator/Validators/Version.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 13,
+          "sha256": "fd9a2deb2a6641f28dc1989822ce8741ed100dd146c363d9e2a1ce31a728ae13"
+        }
+      ]
+    },
+    "kiswa__TaskBoard": {
+      "production_php_sloc": 2353,
+      "production_plus_setup_sloc": 2846,
+      "totals": {
+        "core_php": 2353,
+        "excluded_test_vendor_example": 2261,
+        "setup_php": 493
+      },
+      "files": [
+        {
+          "path": "src/api/controllers/Activity.php",
+          "category": "core_php",
+          "php_sloc": 49,
+          "sha256": "4f4819372f8bc52d72be50c42a7b13e8fae92f12bb8f52d929364db5417d5821"
+        },
+        {
+          "path": "src/api/controllers/Attachments.php",
+          "category": "core_php",
+          "php_sloc": 162,
+          "sha256": "d586217e0b639143f3b8e3f7a71d061499e780bd3639d2daa1a098d36d01b143"
+        },
+        {
+          "path": "src/api/controllers/Auth.php",
+          "category": "core_php",
+          "php_sloc": 185,
+          "sha256": "5da1e20ebc1abb37d412e84dec7e68f3a0e7e743111f1d0c6d6dfbe54c4f10c9"
+        },
+        {
+          "path": "src/api/controllers/AutoActions.php",
+          "category": "core_php",
+          "php_sloc": 86,
+          "sha256": "79dc3d7e12243edb08cfe1eb6f964687055db72f6c6fb8da80bd0ca0e36670c2"
+        },
+        {
+          "path": "src/api/controllers/BaseController.php",
+          "category": "core_php",
+          "php_sloc": 80,
+          "sha256": "317be793bef0ff611ee5d04efc6bdaaafcf55f715e42cb8cb991c6fbff3a0a80"
+        },
+        {
+          "path": "src/api/controllers/Boards.php",
+          "category": "core_php",
+          "php_sloc": 181,
+          "sha256": "019c25321fcc0986ce88ae758b69bcb44a6cb78376ac2792558806d2f9aa0657"
+        },
+        {
+          "path": "src/api/controllers/Columns.php",
+          "category": "core_php",
+          "php_sloc": 115,
+          "sha256": "62b4168fa88212015793a842d4485d10a25f9182a0276abc7724378b5f2ea57d"
+        },
+        {
+          "path": "src/api/controllers/Comments.php",
+          "category": "core_php",
+          "php_sloc": 172,
+          "sha256": "4035abccee41cfb6efd609975652825ae3736ae4ae8075b1963d3555fac2a63c"
+        },
+        {
+          "path": "src/api/controllers/Dashboard.php",
+          "category": "core_php",
+          "php_sloc": 128,
+          "sha256": "246e90c04f0a3d798885a347c4bc8eac9ff7c582f6c558a1a8ae66185f8e700e"
+        },
+        {
+          "path": "src/api/controllers/Invalid.php",
+          "category": "core_php",
+          "php_sloc": 15,
+          "sha256": "9ce4774ddf7904823c2074b55e1237b0242148ad7285b9aa4c81a85c0ef72c28"
+        },
+        {
+          "path": "src/api/controllers/Tasks.php",
+          "category": "core_php",
+          "php_sloc": 311,
+          "sha256": "c6227f22998d9627097465f3fa1830565b22889dd4759438a5461d9f2525f100"
+        },
+        {
+          "path": "src/api/controllers/Users.php",
+          "category": "core_php",
+          "php_sloc": 360,
+          "sha256": "aaf6e3101274a93ff31fd0b7a331660c82fcddaf70eeb73d6dd18cd002366350"
+        },
+        {
+          "path": "src/api/helpers/ActionTrigger.php",
+          "category": "core_php",
+          "php_sloc": 7,
+          "sha256": "5c9c7ddbd202eef54754910aed7cf97b3912d60659193c56fb1ac56ab6294f28"
+        },
+        {
+          "path": "src/api/helpers/ActionType.php",
+          "category": "core_php",
+          "php_sloc": 10,
+          "sha256": "6a14c5b48158b15b7b008f4f485e9ff15032bcc6545b5267ed304080696b88c9"
+        },
+        {
+          "path": "src/api/helpers/ApiJson.php",
+          "category": "core_php",
+          "php_sloc": 17,
+          "sha256": "9366b672b6d3f70b79b45fb5c432aeb3966e189cf02fa9b0749c7f19e4eccb46"
+        },
+        {
+          "path": "src/api/helpers/BeanLoader.php",
+          "category": "core_php",
+          "php_sloc": 233,
+          "sha256": "d4e92466317db1c58bc50c11e3f5e8ca403d2c1dae187cb791a31e7736bfce1f"
+        },
+        {
+          "path": "src/api/helpers/DbLogger.php",
+          "category": "core_php",
+          "php_sloc": 15,
+          "sha256": "541e1d4dba4c1ebc768322ac31f152a022d174a2fd8d5bf02e3701e23e5e0082"
+        },
+        {
+          "path": "src/api/helpers/EmailData.php",
+          "category": "core_php",
+          "php_sloc": 32,
+          "sha256": "ffb603e2b42711dc8cf67e1d45fa6ab106e5c0360946a887fca389ce154e1238"
+        },
+        {
+          "path": "src/api/helpers/Mailer.php",
+          "category": "core_php",
+          "php_sloc": 110,
+          "sha256": "54d2e9224f1b6ba2ec7d9da64b24f2aeac54c98a8f596540d76926867684f28c"
+        },
+        {
+          "path": "src/api/helpers/SecurityLevel.php",
+          "category": "core_php",
+          "php_sloc": 7,
+          "sha256": "1357ed1f22bea2e92fcfc1626d7f651f31d73e64411e9919f573095b38323754"
+        },
+        {
+          "path": "src/api/index.php",
+          "category": "core_php",
+          "php_sloc": 78,
+          "sha256": "fcc58a2edd7839c3d8b4a2577b1231bf13804aa8ff8067f54b0582f959a93b68"
+        },
+        {
+          "path": "test/api/controllers/ActivityTest.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 75,
+          "sha256": "bb77452834ab3b61410e47f891beb0f5c5d096d97a86d583a565111ece225478"
+        },
+        {
+          "path": "test/api/controllers/AttachmentsTest.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 272,
+          "sha256": "80c77a500e0079345c43d848d614f503a0c83e79debf2d2c25540555e4cc1435"
+        },
+        {
+          "path": "test/api/controllers/AuthTest.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 170,
+          "sha256": "c7a9e399be41fb325fbfeae71958212a632e969cc32e2b255c4616d38f30ce71"
+        },
+        {
+          "path": "test/api/controllers/AutoActionsTest.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 150,
+          "sha256": "edb1a36862e47954d6f634b6c503b5eab533f38274c86ddf9bcfe8fc8b361a1d"
+        },
+        {
+          "path": "test/api/controllers/BoardsTest.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 265,
+          "sha256": "6a3bfe1ceff3df720e5e40cb64ef73cf2254119981c570b23a77af22b3504b45"
+        },
+        {
+          "path": "test/api/controllers/ColumnsTest.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 207,
+          "sha256": "88902a12b73d09d71213ba6a4147e890ccc8e9d77e423619ca6ededdc2f06146"
+        },
+        {
+          "path": "test/api/controllers/CommentsTest.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 235,
+          "sha256": "0610d4d48fbc0e951c85c5f37328e829e4b544380d12e4de5ad083ee5e4ee31a"
+        },
+        {
+          "path": "test/api/controllers/InvalidTest.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 18,
+          "sha256": "2d3f3c8db3d693a0c870be016ba581bff94db4f80ee52b88f2d228c8bfb3f124"
+        },
+        {
+          "path": "test/api/controllers/TasksTest.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 323,
+          "sha256": "f7f7e986e70bd20ff9fea9c1d926735352571bfe79035724971b09c5456d1586"
+        },
+        {
+          "path": "test/api/controllers/UsersTest.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 402,
+          "sha256": "5e1273d8552979cf9faa10c57545f6eb4e157cf5eb36d9696354cd60196ed51d"
+        },
+        {
+          "path": "test/api/Mocks.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 144,
+          "sha256": "2d71cc6744754d126816b755a8480ef42cff7e179fa19454ea518dd41195c165"
+        },
+        {
+          "path": "tools/tb-github-project.php",
+          "category": "setup_php",
+          "php_sloc": 202,
+          "sha256": "f3e98e50e8c823be2539c51946c306c9124691acbe11d6c798612f36394f90ce"
+        },
+        {
+          "path": "tools/tb-migrate.php",
+          "category": "setup_php",
+          "php_sloc": 291,
+          "sha256": "7b7ede90e94afaf25bc22169b14c966a85e5e35efb593912ec7aef2af1e38f17"
+        }
+      ]
+    },
+    "lgg-archive__tasks.php": {
+      "production_php_sloc": 684,
+      "production_plus_setup_sloc": 684,
+      "totals": {
+        "core_php": 536,
+        "excluded_scaffolding_debug": 22,
+        "presentation_php": 148
+      },
+      "files": [
+        {
+          "path": "action.php",
+          "category": "core_php",
+          "php_sloc": 254,
+          "sha256": "ead2d2d19d4a0fa5febde35d83f1f9080a85fd7b88a67530ebe33ce2137bece9"
+        },
+        {
+          "path": "core/core.php",
+          "category": "core_php",
+          "php_sloc": 15,
+          "sha256": "2400627b3569ca7757cbccdb0148b009be16b648e0fdaa95468f581202da504b"
+        },
+        {
+          "path": "core/data.php",
+          "category": "core_php",
+          "php_sloc": 11,
+          "sha256": "2c9b324e1c6f2a8bd63cd865400e1df8865191d570e0d46e4bfa528bf899cad1"
+        },
+        {
+          "path": "core/functions/auth.php",
+          "category": "core_php",
+          "php_sloc": 14,
+          "sha256": "ccd402288681be0e2a4e3fac3159385b899eb56bb89c14967ca17fecfe9bc10a"
+        },
+        {
+          "path": "core/functions/global.php",
+          "category": "core_php",
+          "php_sloc": 15,
+          "sha256": "1b0e0d6ffdee221282f3ab8fff1cf7d161df591e99bfdee5edd4a8e21862ef8a"
+        },
+        {
+          "path": "core/functions/index.php",
+          "category": "core_php",
+          "php_sloc": 1,
+          "sha256": "b49f26839370df38a566cf2eb52b605652ccfef5c8f1bb24e35e3aa497c67375"
+        },
+        {
+          "path": "core/functions/language.php",
+          "category": "core_php",
+          "php_sloc": 36,
+          "sha256": "391f6755466e5d328b86f3ee852d44eafb1a7fc3a0661541735513d9708949b5"
+        },
+        {
+          "path": "core/functions/web.php",
+          "category": "core_php",
+          "php_sloc": 50,
+          "sha256": "1362515b711692ca5a2aa65e1147381863494827fb5c409e7ff5b9187f6b8a74"
+        },
+        {
+          "path": "core/functions.php",
+          "category": "core_php",
+          "php_sloc": 4,
+          "sha256": "0e1b2ee0569fe868bedc999c643acdb4d7742ca3cc26ca6139612b1d068a62af"
+        },
+        {
+          "path": "core/index.php",
+          "category": "core_php",
+          "php_sloc": 1,
+          "sha256": "b49f26839370df38a566cf2eb52b605652ccfef5c8f1bb24e35e3aa497c67375"
+        },
+        {
+          "path": "debug.php",
+          "category": "excluded_scaffolding_debug",
+          "php_sloc": 19,
+          "sha256": "2387d760473a4bdc2d717ad44bcdc2e8246c4a30b748620a03db6d6b49027655"
+        },
+        {
+          "path": "index.php",
+          "category": "core_php",
+          "php_sloc": 8,
+          "sha256": "370da5efe868f5099a2137dc48b9859ddcea303e503e1d0d4bd71b4bb62ba43e"
+        },
+        {
+          "path": "lang/index.php",
+          "category": "presentation_php",
+          "php_sloc": 1,
+          "sha256": "b49f26839370df38a566cf2eb52b605652ccfef5c8f1bb24e35e3aa497c67375"
+        },
+        {
+          "path": "lang/language.en.php",
+          "category": "presentation_php",
+          "php_sloc": 62,
+          "sha256": "6e0e6f41221cfbfa7df7204a07671aa36eb24c43a94bbad4a9ca0add996c8000"
+        },
+        {
+          "path": "lang/language.ru.php",
+          "category": "presentation_php",
+          "php_sloc": 85,
+          "sha256": "0ee317e4089861b03bab425b359c14da0cc4e74a4858799d3577050aca7e49e5"
+        },
+        {
+          "path": "web/actions_closed.php",
+          "category": "core_php",
+          "php_sloc": 2,
+          "sha256": "46747c2ac6c49199f8bccb6f68506b00aea0107751d6430f9a57a4a4895054de"
+        },
+        {
+          "path": "web/actions_deleted.php",
+          "category": "core_php",
+          "php_sloc": 2,
+          "sha256": "e5f89e2ae4d06165e4fbb949f132c069ffd09cd61fa3500de67ca9489b3d50e2"
+        },
+        {
+          "path": "web/actions_open.php",
+          "category": "core_php",
+          "php_sloc": 3,
+          "sha256": "bf77ff55f21a26df35bec6adc652212294a452b67edec6307483b0ba4f733b1f"
+        },
+        {
+          "path": "web/body.php",
+          "category": "core_php",
+          "php_sloc": 11,
+          "sha256": "a5d4ee0364a11e17a6f92a0d9ba408562c8cdbe625ae3b4db7c29123fffd5f7e"
+        },
+        {
+          "path": "web/css/index.php",
+          "category": "core_php",
+          "php_sloc": 1,
+          "sha256": "b49f26839370df38a566cf2eb52b605652ccfef5c8f1bb24e35e3aa497c67375"
+        },
+        {
+          "path": "web/debug.php",
+          "category": "excluded_scaffolding_debug",
+          "php_sloc": 3,
+          "sha256": "ab370791d21fc0a6bd121c8707ae7a3d7336d1afe8e399940886af77edf5aef4"
+        },
+        {
+          "path": "web/footer.php",
+          "category": "core_php",
+          "php_sloc": 0,
+          "sha256": "bee3333e6ada1372584b833c85ecb2d44287d451559d52d7cb931e0423a2d495"
+        },
+        {
+          "path": "web/form_edit.php",
+          "category": "core_php",
+          "php_sloc": 18,
+          "sha256": "0c4cb382ec9c01b574ca8a8189d9ade58d23dc8d41a9f5d5f049bbd673585c53"
+        },
+        {
+          "path": "web/form_input.php",
+          "category": "core_php",
+          "php_sloc": 11,
+          "sha256": "676adaa9ae598f26625eb4d335d592fdde3a89a17eee2989581bd04fe60e77b3"
+        },
+        {
+          "path": "web/form_login.php",
+          "category": "core_php",
+          "php_sloc": 2,
+          "sha256": "2ca920a5ea2f3f29de24bcb4d65ff31e23bc4c62bf18b6aad104fb51acdaa181"
+        },
+        {
+          "path": "web/header.php",
+          "category": "core_php",
+          "php_sloc": 5,
+          "sha256": "9b3dcfb2b19b5f720aecd735bcaab9077b0fe1af0ddb0489c04bd78374e05862"
+        },
+        {
+          "path": "web/index.php",
+          "category": "core_php",
+          "php_sloc": 1,
+          "sha256": "b49f26839370df38a566cf2eb52b605652ccfef5c8f1bb24e35e3aa497c67375"
+        },
+        {
+          "path": "web/info.php",
+          "category": "core_php",
+          "php_sloc": 2,
+          "sha256": "0a976a2c7712fb703682e4eb0d1ee47d4036b0b1865702708f17e2e9a55922ca"
+        },
+        {
+          "path": "web/js/index.php",
+          "category": "core_php",
+          "php_sloc": 1,
+          "sha256": "b49f26839370df38a566cf2eb52b605652ccfef5c8f1bb24e35e3aa497c67375"
+        },
+        {
+          "path": "web/table_content.php",
+          "category": "core_php",
+          "php_sloc": 40,
+          "sha256": "59b4b8850da57d683f5216edf9c8b475141c0de14b4e91d8460a925d6cc86d21"
+        },
+        {
+          "path": "web/table_daystoclose.php",
+          "category": "core_php",
+          "php_sloc": 22,
+          "sha256": "137fcbafa908b16663a0bc319cd43ffcc64cc34eeb46eff078c85a4539b12cd0"
+        },
+        {
+          "path": "web/table_footer.php",
+          "category": "core_php",
+          "php_sloc": 0,
+          "sha256": "760aeaef3e7de0bd5cf06b7cd7ac207dd7388e759dc0e42f26a816581bba09fa"
+        },
+        {
+          "path": "web/table_head.php",
+          "category": "core_php",
+          "php_sloc": 5,
+          "sha256": "b4fd1c76b537836042ed34a90a4334b69acd8ba94d8556e903acced9c93b00a5"
+        },
+        {
+          "path": "web/table_notasks.php",
+          "category": "core_php",
+          "php_sloc": 1,
+          "sha256": "8c2c411eb66e5aadd3737080790e9d8fa1ecc57c6f4e93d4702e933b7b543027"
+        }
+      ]
+    },
+    "lodev09__php-todo": {
+      "production_php_sloc": 369,
+      "production_plus_setup_sloc": 369,
+      "totals": {
+        "core_php": 315,
+        "excluded_scaffolding_debug": 118,
+        "presentation_php": 54,
+        "excluded_test_vendor_example": 11
+      },
+      "files": [
+        {
+          "path": "config.php",
+          "category": "core_php",
+          "php_sloc": 10,
+          "sha256": "463f5849f24b9f2168c83c45130409cc9cfbb265c1288330cf088ec9e1df71bb"
+        },
+        {
+          "path": "const.php",
+          "category": "core_php",
+          "php_sloc": 55,
+          "sha256": "48508fdbb2da9226e6a23689aa7cf3165f8b9bab6ba0c80ad4c69ac7197d1515"
+        },
+        {
+          "path": "db.php",
+          "category": "core_php",
+          "php_sloc": 9,
+          "sha256": "e27eef9b8830a55df32e88f4eefaba76b6e1ae18dbe80e60a25d114464050e8a"
+        },
+        {
+          "path": "debug.php",
+          "category": "excluded_scaffolding_debug",
+          "php_sloc": 65,
+          "sha256": "c3fb9b9d6d00a06c691fb45ad6aba0d16a48be771b40081c3a29811a89465d90"
+        },
+        {
+          "path": "lib/app/App.php",
+          "category": "core_php",
+          "php_sloc": 35,
+          "sha256": "c18dd3dd50debf8874874f087784353fdb8b93cd5368380312dd7532fdc76388"
+        },
+        {
+          "path": "lib/func.php",
+          "category": "core_php",
+          "php_sloc": 33,
+          "sha256": "8b41f370d1b52275c6e17399d1a8222b51ef5a50e7102170ce4b5ec2e4470b43"
+        },
+        {
+          "path": "lib/models/_SomeTable.php",
+          "category": "excluded_scaffolding_debug",
+          "php_sloc": 7,
+          "sha256": "3f55d1f4ede9b3d480caafecf0604b0b22571c0f99dd50b2697e37b0b5610eb3"
+        },
+        {
+          "path": "lib/models/Task.php",
+          "category": "core_php",
+          "php_sloc": 38,
+          "sha256": "1d59de38f40dac0f1c5290da928b9676090ad9d672519ae3c2e1cea094cfafa9"
+        },
+        {
+          "path": "public/_config.php",
+          "category": "excluded_scaffolding_debug",
+          "php_sloc": 0,
+          "sha256": "3b83202b69c26155325ccd4b9cae502ed99d37e3e718b32b0b7e68ec3dddbd37"
+        },
+        {
+          "path": "public/_database.php",
+          "category": "excluded_scaffolding_debug",
+          "php_sloc": 15,
+          "sha256": "6a2437b905b0a2125878fd5c1dca0fae0c08086fb40261158dfacc2f048fe654"
+        },
+        {
+          "path": "public/_install.php",
+          "category": "excluded_scaffolding_debug",
+          "php_sloc": 16,
+          "sha256": "feae8a5b673f4f9d50c6778768ce87cd03c95382569b61c0320e429989418106"
+        },
+        {
+          "path": "public/_permissions.php",
+          "category": "excluded_scaffolding_debug",
+          "php_sloc": 15,
+          "sha256": "c396eb002228d76b67896a04c673c7103de27eba824cd886d9e11116b54f86ba"
+        },
+        {
+          "path": "public/ajax/index.php",
+          "category": "core_php",
+          "php_sloc": 20,
+          "sha256": "be93ed53b3f17e1f266e1bd89edaf165533fa588654a92242d6926f6c91c80be"
+        },
+        {
+          "path": "public/ajax/requests.php",
+          "category": "core_php",
+          "php_sloc": 38,
+          "sha256": "0539a7ae0ee44014a4b2e3846327960c6fcbcaf22ae257f03200942ae16e3d0d"
+        },
+        {
+          "path": "public/error.php",
+          "category": "core_php",
+          "php_sloc": 4,
+          "sha256": "55fc2c59ab8c68bc9e8be5ebbac3d033a2fdd2e408fe3ced28e8dd0ea048b0f7"
+        },
+        {
+          "path": "public/includes/_404.php",
+          "category": "presentation_php",
+          "php_sloc": 2,
+          "sha256": "7218f093ea13d70835bfb9500377a048fb3ceb0fa5711252b96a48600bcee627"
+        },
+        {
+          "path": "public/includes/_500.php",
+          "category": "presentation_php",
+          "php_sloc": 2,
+          "sha256": "4bb139b8feb2453ff15339f477bde1cae743ec81e2e6644b5531d0612eba4cd2"
+        },
+        {
+          "path": "public/includes/_503.php",
+          "category": "presentation_php",
+          "php_sloc": 2,
+          "sha256": "75e0c790781645c950cd920e68f0ffb5a5a761dbab91329289e1e448ab25ba7a"
+        },
+        {
+          "path": "public/includes/_head.php",
+          "category": "presentation_php",
+          "php_sloc": 32,
+          "sha256": "dccd34748ec81a16b72b7324d5dd3533aeb1a27b04fce6a721976b1d841e20ec"
+        },
+        {
+          "path": "public/includes/_js.php",
+          "category": "presentation_php",
+          "php_sloc": 16,
+          "sha256": "cca20f7139353a51d531570ed6fce111801d544570a7d783ec5d6d773518c460"
+        },
+        {
+          "path": "public/index.php",
+          "category": "core_php",
+          "php_sloc": 17,
+          "sha256": "8c93c630bd0eb93f1bf5dc46ef57dbe2ae57162a80a8c9f6b235697e01f9d708"
+        },
+        {
+          "path": "public/init.php",
+          "category": "core_php",
+          "php_sloc": 24,
+          "sha256": "e02adc15ce627739bb758ff2d7572dec21d86ecc25fc7ed2313ed31e7e5c37ab"
+        },
+        {
+          "path": "public/task.php",
+          "category": "core_php",
+          "php_sloc": 29,
+          "sha256": "a27e9168702ddd09500cafc6286ad555e4f0e5e9d29ce87a9d7a27ac160e9087"
+        },
+        {
+          "path": "root.php",
+          "category": "core_php",
+          "php_sloc": 3,
+          "sha256": "ecbf68c28d4d3ce9bdcaa83bd7c9da532f7b84cd70914c56e051faa84ec3b205"
+        },
+        {
+          "path": "test.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 11,
+          "sha256": "808701c991fb940cff06c7fef27ce7f8d0999e025dff77eb5c95cf7bcb339adf"
+        }
+      ]
+    },
+    "MarionForm__Tech2Teach-ExamSuite": {
+      "production_php_sloc": 615,
+      "production_plus_setup_sloc": 724,
+      "totals": {
+        "core_php": 521,
+        "presentation_php": 94,
+        "setup_php": 109
+      },
+      "files": [
+        {
+          "path": "app/config.php",
+          "category": "core_php",
+          "php_sloc": 11,
+          "sha256": "3d64557ae64d6ab3724ffb8c07e7aa706315006ef3a709bb9a26c7d60b7cf02f"
+        },
+        {
+          "path": "app/Controllers/ExamController.php",
+          "category": "core_php",
+          "php_sloc": 59,
+          "sha256": "1cbc2ff931b81eea4b7c1e3236e6f96a4633ab4e8209787a4f58c2ed68dd2f3c"
+        },
+        {
+          "path": "app/Controllers/HomeController.php",
+          "category": "core_php",
+          "php_sloc": 6,
+          "sha256": "667df4ca0fee9024f579e890f50b36b664bb31942958edef4b619d9e70227a8e"
+        },
+        {
+          "path": "app/Controllers/IntakeController.php",
+          "category": "core_php",
+          "php_sloc": 20,
+          "sha256": "e38ba8532d6338ae8df294f3092c25241afd6a3cef91cd9e95b53c6481db23f5"
+        },
+        {
+          "path": "app/Controllers/PackController.php",
+          "category": "core_php",
+          "php_sloc": 14,
+          "sha256": "58addfc5a4a69155ba4d3a16879ee1c00866f6b5e9c9d86a478f6e8cd54e3874"
+        },
+        {
+          "path": "app/db.php",
+          "category": "core_php",
+          "php_sloc": 10,
+          "sha256": "aa28335b57d43f6afdfba22acfbb4125f40b26c653069e80acf302dff21af80f"
+        },
+        {
+          "path": "app/helpers.php",
+          "category": "core_php",
+          "php_sloc": 26,
+          "sha256": "a6781b5b8eaeea28967ca33353e97f36fed033cf09960bb8e26df3bd2fd2ae91"
+        },
+        {
+          "path": "app/Models/Exam.php",
+          "category": "core_php",
+          "php_sloc": 64,
+          "sha256": "e9bfb9f7147523958a7ef7dde623d45581f796d03ed23199673e89e1543b10be"
+        },
+        {
+          "path": "app/Models/Intake.php",
+          "category": "core_php",
+          "php_sloc": 22,
+          "sha256": "0b03f6fc4cb9dbd4227e878594477441af57ce3ffaa4aad035b6fdd4ced636bf"
+        },
+        {
+          "path": "app/Models/Question.php",
+          "category": "core_php",
+          "php_sloc": 34,
+          "sha256": "6da431289bffd9c8936eb70b676aec50a4f6c8c4b32eeec8cc7d5c9379ab6f1a"
+        },
+        {
+          "path": "app/Router.php",
+          "category": "core_php",
+          "php_sloc": 17,
+          "sha256": "edf3bc3b6cde7a9249b8cbbaf027210e4feaeb34c7cbb1598209a7ccc6fc52b3"
+        },
+        {
+          "path": "app/Services/AnalyticsService.php",
+          "category": "core_php",
+          "php_sloc": 11,
+          "sha256": "e3d2701bc6c73507d6f8e990105f09969351f797b414f505877429e611de98f3"
+        },
+        {
+          "path": "app/Services/DidacticPackService.php",
+          "category": "core_php",
+          "php_sloc": 67,
+          "sha256": "6d3cedc3e40add89104ee4b24227f1336a1f522004aecd52107892f55bb05dfa"
+        },
+        {
+          "path": "app/Services/ExamGeneratorService.php",
+          "category": "core_php",
+          "php_sloc": 30,
+          "sha256": "d994635704c5412f5e26fe6d13f6b9e1c1d3d3e26f30bbe7c626da830c00323c"
+        },
+        {
+          "path": "app/Services/ExportService.php",
+          "category": "core_php",
+          "php_sloc": 72,
+          "sha256": "af27acb4f2610d3173d92447e6d75cfc89386a64d0bd148e8a650bcef9ebc9f3"
+        },
+        {
+          "path": "app/Services/QuestionBankService.php",
+          "category": "core_php",
+          "php_sloc": 27,
+          "sha256": "b361bdec26517831c2bb612c2f8626ef2c6d2e7dbdc0a05036b6ab55540f0609"
+        },
+        {
+          "path": "app/Views/exam_generate.php",
+          "category": "presentation_php",
+          "php_sloc": 4,
+          "sha256": "46faede149a0d8c75bc0fcd29bfd408f411fd13f0401ab77551924f2ff1dae44"
+        },
+        {
+          "path": "app/Views/exam_results.php",
+          "category": "presentation_php",
+          "php_sloc": 33,
+          "sha256": "f5648460de000609539b69fc5236edee37448fb72f4c1dc1cbccc5a876263b0e"
+        },
+        {
+          "path": "app/Views/exam_take.php",
+          "category": "presentation_php",
+          "php_sloc": 30,
+          "sha256": "e68e1b2f320374fb6c49bd5bb790a21abb8ffa0c790e46d4b46f61bb7d1a9d7c"
+        },
+        {
+          "path": "app/Views/home.php",
+          "category": "presentation_php",
+          "php_sloc": 0,
+          "sha256": "d3abd63bcacdf391a88bd464b43c16b3549ada61f98758c6a4904fb3553de8a3"
+        },
+        {
+          "path": "app/Views/intake_new.php",
+          "category": "presentation_php",
+          "php_sloc": 1,
+          "sha256": "3c7cfc5dd92d4296426208d55d789476dd96be70aa7c896066229d9e3a2308df"
+        },
+        {
+          "path": "app/Views/layout.php",
+          "category": "presentation_php",
+          "php_sloc": 1,
+          "sha256": "81c7ca3455eb59e925a3dd51c6667c7e8156e39f2188a933cf6aef40eacb64dc"
+        },
+        {
+          "path": "app/Views/pack_view.php",
+          "category": "presentation_php",
+          "php_sloc": 25,
+          "sha256": "5e36d232415745115aa88db1c4b1544997de3786dd7d9ceeef2587af265589ba"
+        },
+        {
+          "path": "public/index.php",
+          "category": "core_php",
+          "php_sloc": 31,
+          "sha256": "c15ca232f863fb067def582e25af6e9077d60060a7f7d992f39587d4ec6b6142"
+        },
+        {
+          "path": "scripts/init_db.php",
+          "category": "setup_php",
+          "php_sloc": 52,
+          "sha256": "83171449d333aa44307e6431c48a3087b7cf92c62c453c3b5d3c20d080b6c012"
+        },
+        {
+          "path": "scripts/seed_questions.php",
+          "category": "setup_php",
+          "php_sloc": 57,
+          "sha256": "857b782d15242e2d2d263238a4e3413a0f201fa9b895e368cb32ac956f6d0257"
+        }
+      ]
+    },
+    "Mohamedajab__transaction-ledger-api": {
+      "production_php_sloc": 230,
+      "production_plus_setup_sloc": 244,
+      "totals": {
+        "core_php": 230,
+        "setup_php": 14,
+        "excluded_test_vendor_example": 66
+      },
+      "files": [
+        {
+          "path": "public/index.php",
+          "category": "core_php",
+          "php_sloc": 54,
+          "sha256": "bc33fb6e4ea6e3a11cd33866ad1a2bf838091212932194ff1fc1cc801b690280"
+        },
+        {
+          "path": "scripts/init_db.php",
+          "category": "setup_php",
+          "php_sloc": 14,
+          "sha256": "b91b580af8674a2d5104f5b55b1ac31b6239ccc46400b3e7ea3cf0559af04cb8"
+        },
+        {
+          "path": "src/bootstrap.php",
+          "category": "core_php",
+          "php_sloc": 10,
+          "sha256": "238901dfb728c95ffebc3e34a2b5a17dae7c1336b61b664752312bf26e335f94"
+        },
+        {
+          "path": "src/Database.php",
+          "category": "core_php",
+          "php_sloc": 19,
+          "sha256": "ef29ff04f8b127f3ebd5afb7af71d577f66f760bc800edccb0b373dbbf945cb6"
+        },
+        {
+          "path": "src/DomainException.php",
+          "category": "core_php",
+          "php_sloc": 12,
+          "sha256": "c0f659d59ea7153d70cccd907b3d65c214848a392df81bee58e88b88bb387285"
+        },
+        {
+          "path": "src/TransferService.php",
+          "category": "core_php",
+          "php_sloc": 135,
+          "sha256": "37f6724f7df0579b3b2e7aff6f9a19dcf3dee46220674a0d61706b8b96a925d9"
+        },
+        {
+          "path": "tests/run.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 66,
+          "sha256": "37936286710c47d0ef0554c7a23e4350855da2cac1622d7058ce997d54b413f3"
+        }
+      ]
+    },
+    "PHPixie__Demo-Todo": {
+      "production_php_sloc": 382,
+      "production_plus_setup_sloc": 382,
+      "totals": {
+        "core_php": 332,
+        "presentation_php": 50
+      },
+      "files": [
+        {
+          "path": "assets/config/database.php",
+          "category": "core_php",
+          "php_sloc": 7,
+          "sha256": "533728c3c2d5fc8aff53012efea8cdafd320fce6386b797de6989b57d32680b0"
+        },
+        {
+          "path": "assets/config/http.php",
+          "category": "core_php",
+          "php_sloc": 27,
+          "sha256": "8f8671db8b7c87980d279948509bef3ab8921b6ee9ef577b6a50d07bade07d43"
+        },
+        {
+          "path": "bundles/app/assets/config/orm.php",
+          "category": "core_php",
+          "php_sloc": 12,
+          "sha256": "eed8153fb494514ccd1c0ecbe68c405a4a5e0b61bd851ff07cbb99c423c3e2c8"
+        },
+        {
+          "path": "bundles/app/assets/config/routeResolver.php",
+          "category": "core_php",
+          "php_sloc": 21,
+          "sha256": "1a2201211e85f85b14dc4cd91a8d7d67e70e0a6e08d96371a09de92eb939bff2"
+        },
+        {
+          "path": "bundles/app/assets/config/templateLocator.php",
+          "category": "core_php",
+          "php_sloc": 4,
+          "sha256": "79ee867bf6a12114b952b27d4c4b310121e664ab26b749de3d61240564cce4f2"
+        },
+        {
+          "path": "bundles/app/assets/templates/layout.php",
+          "category": "presentation_php",
+          "php_sloc": 2,
+          "sha256": "1d52efa0758e1b0c115182a9a4c01c4f3cb0d1e3f622e95c885877de95d7ebfb"
+        },
+        {
+          "path": "bundles/app/assets/templates/project/list.php",
+          "category": "presentation_php",
+          "php_sloc": 19,
+          "sha256": "d7cb24b600cfa188e5b693fc0508fbb04f70f7cc779c71d639e9fc8d1c536f6a"
+        },
+        {
+          "path": "bundles/app/assets/templates/project/view.php",
+          "category": "presentation_php",
+          "php_sloc": 29,
+          "sha256": "3f5471d0e5df05bbac9064a9e8115d45f926bd1b12434bb64e02271df65c9126"
+        },
+        {
+          "path": "bundles/app/src/Project/App/Builder.php",
+          "category": "core_php",
+          "php_sloc": 30,
+          "sha256": "13e5665427601537924615b31d25566a5339f29d5af8b6c37ceab0e28aac37bc"
+        },
+        {
+          "path": "bundles/app/src/Project/App/HTTPProcessor.php",
+          "category": "core_php",
+          "php_sloc": 22,
+          "sha256": "74a4564eaa3f1804d2abd284240d3009a1342a8eea0384e8db0abddc0be492ab"
+        },
+        {
+          "path": "bundles/app/src/Project/App/HTTPProcessors/Tracker/Project.php",
+          "category": "core_php",
+          "php_sloc": 36,
+          "sha256": "4b8f15d5a14620f984298c89334576ec4d6e383ba00d6ffb24abfd82932ea524"
+        },
+        {
+          "path": "bundles/app/src/Project/App/HTTPProcessors/Tracker/Task.php",
+          "category": "core_php",
+          "php_sloc": 33,
+          "sha256": "159a8bda43f8cb7998b0de27cc2ab6d810bc59724a8a810db0f3d5dec125a054"
+        },
+        {
+          "path": "bundles/app/src/Project/App/HTTPProcessors/Tracker.php",
+          "category": "core_php",
+          "php_sloc": 29,
+          "sha256": "6e138ab3fa4ee1c611ac871cf60ec8dd1fe80da29d096adf40efd9ecc1be95db"
+        },
+        {
+          "path": "bundles/app/src/Project/App/ORMWrappers/Project/Entity.php",
+          "category": "core_php",
+          "php_sloc": 8,
+          "sha256": "f604cdbc32100a195f432c1d54c4097319893c427097e0d2bfd9edbdc77e7c2f"
+        },
+        {
+          "path": "bundles/app/src/Project/App/ORMWrappers.php",
+          "category": "core_php",
+          "php_sloc": 11,
+          "sha256": "ee662ca8b58d3825559edf1def7339d884f22b955d9fa7eaa0a1ad65b4711a7f"
+        },
+        {
+          "path": "bundles/app/src/Project/App/Tracker.php",
+          "category": "core_php",
+          "php_sloc": 47,
+          "sha256": "959a214928753f0236021e1b2af08d35361e13281b4f53c84ed3d833b5400124"
+        },
+        {
+          "path": "bundles/app/src/Project/App.php",
+          "category": "core_php",
+          "php_sloc": 8,
+          "sha256": "4d7aecdb5a9a00884a5bc12a3ef255a9f917e2d21b40178cff0c7862915d17c0"
+        },
+        {
+          "path": "src/Project/Framework/Builder.php",
+          "category": "core_php",
+          "php_sloc": 12,
+          "sha256": "0c9877f8f5b73d185913a6dfd4d9b821205a06e61397de01ae99a65af01e295b"
+        },
+        {
+          "path": "src/Project/Framework/Bundles.php",
+          "category": "core_php",
+          "php_sloc": 14,
+          "sha256": "8d43cdb2da9a6e1d81d4b1508ad7d8234ceca45297619bc3f0a35d76c7e0bdb3"
+        },
+        {
+          "path": "src/Project/Framework.php",
+          "category": "core_php",
+          "php_sloc": 8,
+          "sha256": "bc0c50bb9a4b7cdcebf04abb25683cd2cb9d14d5d1cc2d54dbf213c88c6d49be"
+        },
+        {
+          "path": "web/index.php",
+          "category": "core_php",
+          "php_sloc": 3,
+          "sha256": "e449edd6d8dd0fe381684209cfc24e67cf75d9819a6771546dc5f10addb8334b"
+        }
+      ]
+    },
+    "PrivateBin__PrivateBin": {
+      "production_php_sloc": 3842,
+      "production_plus_setup_sloc": 4106,
+      "totals": {
+        "setup_php": 264,
+        "core_php": 3657,
+        "presentation_php": 185,
+        "excluded_test_vendor_example": 6733
+      },
+      "files": [
+        {
+          "path": "cfg/conf.sample.php",
+          "category": "setup_php",
+          "php_sloc": 264,
+          "sha256": "9c13d88d669ca32130d1584f226a78bc41f842d47cc87fc589478fcef0c6193d"
+        },
+        {
+          "path": "index.php",
+          "category": "core_php",
+          "php_sloc": 5,
+          "sha256": "cec741d36c684e06ce297fce222eeca301fa5733252f6036f3bcf43f67a7d9c3"
+        },
+        {
+          "path": "lib/Configuration.php",
+          "category": "core_php",
+          "php_sloc": 241,
+          "sha256": "8dd19ba3460d1f954fc121f5b44daaaf6ff48eb98a7a341b6098ede25b32fec8"
+        },
+        {
+          "path": "lib/Controller.php",
+          "category": "core_php",
+          "php_sloc": 355,
+          "sha256": "dfad58c65f597edbd622fbc5a4aa4e6b1ea654a14867da6bebaff21e34d31c4a"
+        },
+        {
+          "path": "lib/Data/AbstractData.php",
+          "category": "core_php",
+          "php_sloc": 56,
+          "sha256": "40e8745da3758857ae412e8636a2687007c6a42c298959f3bf32ac726a0360e6"
+        },
+        {
+          "path": "lib/Data/Database.php",
+          "category": "core_php",
+          "php_sloc": 606,
+          "sha256": "f9994ae26eee0e253e23da92b2b9bc8129da6ae23aacee6d0da34da9745e6eaf"
+        },
+        {
+          "path": "lib/Data/Filesystem.php",
+          "category": "core_php",
+          "php_sloc": 327,
+          "sha256": "f8103c1982d4226c043156ad8321222deaa28c63a4f542270be720424e968fba"
+        },
+        {
+          "path": "lib/Data/GoogleCloudStorage.php",
+          "category": "core_php",
+          "php_sloc": 253,
+          "sha256": "7106c99d49ef108ebe1febf40f014b2a913684932081d354c1f16e869c89d3d8"
+        },
+        {
+          "path": "lib/Data/S3Storage.php",
+          "category": "core_php",
+          "php_sloc": 302,
+          "sha256": "39fa5eb1205dda91db48a5d0d76783a5026bf4bd9b47956b7b982b1c4b4d2a9e"
+        },
+        {
+          "path": "lib/Exception/TranslatedException.php",
+          "category": "core_php",
+          "php_sloc": 12,
+          "sha256": "129386bfb7ceda0f010c2f9304ddecc41d124970d948d2896126225e6e7fdfc6"
+        },
+        {
+          "path": "lib/Filter.php",
+          "category": "core_php",
+          "php_sloc": 33,
+          "sha256": "ad20e289d2e1e74945a3c74192b18479cb3a907349ef0407fd5f9af082bc35c9"
+        },
+        {
+          "path": "lib/FormatV2.php",
+          "category": "core_php",
+          "php_sloc": 83,
+          "sha256": "aa85bb82d463aefb1c19f522ec1df8b2f44a302bf3c21d6d773847259d918800"
+        },
+        {
+          "path": "lib/I18n.php",
+          "category": "core_php",
+          "php_sloc": 287,
+          "sha256": "5825c458da140a871165cccb3cef001f5bc94d36a7b72b02966dd926af0fd538"
+        },
+        {
+          "path": "lib/Json.php",
+          "category": "core_php",
+          "php_sloc": 13,
+          "sha256": "350a6894a4c4f6023df849f72fbf52a186cf1b94cd6e6b90e8ba5ef956ba7f38"
+        },
+        {
+          "path": "lib/Model/AbstractModel.php",
+          "category": "core_php",
+          "php_sloc": 51,
+          "sha256": "554513802fc4bdf1fcabcafabf1aa448d6dde4db3c6ea17078e7ac54c4ff80bf"
+        },
+        {
+          "path": "lib/Model/Comment.php",
+          "category": "core_php",
+          "php_sloc": 99,
+          "sha256": "7b32ac1b2116e447705c60f019e66c9db53f4b5cf2e13e1594f20fa5b41f4ae1"
+        },
+        {
+          "path": "lib/Model/Paste.php",
+          "category": "core_php",
+          "php_sloc": 133,
+          "sha256": "d48362eae5a2dff84427aa3fa506e4e39c2a20bdfa73c91c973a60d804e8dc77"
+        },
+        {
+          "path": "lib/Model.php",
+          "category": "core_php",
+          "php_sloc": 37,
+          "sha256": "d533bfae3e9a25546615801bc7e591e350ba386c27082a34028ad0eaeadb2797"
+        },
+        {
+          "path": "lib/Persistence/AbstractPersistence.php",
+          "category": "core_php",
+          "php_sloc": 11,
+          "sha256": "278b2a19bc10cc63d4d0da8c1b0d32acd4a028d8c063deaaca866483ccead3ee"
+        },
+        {
+          "path": "lib/Persistence/PurgeLimiter.php",
+          "category": "core_php",
+          "php_sloc": 31,
+          "sha256": "f6a6a1e2aeeb7edfd8f686e11b0f3478e008d61531feb8ba4ac60ad4796d4e64"
+        },
+        {
+          "path": "lib/Persistence/ServerSalt.php",
+          "category": "core_php",
+          "php_sloc": 32,
+          "sha256": "a20880a95e38d4b3ad1285d2e525ba81681688f1817b87b8dd703ced6519450b"
+        },
+        {
+          "path": "lib/Persistence/TrafficLimiter.php",
+          "category": "core_php",
+          "php_sloc": 96,
+          "sha256": "96ad386c37b54c006ce636fc8b051b87f6b9558584952c4973ee154943b29d97"
+        },
+        {
+          "path": "lib/Proxy/AbstractProxy.php",
+          "category": "core_php",
+          "php_sloc": 80,
+          "sha256": "3ed6620e5ac03b0ae17b27c7918c9f49225188c7d4c0e79076c248beb9e9453c"
+        },
+        {
+          "path": "lib/Proxy/ChhotoProxy.php",
+          "category": "core_php",
+          "php_sloc": 44,
+          "sha256": "c184f799a6140faf83051e874624135a960cd4dde6bffcfcb05df262ebd5812f"
+        },
+        {
+          "path": "lib/Proxy/ShlinkProxy.php",
+          "category": "core_php",
+          "php_sloc": 34,
+          "sha256": "604192c2af51f9a44d5e106c0d1167cfa3986c8a765ae5f988d6b6e23a970558"
+        },
+        {
+          "path": "lib/Proxy/YourlsProxy.php",
+          "category": "core_php",
+          "php_sloc": 32,
+          "sha256": "f8c4396d0d58cf128b26ad09260df580d3f4ebdbd2e4160f69efb1ccd334e324"
+        },
+        {
+          "path": "lib/Request.php",
+          "category": "core_php",
+          "php_sloc": 192,
+          "sha256": "e7b79e3b64900a4ccbdf227eddf0e43f66803b6690f211eb32dd32856dfcbdda"
+        },
+        {
+          "path": "lib/TemplateSwitcher.php",
+          "category": "core_php",
+          "php_sloc": 44,
+          "sha256": "dcfaa90b446c0ea20da6aca1f456277711e811e336f9bc1768f8cf76ca5e63e6"
+        },
+        {
+          "path": "lib/View.php",
+          "category": "core_php",
+          "php_sloc": 51,
+          "sha256": "a95bd30461260f46377a1edd22cf75ddece15de9578de51db09fed9766d10553"
+        },
+        {
+          "path": "lib/Vizhash16x16.php",
+          "category": "core_php",
+          "php_sloc": 117,
+          "sha256": "14922f4606b87bc82f9b4031611e3b2cfd12ef4214add063afbe037e733cf136"
+        },
+        {
+          "path": "tpl/bootstrap5.php",
+          "category": "presentation_php",
+          "php_sloc": 176,
+          "sha256": "a2f08f2d195b310850c1feaa7abdc1355a1e2cc576f262345e4849a373665902"
+        },
+        {
+          "path": "tpl/shortenerproxy.php",
+          "category": "presentation_php",
+          "php_sloc": 9,
+          "sha256": "f66bce86b2cb87f8e696f723270679a893912f6216e1a4886b2fc7a9f4c6c7cf"
+        },
+        {
+          "path": "vendor/autoload.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 19,
+          "sha256": "2db4760980df7a77f92b0950ff8dc1297b0bb4c6dd754fa8522f83efbcd611c2"
+        },
+        {
+          "path": "vendor/composer/autoload_classmap.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 98,
+          "sha256": "c2cbcffffa86d3181c424988ba751a4cef2889b8ae84959ffd88190f189ce748"
+        },
+        {
+          "path": "vendor/composer/autoload_files.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 5,
+          "sha256": "e5c2e38a290aeb82445a5b74a0a814a27d13851ac3750d425ab85f2434568636"
+        },
+        {
+          "path": "vendor/composer/autoload_namespaces.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 4,
+          "sha256": "ede505407590638a435137f4e060136f1008de79fc169b3de9793423b0cea38c"
+        },
+        {
+          "path": "vendor/composer/autoload_psr4.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 9,
+          "sha256": "1032356d65a0ec9092f7df407bcd1280e64964226d64ccfda8356ca33d09be5f"
+        },
+        {
+          "path": "vendor/composer/autoload_real.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 34,
+          "sha256": "816b03460b5114bacc8c49861ae3e7b583fc40a53638d59291d8212aff961a8d"
+        },
+        {
+          "path": "vendor/composer/autoload_static.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 152,
+          "sha256": "f4f88aa3c1bb1274b59cc9abe478dcc5435e903d4f66757b19c2c64ef09ab1ce"
+        },
+        {
+          "path": "vendor/composer/ClassLoader.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 283,
+          "sha256": "42b8c5525dbc133045f47f4275f017071c82144a34acb9396d955ca10729cb2e"
+        },
+        {
+          "path": "vendor/composer/installed.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 59,
+          "sha256": "4a2fe38e1b4ba5294d17e49438faa83933a9c0216666856f2379ad89b410daca"
+        },
+        {
+          "path": "vendor/composer/InstalledVersions.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 177,
+          "sha256": "21f4ba19e7859cb3f85b8b1680c970ee25d972546c1606dcae0e7e5f43f626f0"
+        },
+        {
+          "path": "vendor/composer/platform_check.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 20,
+          "sha256": "09bf21fd3d36cece041141c0d9bf37fdb4a5a8344cb4d6859b0e89a4bf585de0"
+        },
+        {
+          "path": "vendor/jdenticon/jdenticon/src/Canvas/Canvas.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 63,
+          "sha256": "1526c22e2389f210a460f93fb6bfc3f813871a571c4bb526980a87e3bb654b63"
+        },
+        {
+          "path": "vendor/jdenticon/jdenticon/src/Canvas/CanvasContext.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 220,
+          "sha256": "3ebf12dca2c8cd9cdcf5c89ed551263b69a89ce2aac72a8db2a3a4851e331e49"
+        },
+        {
+          "path": "vendor/jdenticon/jdenticon/src/Canvas/ColorUtils.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 116,
+          "sha256": "1e0a08cf897d565e0b367f0ecdc7b886bbad515354d2363723a362bb4bd3ec97"
+        },
+        {
+          "path": "vendor/jdenticon/jdenticon/src/Canvas/Matrix.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 64,
+          "sha256": "3c21cf30025732c013226ad2a9ef8e89ae136e160c77ef4b1de078a2e54d59cc"
+        },
+        {
+          "path": "vendor/jdenticon/jdenticon/src/Canvas/Png/PngBuffer.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 37,
+          "sha256": "d155b382f2b554a06c47a96403638f9972492de3f955f805016c1fe8ab3f36bd"
+        },
+        {
+          "path": "vendor/jdenticon/jdenticon/src/Canvas/Png/PngEncoder.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 132,
+          "sha256": "2c050bef11c090ab99398499c23278ff0dc842ef602a12f93bb4717b86f86937"
+        },
+        {
+          "path": "vendor/jdenticon/jdenticon/src/Canvas/Png/PngPalette.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 37,
+          "sha256": "67e3751e99526cc3abd7df91130243f443a43a7f8f6d7ac5c563093b26a2531d"
+        },
+        {
+          "path": "vendor/jdenticon/jdenticon/src/Canvas/Point.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 11,
+          "sha256": "b6fd4739ea936261055991f7165e59b96f54f28ff9d2244d8f4fd7e384aa8c68"
+        },
+        {
+          "path": "vendor/jdenticon/jdenticon/src/Canvas/Rasterization/Edge.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 35,
+          "sha256": "fe1e848773e1d50a51a6f008f091234f287d536fb37e3041834843f6d9eee1bc"
+        },
+        {
+          "path": "vendor/jdenticon/jdenticon/src/Canvas/Rasterization/EdgeIntersection.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 13,
+          "sha256": "7125bdbed866881649e6c86708da965f5f3c68583d4d2955796f29be1da11078"
+        },
+        {
+          "path": "vendor/jdenticon/jdenticon/src/Canvas/Rasterization/EdgeSuperSampleIntersection.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 11,
+          "sha256": "cdf19afe6a8e4bd3cef266e0f009d9d8be81bce8705d6578169be0301149e484"
+        },
+        {
+          "path": "vendor/jdenticon/jdenticon/src/Canvas/Rasterization/EdgeTable.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 99,
+          "sha256": "be192b6bb0c6ed648443a8659b1bbdb8198c1741a46b77a16e0c2ff61786e1fa"
+        },
+        {
+          "path": "vendor/jdenticon/jdenticon/src/Canvas/Rasterization/Layer.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 16,
+          "sha256": "e92a7fed7cc6199dc3ddaed1ec164a9d83818190b7823cb38c26cb37ccbde25c"
+        },
+        {
+          "path": "vendor/jdenticon/jdenticon/src/Canvas/Rasterization/LayerManager.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 95,
+          "sha256": "3902cef2699074eabe382a5c153cc091861ea59976b61dcca1283e649336ed59"
+        },
+        {
+          "path": "vendor/jdenticon/jdenticon/src/Canvas/Rasterization/Rasterizer.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 247,
+          "sha256": "05302e78cb5ddbe4cb7a1c56174625e04fef2b2c0b520ed5e87bc7c0b2b8bdb2"
+        },
+        {
+          "path": "vendor/jdenticon/jdenticon/src/Canvas/Rasterization/SuperSampleBuffer.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 126,
+          "sha256": "b68ef8462feda9bb66a7a037b02673e6ba4f895a91cd3c6af37cee9bd03dce30"
+        },
+        {
+          "path": "vendor/jdenticon/jdenticon/src/Canvas/Rasterization/SuperSampleRange.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 14,
+          "sha256": "71fa06956ce57f94210f5d8c1b803f681ce319fb5c9ddbb80cc3e4eabfa3f5a6"
+        },
+        {
+          "path": "vendor/jdenticon/jdenticon/src/Color.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 407,
+          "sha256": "158c681345bd4babaae3e0e9e0cad429e40d80fbc540c5621e13c4805c593bd6"
+        },
+        {
+          "path": "vendor/jdenticon/jdenticon/src/Identicon.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 244,
+          "sha256": "6c2a5777bd5488c33cabe15c29c2a3d8a6553ded3a53d903e418dbeb861d40d5"
+        },
+        {
+          "path": "vendor/jdenticon/jdenticon/src/IdenticonStyle.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 246,
+          "sha256": "6ec4ba9459eb539ce13487fccad621cd06c8411fac2f4b7cac9e604bb31ee898"
+        },
+        {
+          "path": "vendor/jdenticon/jdenticon/src/Rendering/AbstractRenderer.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 84,
+          "sha256": "d860838a33af09c44dd3143fa179c5cf0d47a47f545c47fb537573e7264c2a6b"
+        },
+        {
+          "path": "vendor/jdenticon/jdenticon/src/Rendering/ColorTheme.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 44,
+          "sha256": "99e31f5de2a9ad5b7f7028c353c93fa50e9f5d68641158988483e65e3cccfbdd"
+        },
+        {
+          "path": "vendor/jdenticon/jdenticon/src/Rendering/IconGenerator.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 158,
+          "sha256": "9964eeaab21da14929ebf69c4f81974a9c3ebde9dd05a69c77f02ec72af3f582"
+        },
+        {
+          "path": "vendor/jdenticon/jdenticon/src/Rendering/ImagickRenderer.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 145,
+          "sha256": "85f6ad4c663f0fadc713482df72b4fdfaf55535ffa62780cb34e9c1a6c9f7fd3"
+        },
+        {
+          "path": "vendor/jdenticon/jdenticon/src/Rendering/InternalPngRenderer.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 56,
+          "sha256": "6369d9a325687bd319f3a2c2df173ae39461e3437053dbe0ec52433904e34026"
+        },
+        {
+          "path": "vendor/jdenticon/jdenticon/src/Rendering/Point.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 15,
+          "sha256": "9b9b2a8cc29c6c0aafa49e1befdc1231d1c9ab5f8a18cb2b41ade48cca406573"
+        },
+        {
+          "path": "vendor/jdenticon/jdenticon/src/Rendering/Rectangle.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 15,
+          "sha256": "d0523d44337bba1df0f82be82a9cead4c4889cdf0b085c8b2087609968486c6c"
+        },
+        {
+          "path": "vendor/jdenticon/jdenticon/src/Rendering/RendererInterface.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 18,
+          "sha256": "25d8977ff251e74e3acdd6a13756ddf10654518ae718a6bfc217a8f09c2cef07"
+        },
+        {
+          "path": "vendor/jdenticon/jdenticon/src/Rendering/SvgPath.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 38,
+          "sha256": "bcc21e942304cacd05be78c4a798d2263f9869a7e830afa47aa5a38473eece80"
+        },
+        {
+          "path": "vendor/jdenticon/jdenticon/src/Rendering/SvgRenderer.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 65,
+          "sha256": "50a46d946f93d5c4cf46330fdf0c183ad1a44f21278b28c4c567dc2f647f82e2"
+        },
+        {
+          "path": "vendor/jdenticon/jdenticon/src/Rendering/Transform.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 30,
+          "sha256": "2cfde97130e43ec10ca23d9fd39048626d4d77d9e1263a20fe8e53692c367706"
+        },
+        {
+          "path": "vendor/jdenticon/jdenticon/src/Rendering/TriangleDirection.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 8,
+          "sha256": "88f727b910570d6b5a24414815dd0a87a9dd8276527eeff87fffa81789ba503a"
+        },
+        {
+          "path": "vendor/jdenticon/jdenticon/src/Shapes/Shape.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 20,
+          "sha256": "93f2189c04e2e2db06420293d6ad5c251cfcad72c0292eb0739c4ba9a18f15cf"
+        },
+        {
+          "path": "vendor/jdenticon/jdenticon/src/Shapes/ShapeCategory.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 22,
+          "sha256": "ee1b447aa0b29766f88c74184ea5610ed8d34391c79fed4384f9b4a118d5c4fa"
+        },
+        {
+          "path": "vendor/jdenticon/jdenticon/src/Shapes/ShapeDefinitions.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 173,
+          "sha256": "4e4f2a70c048d4e5acd4257640eb9b43f75f8d31f54205d26f6dd6175237265d"
+        },
+        {
+          "path": "vendor/mlocati/ip-lib/ip-lib.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 11,
+          "sha256": "365690610b1e8824a46fdda2217249b76dbf0fe466509c5b5264354ab5646f6b"
+        },
+        {
+          "path": "vendor/mlocati/ip-lib/src/Address/AddressInterface.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 22,
+          "sha256": "9b773d19de00daecd795b38fc2ecc9a2c5a3c8da0adc60fb7a2de9d3817dd0dc"
+        },
+        {
+          "path": "vendor/mlocati/ip-lib/src/Address/AssignedRange.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 70,
+          "sha256": "78e67476874f175f6da8ba51687f0e92f0cc0cca71359dd729dfb4f3641d156e"
+        },
+        {
+          "path": "vendor/mlocati/ip-lib/src/Address/IPv4.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 323,
+          "sha256": "9311ba98caeb97d40273a8110ca122f43c17870b2c66f88c215c4e096035b08c"
+        },
+        {
+          "path": "vendor/mlocati/ip-lib/src/Address/IPv6.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 388,
+          "sha256": "245f6e02cdef8735f2c63209bde1ce8f44e007dc1343a6ae26ab11ee787ebcf8"
+        },
+        {
+          "path": "vendor/mlocati/ip-lib/src/Address/Type.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 17,
+          "sha256": "d0cf433e92ea9be33ee263ff23ce2797322dd236a6fcd27ec6a66174cca6d886"
+        },
+        {
+          "path": "vendor/mlocati/ip-lib/src/Factory.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 172,
+          "sha256": "db648df2971a0f6ca79505f60f83266e2feb881671fe264667bd8501e4b9d35d"
+        },
+        {
+          "path": "vendor/mlocati/ip-lib/src/ParseStringFlag.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 10,
+          "sha256": "4e99c3bbca706e1443e48a43464b8bf5b1123888be3298bf8d993b1eab65ce4b"
+        },
+        {
+          "path": "vendor/mlocati/ip-lib/src/Range/AbstractRange.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 142,
+          "sha256": "0bb3f21d7016fe4da6f6b761ae40b3bf28984b78571b9d4bf4df3e7b166c5586"
+        },
+        {
+          "path": "vendor/mlocati/ip-lib/src/Range/Pattern.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 187,
+          "sha256": "43a8f4854667aa169e48174e113ecdd08b6240d593e820292a2da5376e531c0f"
+        },
+        {
+          "path": "vendor/mlocati/ip-lib/src/Range/RangeInterface.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 24,
+          "sha256": "eeea469ffc72c874e90453d1c3ba2b00519feda105b8fee3ecced727a017b2d7"
+        },
+        {
+          "path": "vendor/mlocati/ip-lib/src/Range/Single.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 106,
+          "sha256": "31343c095909eef8748a1358a7560c9141ed1c0b2f2d5e81a3de5a54dfbd77cf"
+        },
+        {
+          "path": "vendor/mlocati/ip-lib/src/Range/Subnet.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 190,
+          "sha256": "0fd5e0614c71a2f80fa0184ab91f020fc303682a4bc24c7e8546c9e366360432"
+        },
+        {
+          "path": "vendor/mlocati/ip-lib/src/Range/Type.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 53,
+          "sha256": "95de0238c90a17135131a05787edfbd0b60f9510d665501c5d9b73cbe51cffb5"
+        },
+        {
+          "path": "vendor/mlocati/ip-lib/src/Service/BinaryMath.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 141,
+          "sha256": "48c0105663c3c8319ab9ecbe0983469f50806ab79f97c848707dd7f062cf21ec"
+        },
+        {
+          "path": "vendor/mlocati/ip-lib/src/Service/NumberInChunks.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 162,
+          "sha256": "053c31b1d8d7a65a4ddcec95a58cdc54f353044f2e2684ed9dbc2535486c2663"
+        },
+        {
+          "path": "vendor/mlocati/ip-lib/src/Service/RangesFromBoundaryCalculator.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 84,
+          "sha256": "5b03af7633b87a72f57b25e873c003192783b613f0bed21846108e0981fcd922"
+        },
+        {
+          "path": "vendor/mlocati/ip-lib/src/Service/UnsignedIntegerMath.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 111,
+          "sha256": "88e6dc1af03a7e2b7364cb0c44b1234c9a57736ed05f1bc977dd762c0f82ddba"
+        },
+        {
+          "path": "vendor/symfony/polyfill-php80/bootstrap.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 28,
+          "sha256": "b4d02a09f7ff5a3bda455bcba0db48e110bcc0cb3aae554f9b1635aa792c757a"
+        },
+        {
+          "path": "vendor/symfony/polyfill-php80/Php80.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 81,
+          "sha256": "5cdd128a427eb331ad5130a446f6c4c29e067d6939c52b925864d9732d404d09"
+        },
+        {
+          "path": "vendor/symfony/polyfill-php80/PhpToken.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 57,
+          "sha256": "4e8f84679934f5192d6dd08eb8690f2140e117d3af71d6796a0a448c7aea4716"
+        },
+        {
+          "path": "vendor/symfony/polyfill-php80/Resources/stubs/Attribute.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 17,
+          "sha256": "b96077cafe5ef021c717cf4f51d92fa2912d531c41c83847692697cd45a0e151"
+        },
+        {
+          "path": "vendor/symfony/polyfill-php80/Resources/stubs/PhpToken.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 5,
+          "sha256": "62cf083e73550a887361c947e8a7d092c685cbc31a005d69d97e9a081e6d97d6"
+        },
+        {
+          "path": "vendor/symfony/polyfill-php80/Resources/stubs/Stringable.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 6,
+          "sha256": "6cb4ee568bc53f063ba4e1daf43c38a53abd8b5aac6850177e8c95d570b06145"
+        },
+        {
+          "path": "vendor/symfony/polyfill-php80/Resources/stubs/UnhandledMatchError.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 5,
+          "sha256": "dcd8925ef73d71c1f88115d557cf26f2a096d6b5c0518cba0f76efb386357a06"
+        },
+        {
+          "path": "vendor/symfony/polyfill-php80/Resources/stubs/ValueError.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 5,
+          "sha256": "1084235cf20c0eb437d4d9a15a4a88c00d1e1c793279d92fce6c5dc1a9bbe633"
+        },
+        {
+          "path": "vendor/yzalis/identicon/src/Identicon/Generator/BaseGenerator.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 110,
+          "sha256": "2e75edacbefca9ca912cc311368f296aa398d29aa6e0e1d574895005946af39e"
+        },
+        {
+          "path": "vendor/yzalis/identicon/src/Identicon/Generator/GdGenerator.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 55,
+          "sha256": "9fca2f9bf116f94cdda9f026455f49183b40e9062a10b6bff5e98aee256187f5"
+        },
+        {
+          "path": "vendor/yzalis/identicon/src/Identicon/Generator/GeneratorInterface.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 8,
+          "sha256": "4dd2636c2ac1b9751ec40620b606098cb284f539fc52c6f511d1e54b0b607ac8"
+        },
+        {
+          "path": "vendor/yzalis/identicon/src/Identicon/Generator/ImageMagickGenerator.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 59,
+          "sha256": "24269b926d5ef96b76870ef0766cd7e1c29a1e571066e5ca152c6b2f484c8655"
+        },
+        {
+          "path": "vendor/yzalis/identicon/src/Identicon/Generator/SvgGenerator.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 54,
+          "sha256": "1eb865faac2683831c8767cb5e7ad631da5d297d828d1ee59c8fe4d3771eb082"
+        },
+        {
+          "path": "vendor/yzalis/identicon/src/Identicon/Identicon.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 46,
+          "sha256": "56e88137dfe16898de836eb5c179160dc69f710f09783539161aa41778c74004"
+        }
+      ]
+    },
+    "PrivateBin__PrivateBin__0.22": {
+      "production_php_sloc": 1953,
+      "production_plus_setup_sloc": 1953,
+      "totals": {
+        "core_php": 1953,
+        "excluded_third_party": 441
+      },
+      "files": [
+        {
+          "path": "index.php",
+          "category": "core_php",
+          "php_sloc": 4,
+          "sha256": "27622e4d0b3d17417254119a5123e3aa32444f773042b6d0e9ed21adc06693ac"
+        },
+        {
+          "path": "lib/auto.php",
+          "category": "core_php",
+          "php_sloc": 12,
+          "sha256": "c7bf50663e9331e157d19abb047a3451ba970d815053a0ae31ebfba39fc14c12"
+        },
+        {
+          "path": "lib/configuration.php",
+          "category": "core_php",
+          "php_sloc": 168,
+          "sha256": "51228346028ae840f5ba5ee828299e707bb7e17a3546716dd9ee43e7a424cc22"
+        },
+        {
+          "path": "lib/filter.php",
+          "category": "core_php",
+          "php_sloc": 45,
+          "sha256": "8ad262b3720e2b440e5c56c7860accc2b27e025b073c197941198e7f7414c92b"
+        },
+        {
+          "path": "lib/i18n.php",
+          "category": "core_php",
+          "php_sloc": 201,
+          "sha256": "70a5f015aa3820b8e18c1e8c4f4df0b763cbd332780044e0eaeb181aecad461c"
+        },
+        {
+          "path": "lib/model/abstract.php",
+          "category": "core_php",
+          "php_sloc": 37,
+          "sha256": "9c962273fba436ccbb80d42fc4d64d2c1be92f36b598e985b1b62e04b353569d"
+        },
+        {
+          "path": "lib/model/comment.php",
+          "category": "core_php",
+          "php_sloc": 79,
+          "sha256": "47f33ef437088b8860a5f4e19da7600958360bfacabc5a90f4da7e2f22dc17b2"
+        },
+        {
+          "path": "lib/model/paste.php",
+          "category": "core_php",
+          "php_sloc": 148,
+          "sha256": "4efddb35a45e797ff0bdec3156ac9bd6103b207ce5c083cd26c2933d4db139bf"
+        },
+        {
+          "path": "lib/model.php",
+          "category": "core_php",
+          "php_sloc": 26,
+          "sha256": "1b2cbbb1292f7aed399f0d53a4e82cc207b75c8825642782156daeb2a67b1711"
+        },
+        {
+          "path": "lib/persistence.php",
+          "category": "core_php",
+          "php_sloc": 50,
+          "sha256": "07280d83980f32f402b412e5af7272a4cd5bb31fe9c7b27eefc66b4abb6f7c54"
+        },
+        {
+          "path": "lib/RainTPL.php",
+          "category": "excluded_third_party",
+          "php_sloc": 441,
+          "sha256": "ef0cf6c6b34d2062091f2fffcc741048cbaf92a4c064110086ee6309cb36b4e3"
+        },
+        {
+          "path": "lib/request.php",
+          "category": "core_php",
+          "php_sloc": 84,
+          "sha256": "19e638b2bdba8071855001b89f7242964a8b5f6f3f43dbbe65dcfafcdeb04d8d"
+        },
+        {
+          "path": "lib/serversalt.php",
+          "category": "core_php",
+          "php_sloc": 43,
+          "sha256": "816bdb629e3b99db75a6a3aa68f0f5a72a44c2b5e7126f2359b19843a234d265"
+        },
+        {
+          "path": "lib/sjcl.php",
+          "category": "core_php",
+          "php_sloc": 30,
+          "sha256": "9739d8990b2e48a0f3d71278f040c6a82f8a29eb2e65bdf8c94bab884ddb6ed3"
+        },
+        {
+          "path": "lib/trafficlimiter.php",
+          "category": "core_php",
+          "php_sloc": 65,
+          "sha256": "d50c8c9d61649df7c66a14ca2cb0a002db00b0c870e9ec1b80c40d995ef8a3f4"
+        },
+        {
+          "path": "lib/vizhash16x16.php",
+          "category": "core_php",
+          "php_sloc": 101,
+          "sha256": "4a417309fa0589236890d4b997fe0a4fee04aae7b67ba321877330114a53eb9b"
+        },
+        {
+          "path": "lib/zerobin/abstract.php",
+          "category": "core_php",
+          "php_sloc": 25,
+          "sha256": "e112aa9659301e58f0af8db44eb9c3542651877b1e0528fd35c18b0e86259c57"
+        },
+        {
+          "path": "lib/zerobin/data.php",
+          "category": "core_php",
+          "php_sloc": 119,
+          "sha256": "fd8a441d684d6d179b226ec64067bf88138b97b855694d9d6f4d072be496692f"
+        },
+        {
+          "path": "lib/zerobin/db.php",
+          "category": "core_php",
+          "php_sloc": 415,
+          "sha256": "9ed497f10025dc5bdd7e5d210d14f55c9d520bba2a4cfaee7c9ecf0543e6a7af"
+        },
+        {
+          "path": "lib/zerobin.php",
+          "category": "core_php",
+          "php_sloc": 301,
+          "sha256": "f6ae6f4bdbabfaf91dcf76277a2b0dcade023c7ff37f1175fdf5af075abfa705"
+        }
+      ]
+    },
+    "PrivateBin__PrivateBin__1.3.5": {
+      "production_php_sloc": 2720,
+      "production_plus_setup_sloc": 2869,
+      "totals": {
+        "setup_php": 149,
+        "core_php": 2391,
+        "presentation_php": 329,
+        "excluded_test_vendor_example": 1267
+      },
+      "files": [
+        {
+          "path": "cfg/conf.sample.php",
+          "category": "setup_php",
+          "php_sloc": 149,
+          "sha256": "d1aa48cb02641b1ca6c4a1aa2b6968cec2ba1e0fb7d13720ed425f12b31754db"
+        },
+        {
+          "path": "index.php",
+          "category": "core_php",
+          "php_sloc": 4,
+          "sha256": "b3df3f6193f0d8d391f4086c8fa63ad5704d32f4a9cec9912e13d0da17d1f0dd"
+        },
+        {
+          "path": "lib/Configuration.php",
+          "category": "core_php",
+          "php_sloc": 186,
+          "sha256": "2c617d5a5cd05dbdcd4646464ca9982c4b8de3cc70da0d8896b3d17665e20a8e"
+        },
+        {
+          "path": "lib/Controller.php",
+          "category": "core_php",
+          "php_sloc": 265,
+          "sha256": "b25a42f815b5942bc62fd79a9a6f6bb9fb030d415cdc08300f5daa6c7dcb8b17"
+        },
+        {
+          "path": "lib/Data/AbstractData.php",
+          "category": "core_php",
+          "php_sloc": 58,
+          "sha256": "8c196777a6ff289459dcb72cf6e06163dbbcd20fd5e5c5ab7924cc325635883c"
+        },
+        {
+          "path": "lib/Data/Database.php",
+          "category": "core_php",
+          "php_sloc": 497,
+          "sha256": "1b631738c31c8b2a76f8e50b243582c2eb36b761db90e99c2b53d249f3e17dab"
+        },
+        {
+          "path": "lib/Data/Filesystem.php",
+          "category": "core_php",
+          "php_sloc": 201,
+          "sha256": "eebc48773f514dbb707667f5a39e946481d2bb3f09449e98f09d43980a854ae8"
+        },
+        {
+          "path": "lib/Filter.php",
+          "category": "core_php",
+          "php_sloc": 32,
+          "sha256": "1cd07ec513a5c895ceb69e67ad18a1260fdfbb28f62e726c4aa306615c907ae6"
+        },
+        {
+          "path": "lib/FormatV2.php",
+          "category": "core_php",
+          "php_sloc": 70,
+          "sha256": "3d6398b85697adedf162d3a086d66d67dec74242995b613075536ff7e4343790"
+        },
+        {
+          "path": "lib/I18n.php",
+          "category": "core_php",
+          "php_sloc": 217,
+          "sha256": "466c19c297551c6813c68cb412dbcdaa329a90a4245ef3e610cb8008ae5d1f78"
+        },
+        {
+          "path": "lib/Json.php",
+          "category": "core_php",
+          "php_sloc": 30,
+          "sha256": "01f671e1f654d8af24e525afd9569c1ee0c73bcf8b08f8a96f60d9c98eea5202"
+        },
+        {
+          "path": "lib/Model/AbstractModel.php",
+          "category": "core_php",
+          "php_sloc": 49,
+          "sha256": "c663fde67d8caf7f84e53884627d9223c90225c97d164ac88466be99d3b75222"
+        },
+        {
+          "path": "lib/Model/Comment.php",
+          "category": "core_php",
+          "php_sloc": 92,
+          "sha256": "4a51183b0d1dc43e38d2ffacc7967f40eae5672c524f0830e236c903b5c9be60"
+        },
+        {
+          "path": "lib/Model/Paste.php",
+          "category": "core_php",
+          "php_sloc": 138,
+          "sha256": "b162d9458a151ded0bcec8ff963913528c6a2b86661c01f9e51fdf12ce33cbae"
+        },
+        {
+          "path": "lib/Model.php",
+          "category": "core_php",
+          "php_sloc": 37,
+          "sha256": "b5ab8ebbf6079ab8c59c8bd71e6a4e9e4232ba3780754440601d9b68a0fbfb1e"
+        },
+        {
+          "path": "lib/Persistence/AbstractPersistence.php",
+          "category": "core_php",
+          "php_sloc": 53,
+          "sha256": "480ba2eaa1acf19b500040479ca44257776b521d4d96e796f56b7e246643542a"
+        },
+        {
+          "path": "lib/Persistence/DataStore.php",
+          "category": "core_php",
+          "php_sloc": 42,
+          "sha256": "5fab28c90c719be5e9baf9016802d2212428318cdeb867474a3673992768c63d"
+        },
+        {
+          "path": "lib/Persistence/PurgeLimiter.php",
+          "category": "core_php",
+          "php_sloc": 33,
+          "sha256": "dd9c7ed4ecdc8c0752e94bdad464357da4c4dd72d31801f08bf4c5fbe5d513cf"
+        },
+        {
+          "path": "lib/Persistence/ServerSalt.php",
+          "category": "core_php",
+          "php_sloc": 39,
+          "sha256": "d03d99db1efb7c03993dd5e37baa2f1f24535ed7918a695b61ea4cb50308fd1c"
+        },
+        {
+          "path": "lib/Persistence/TrafficLimiter.php",
+          "category": "core_php",
+          "php_sloc": 58,
+          "sha256": "4702ebf5f7ffcd4374447128c04b55bb923563025b35b093a69e903dd77bbd9d"
+        },
+        {
+          "path": "lib/Request.php",
+          "category": "core_php",
+          "php_sloc": 159,
+          "sha256": "c720a0c106403aedb73ea0c44f6b64d9a7271a259501327ecf0e9e1fa8e89668"
+        },
+        {
+          "path": "lib/View.php",
+          "category": "core_php",
+          "php_sloc": 20,
+          "sha256": "5b32e6a7e0b76f0f7eca2910a27079dc5e767c6a5e1843af2d0aaf017d6a5b2d"
+        },
+        {
+          "path": "lib/Vizhash16x16.php",
+          "category": "core_php",
+          "php_sloc": 111,
+          "sha256": "b7e304f15f891c4b94a39373eb8af1903d4ad1e61a661d9dec59d13debf70657"
+        },
+        {
+          "path": "tpl/bootstrap.php",
+          "category": "presentation_php",
+          "php_sloc": 206,
+          "sha256": "145f49dfe6ff8fba5be017beaf7df2f660ce6e3f7141812c87807bdea61f9aad"
+        },
+        {
+          "path": "tpl/page.php",
+          "category": "presentation_php",
+          "php_sloc": 123,
+          "sha256": "94b2f7b1a6b14d2167d066e67755cb06b9108f3102ad6e67454764cd1f5b65ef"
+        },
+        {
+          "path": "vendor/autoload.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 2,
+          "sha256": "c3cb3cc9ccda74ed1ae413baae9f00662069e2f6625ff0e9815b5a132b8a7dcd"
+        },
+        {
+          "path": "vendor/composer/autoload_classmap.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 31,
+          "sha256": "eb34749f8288eab8358ad41e9af61a935ee191d3009f3a7f854e8719d747939f"
+        },
+        {
+          "path": "vendor/composer/autoload_files.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 5,
+          "sha256": "dda185e84aa1c0791eb8c460708e608a4afa9192fe95c306cb86e3c3d6444147"
+        },
+        {
+          "path": "vendor/composer/autoload_namespaces.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 4,
+          "sha256": "6d1b582b311799934568f00d45e01de7a04f8a1865a8a72c7841904ad4dac3a7"
+        },
+        {
+          "path": "vendor/composer/autoload_psr4.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 6,
+          "sha256": "8c21aa405841db37bdf0c5578d8d091e0ec5c05e6c90da819e9e5f99ed6d0fd9"
+        },
+        {
+          "path": "vendor/composer/autoload_real.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 54,
+          "sha256": "650355bc7c55761f3604a5c769d5e9e110d93778bf187d680c8f50feac532749"
+        },
+        {
+          "path": "vendor/composer/autoload_static.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 64,
+          "sha256": "f04f1a73c4f402c69c2a1740a5e009de5923dc1639346b912646d8d44a43f996"
+        },
+        {
+          "path": "vendor/composer/ClassLoader.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 252,
+          "sha256": "e4fc4d4487a4d766d3ef14606fa0d8ff09dd7f3f0885425803d7aa7fc68e2c3d"
+        },
+        {
+          "path": "vendor/paragonie/random_compat/lib/byte_safe_strings.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 97,
+          "sha256": "edce8e9304308c0507b8b25a9206f01e735a3e31ac74112bf637eb7f0895a1ee"
+        },
+        {
+          "path": "vendor/paragonie/random_compat/lib/cast_to_int.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 27,
+          "sha256": "753851ce994e5c7909321b5fad40e60d76e371e9b501835a282afe39855bb94b"
+        },
+        {
+          "path": "vendor/paragonie/random_compat/lib/error_polyfill.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 16,
+          "sha256": "9424402f72954d9d72f9ef5be4e653c11695d25d00df9d23dcaa18596d85ab18"
+        },
+        {
+          "path": "vendor/paragonie/random_compat/lib/random.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 108,
+          "sha256": "62be0f2c8fcbb33fe4e4d896d0b0ee1155f8aa2623a90cd6d1605c6ec88e89d9"
+        },
+        {
+          "path": "vendor/paragonie/random_compat/lib/random_bytes_com_dotnet.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 35,
+          "sha256": "c4029bdd1ce82dc8c757b340820e7acae5b96c51b78ffaed375ab3f826707ae7"
+        },
+        {
+          "path": "vendor/paragonie/random_compat/lib/random_bytes_dev_urandom.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 68,
+          "sha256": "157c3905e7622c780db91556ba61b582eb3b874befb9ccedb2a63bfb123e64f4"
+        },
+        {
+          "path": "vendor/paragonie/random_compat/lib/random_bytes_libsodium.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 36,
+          "sha256": "2c24bae1b6b9b5e48b7434c4f309d96365e76f76ee601c9edda0028603e9c304"
+        },
+        {
+          "path": "vendor/paragonie/random_compat/lib/random_bytes_libsodium_legacy.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 36,
+          "sha256": "6dd427ae33b6bddb5885336d7edc0e9fe1de5a3ddb87cf48e1c94064520c8a05"
+        },
+        {
+          "path": "vendor/paragonie/random_compat/lib/random_bytes_mcrypt.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 28,
+          "sha256": "2faf0e4663d5b181f7af03f9b63dfd446b772e6b17a8b41e3bf9fca4cc9afabf"
+        },
+        {
+          "path": "vendor/paragonie/random_compat/lib/random_int.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 60,
+          "sha256": "eaf4f60a6fc12a77db27323db33363aec2e4e574f2c2ecf504307a5214c01835"
+        },
+        {
+          "path": "vendor/paragonie/random_compat/phpunit-autoload.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 6,
+          "sha256": "981cd607670e5b517482ed090a8a5d9e3b481470524b30e92eb669b884cc66ba"
+        },
+        {
+          "path": "vendor/yzalis/identicon/src/Identicon/Generator/BaseGenerator.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 110,
+          "sha256": "2e75edacbefca9ca912cc311368f296aa398d29aa6e0e1d574895005946af39e"
+        },
+        {
+          "path": "vendor/yzalis/identicon/src/Identicon/Generator/GdGenerator.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 55,
+          "sha256": "9fca2f9bf116f94cdda9f026455f49183b40e9062a10b6bff5e98aee256187f5"
+        },
+        {
+          "path": "vendor/yzalis/identicon/src/Identicon/Generator/GeneratorInterface.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 8,
+          "sha256": "4dd2636c2ac1b9751ec40620b606098cb284f539fc52c6f511d1e54b0b607ac8"
+        },
+        {
+          "path": "vendor/yzalis/identicon/src/Identicon/Generator/ImageMagickGenerator.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 59,
+          "sha256": "24269b926d5ef96b76870ef0766cd7e1c29a1e571066e5ca152c6b2f484c8655"
+        },
+        {
+          "path": "vendor/yzalis/identicon/src/Identicon/Generator/SvgGenerator.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 54,
+          "sha256": "1eb865faac2683831c8767cb5e7ad631da5d297d828d1ee59c8fe4d3771eb082"
+        },
+        {
+          "path": "vendor/yzalis/identicon/src/Identicon/Identicon.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 46,
+          "sha256": "56e88137dfe16898de836eb5c179160dc69f710f09783539161aa41778c74004"
+        }
+      ]
+    },
+    "ronaldaug__sim-rest": {
+      "production_php_sloc": 492,
+      "production_plus_setup_sloc": 492,
+      "totals": {
+        "core_php": 492,
+        "presentation_php": 0
+      },
+      "files": [
+        {
+          "path": "App.php",
+          "category": "core_php",
+          "php_sloc": 17,
+          "sha256": "92f315cc3a8d8ce3cc45be802140eba1c443bcf2bcdb6a9bc8574eff16ba6501"
+        },
+        {
+          "path": "database/collections/cars.php",
+          "category": "core_php",
+          "php_sloc": 4,
+          "sha256": "b18512c01e26f4208bde54eef47ef8df866c0be07c01340a12af341e58d37839"
+        },
+        {
+          "path": "database/collections/posts.php",
+          "category": "core_php",
+          "php_sloc": 2,
+          "sha256": "cde5cacecb99cc827c25d44822d4ecb757fa6442140eb866c9d9ddb86d61f89a"
+        },
+        {
+          "path": "database/config.php",
+          "category": "core_php",
+          "php_sloc": 2,
+          "sha256": "0a5e0cb49e77c957a020e26e41b3fd14010702d12d4435338b324150096b012e"
+        },
+        {
+          "path": "elloquent/DB.php",
+          "category": "core_php",
+          "php_sloc": 6,
+          "sha256": "83d57796c019525c855af585bb77759b1c277131b7ecdcef254de974614e9ca9"
+        },
+        {
+          "path": "elloquent/Table.php",
+          "category": "core_php",
+          "php_sloc": 154,
+          "sha256": "c025937677487baeb6620fb787b54697f2a52162a4854bf4a967819569f03e28"
+        },
+        {
+          "path": "elloquent/Where.php",
+          "category": "core_php",
+          "php_sloc": 19,
+          "sha256": "f0059d3396602b2315d8dc4e7a4567739a4fabe011d3422e69999d302c3aaa40"
+        },
+        {
+          "path": "Helper.php",
+          "category": "core_php",
+          "php_sloc": 13,
+          "sha256": "39ea83e75b555e9515a48f53e8192423db2ab01119a50a94ca909cf16d52929e"
+        },
+        {
+          "path": "index.php",
+          "category": "core_php",
+          "php_sloc": 28,
+          "sha256": "78ae772a9ad403a7010817290728a2a71bb0d835187439a34b72296d62293744"
+        },
+        {
+          "path": "middleware/Auth.php",
+          "category": "core_php",
+          "php_sloc": 103,
+          "sha256": "297d3b3c055d9f41b16fedc19d211d9156b33687a97356f0010629717f4907b9"
+        },
+        {
+          "path": "Router.php",
+          "category": "core_php",
+          "php_sloc": 124,
+          "sha256": "8dcb75a3a3fa6abae436a1a0a628aaf45452df280e75e445a2607a71be219c27"
+        },
+        {
+          "path": "Session.php",
+          "category": "core_php",
+          "php_sloc": 20,
+          "sha256": "042a5910c69010a7a290d0f1970a73a0490aa85a948143aeb8c5f3ddb883ec6e"
+        },
+        {
+          "path": "views/404.php",
+          "category": "presentation_php",
+          "php_sloc": 0,
+          "sha256": "b69a6da45028357727c7ef69684d191960e6b15241c985c5e8ea578196dc3929"
+        },
+        {
+          "path": "views/about.php",
+          "category": "presentation_php",
+          "php_sloc": 0,
+          "sha256": "bac0966d824ab9f26ca469478704fec29ad5e0d298db8af91b38e47d90b1413f"
+        }
+      ]
+    },
+    "sebcode__b": {
+      "production_php_sloc": 392,
+      "production_plus_setup_sloc": 392,
+      "totals": {
+        "presentation_php": 13,
+        "core_php": 379,
+        "excluded_test_vendor_example": 19
+      },
+      "files": [
+        {
+          "path": "htdocs/bookmarklet.php",
+          "category": "presentation_php",
+          "php_sloc": 13,
+          "sha256": "99f2c910eb285be4a50ba54d157ceea12efa16aa1b6f8526c0bee673254dfd59"
+        },
+        {
+          "path": "htdocs/index.php",
+          "category": "core_php",
+          "php_sloc": 72,
+          "sha256": "805123b74988cba051ba05d207e432642e8a8365cb3a332b90eb651a9d1379e6"
+        },
+        {
+          "path": "src/BookmarkManager.php",
+          "category": "core_php",
+          "php_sloc": 200,
+          "sha256": "7250e5b5127dbdcbef3816bd8b869b32851e4471ba45de81c96e6d34211602a3"
+        },
+        {
+          "path": "src/DB.php",
+          "category": "core_php",
+          "php_sloc": 107,
+          "sha256": "dde9e7d205e1592d73a92e45162805f6f5a105724f82613c3658b4703fe156c2"
+        },
+        {
+          "path": "tests/BookmarkManagerTest.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 18,
+          "sha256": "f7119c68703dfa97decd64ba9deca0a8cdfbd7c71da96c6b2110f50f95cfeaf0"
+        },
+        {
+          "path": "tests/bootstrap.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 1,
+          "sha256": "cd2edfab2572289f9c6ad00330314f20b63782d81ecfbeb56c7bbb1754f1922b"
+        }
+      ]
+    },
+    "seikan__Cart": {
+      "production_php_sloc": 216,
+      "production_plus_setup_sloc": 216,
+      "totals": {
+        "core_php": 216,
+        "excluded_test_vendor_example": 147
+      },
+      "files": [
+        {
+          "path": "class.Cart.php",
+          "category": "core_php",
+          "php_sloc": 216,
+          "sha256": "376709288dfd744a4ca8d67c83bc388ba66b9dee84aa319a80184cbb0288e4b6"
+        },
+        {
+          "path": "example.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 147,
+          "sha256": "d6bdca92218673388fa104bd35ccf2ac379fb732c4a2c58be5f462febfc3b6c8"
+        }
+      ]
+    },
+    "sen-ltd__short-url": {
+      "production_php_sloc": 474,
+      "production_plus_setup_sloc": 474,
+      "totals": {
+        "core_php": 474,
+        "excluded_test_vendor_example": 370
+      },
+      "files": [
+        {
+          "path": "public/index.php",
+          "category": "core_php",
+          "php_sloc": 207,
+          "sha256": "303526ac8670619bfacde581882dfda2e650ab4a12f77ff6749136101592f928"
+        },
+        {
+          "path": "src/Base62.php",
+          "category": "core_php",
+          "php_sloc": 40,
+          "sha256": "f72248af390f33c2827be55fad30d04eca34191fd3d7fd635f27ce011e722911"
+        },
+        {
+          "path": "src/Database.php",
+          "category": "core_php",
+          "php_sloc": 41,
+          "sha256": "da1096de231838ca9c8a82da4310d53891e720d0af39547899d9966109d0b2fa"
+        },
+        {
+          "path": "src/LinkRepository.php",
+          "category": "core_php",
+          "php_sloc": 107,
+          "sha256": "0ec73ea5d2e00c5ad5e7c1a9c5e8fb00ff5a5e0dca263e7b584bc822cc6de0d2"
+        },
+        {
+          "path": "src/Middleware/JsonRequestLogger.php",
+          "category": "core_php",
+          "php_sloc": 34,
+          "sha256": "dfec7c3a7e66435ec2fdd82c216dd2ce6cf11c638c8f168253af519d2edf0027"
+        },
+        {
+          "path": "src/UrlValidator.php",
+          "category": "core_php",
+          "php_sloc": 39,
+          "sha256": "8c679b1960d0908b9d674e632a06e06285e684dfb2e17c21c30d2d7df1e3d16e"
+        },
+        {
+          "path": "src/ValidationException.php",
+          "category": "core_php",
+          "php_sloc": 6,
+          "sha256": "7b7411cca85ba4a28ccabcc24851352cbfef3bb20d791057767e4440d2a1ca9d"
+        },
+        {
+          "path": "tests/Base62Test.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 51,
+          "sha256": "a73efbd118b16bc83c53821e3d5a6b0e4c0550b8d9869f4a346ebe9af1127b7a"
+        },
+        {
+          "path": "tests/HttpTest.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 176,
+          "sha256": "12d0f77d8fca405c4bd6cbca583c02d40b5ae3822e03623f81891af8c62122c8"
+        },
+        {
+          "path": "tests/LinkRepositoryTest.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 79,
+          "sha256": "c2b744c21fd376f64dfeb1a07b4a99f11be19df14cd5775bacee63bd53b3e84c"
+        },
+        {
+          "path": "tests/UrlValidatorTest.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 64,
+          "sha256": "1ad0689b925b9933082077770a6d408fadd956bd13dc22f17a615726a9d84fcc"
+        }
+      ]
+    },
+    "simplonco__php-rest-sqlite": {
+      "production_php_sloc": 60,
+      "production_plus_setup_sloc": 60,
+      "totals": {
+        "core_php": 60
+      },
+      "files": [
+        {
+          "path": "index.php",
+          "category": "core_php",
+          "php_sloc": 60,
+          "sha256": "c6acf8612e04a72e9f15668b98f3f6f8b4540080caf7bc40b6f0624a4242a590"
+        }
+      ]
+    },
+    "TyMick__php-todo": {
+      "production_php_sloc": 73,
+      "production_plus_setup_sloc": 73,
+      "totals": {
+        "core_php": 73
+      },
+      "files": [
+        {
+          "path": "index.php",
+          "category": "core_php",
+          "php_sloc": 73,
+          "sha256": "44560fd78222ba17e97e0a646d555f6e071500cf8da6370c806e6cb9f05d41d3"
+        }
+      ]
+    },
+    "yui0__php-db-api": {
+      "production_php_sloc": 455,
+      "production_plus_setup_sloc": 455,
+      "totals": {
+        "core_php": 455,
+        "excluded_test_vendor_example": 448
+      },
+      "files": [
+        {
+          "path": "_router.php",
+          "category": "core_php",
+          "php_sloc": 9,
+          "sha256": "c67d04b9b95d66712e483b4fcaddbb8d354abdc1a7b2d09874dcd1827eb3b020"
+        },
+        {
+          "path": "api.php",
+          "category": "core_php",
+          "php_sloc": 431,
+          "sha256": "039c4e1412e9e5300f124b7af90398d3c10a9e3e689b99ba9c8b2b9c3ee168b1"
+        },
+        {
+          "path": "config.php",
+          "category": "core_php",
+          "php_sloc": 15,
+          "sha256": "dd3c0899b4902066ac6bb6ded9adb1baa7b44f3254e109607c3e77bbb8f8500b"
+        },
+        {
+          "path": "example/api.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 426,
+          "sha256": "4ef28da0969845136d21b63d4370cc9db9befa3ebd90b01b581cabbf554d3e65"
+        },
+        {
+          "path": "example/config.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 15,
+          "sha256": "95002a246c5388764b000c96685a10caa4abd11d7c420f5404593c9366dfa3c9"
+        },
+        {
+          "path": "example/logout.php",
+          "category": "excluded_test_vendor_example",
+          "php_sloc": 7,
+          "sha256": "65796f7202ba3e0b7b6756b922cfe02e3b3dfed2e956ca0cdf48bf5c0774f493"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+[
+  ".gitignore",
+  "LICENSE",
+  "README.md",
+  "assets/css/common.css",
+  "assets/css/icons.min.css",
+  "assets/css/spectre-dark.css",
+  "assets/css/spectre-light.css",
+  "assets/img/black_bg.png",
+  "assets/img/delete-icon.png",
+  "assets/img/white_bg.png",
+  "assets/js/cookie.js",
+  "favicon.ico",
+  "inc/bdd.php",
+  "inc/config.example.php",
+  "inc/footer.php",
+  "inc/header.php",
+  "index.php",
+  "installation.php",
+  "list.php",
+  "login.php",
+  "shorten.php"
+]

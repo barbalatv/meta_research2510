@@ -1,0 +1,55 @@
+{
+  "sari_runtime": {
+    "files": [
+      "app/config.php",
+      "app/api/products.php",
+      "app/api/sales.php",
+      "app/api/reports.php",
+      "app/api/export.php"
+    ]
+  },
+  "sari_runtime_init": {
+    "files": [
+      "app/config.php",
+      "app/api/products.php",
+      "app/api/sales.php",
+      "app/api/reports.php",
+      "app/api/export.php",
+      "app/init-database.php"
+    ]
+  },
+  "sari_maintenance": {"files": ["app/fix-sqlite.php"]},
+  "client_billing": {"include": ["public/**/*.php", "src/**/*.php"]},
+  "car_workshop": {"files": ["api.php", "config.php", "index.php", "admin.php"]},
+  "solara": {"include": ["public/**/*.php", "src/**/*.php", "bin/**/*.php"]},
+  "transaction_ledger": {"include": ["public/**/*.php", "src/**/*.php", "scripts/**/*.php"]},
+  "helpdesk": {"include": ["app/**/*.php", "public/**/*.php", "bin/**/*.php"]},
+  "lavagest": {"include": ["backend/public/**/*.php", "backend/rotas/**/*.php", "backend/src/**/*.php", "backend/bin/**/*.php"]},
+  "javier_03mvc": {
+    "include": ["Proyectos/03MVC/config/**/*.php", "Proyectos/03MVC/controllers/**/*.php", "Proyectos/03MVC/models/**/*.php", "Proyectos/03MVC/database/**/*.php", "Proyectos/03MVC/reports/*.php"],
+    "exclude": []
+  },
+  "joseph": {"include": ["public/**/*.php"]},
+  "coskun": {"include": ["lib/**/*.php", "public/**/*.php", "db/config/**/*.php"], "files": ["bootstrap.php", "public/index.php", "db/config/default.php", "lib/API/Application.php", "lib/API/Exception.php", "lib/API/Exception/ValidationException.php", "lib/API/Middleware/JSON.php", "lib/API/Middleware/TokenOverBasicAuth.php"]},
+  "grocery": {"include": ["app/**/*.php", "public/**/*.php", "bin/**/*.php"]},
+  "office_tracker": {"include": ["api/**/*.php", "assets/**/*.php", "*.php"]},
+  "turkiye": {"include": ["src/**/*.php", "public/**/*.php", "bin/**/*.php"]},
+  "vanilla": {"include": ["app/**/*.php", "public/**/*.php", "bin/**/*.php"]},
+  "task_tracker_pro": {"files": ["api.php"]},
+  "mahnoor": {"include": ["*.php"]},
+  "squirrel": {"include": ["public/**/*.php", "src/**/*.php", "*.php"]},
+  "tasky": {"include": ["config/**/*.php", "src/**/*.php", "*.php"]},
+  "chat": {"include": ["chatApplication/public/**/*.php", "chatApplication/src/**/*.php"]},
+  "message_board": {"include": ["*.php"]},
+  "rest_api_sample": {"include": ["lib/**/*.php", "public/**/*.php", "db/config/**/*.php", "*.php"]},
+  "farrel": {"include": ["public/**/*.php", "src/**/*.php"]},
+  "asilvafx": {"include": ["src/**/*.php", "*.php"]},
+  "arrestdb": {"files": ["index.php"]},
+  "yui0": {"files": ["api.php", "config.php", "_router.php"]},
+  "simple_crud": {"include": ["source/app/**/*.php", "source/public/**/*.php"]},
+  "nino": {"include": ["*.php"]},
+  "iasmin": {"files": ["db.php", "index.php", "seed.php"]},
+  "rricajos": {"include": ["src/**/*.php", "*.php"]},
+  "bilet": {"include": ["config/**/*.php", "public/**/*.php", "views/**/*.php"]},
+  "sari_all_first_party": {"include": ["app/**/*.php"]}
+}

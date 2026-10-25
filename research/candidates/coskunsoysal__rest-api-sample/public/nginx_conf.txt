@@ -1,0 +1,6 @@
+# nginx configuration
+location /rest-api-sample/public {
+        if (!-e $request_filename){
+        rewrite ^(.*)$ /rest-api-sample/public/index.php last;
+        }
+}		

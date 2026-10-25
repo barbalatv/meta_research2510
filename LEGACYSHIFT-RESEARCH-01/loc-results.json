@@ -1,0 +1,1664 @@
+{
+  "_method": {
+    "definition": "Physical lines inside PHP blocks with a non-whitespace, non-comment, non-HTML token; PHP open/close tags excluded.",
+    "lexer": "Pygments 2.21.0 PhpLexer(startinline=False)",
+    "candidate_code_executed": false
+  },
+  "sari_runtime": {
+    "repo": "x1n-Q__Sari-Sari-Store-System",
+    "root": "/home/user/legacyshift-research/candidates/x1n-Q__Sari-Sari-Store-System",
+    "files": [
+      {
+        "file": "app/api/export.php",
+        "loc": 226
+      },
+      {
+        "file": "app/api/products.php",
+        "loc": 190
+      },
+      {
+        "file": "app/api/reports.php",
+        "loc": 123
+      },
+      {
+        "file": "app/api/sales.php",
+        "loc": 241
+      },
+      {
+        "file": "app/config.php",
+        "loc": 42
+      }
+    ],
+    "total": 822
+  },
+  "sari_runtime_init": {
+    "repo": "x1n-Q__Sari-Sari-Store-System",
+    "root": "/home/user/legacyshift-research/candidates/x1n-Q__Sari-Sari-Store-System",
+    "files": [
+      {
+        "file": "app/api/export.php",
+        "loc": 226
+      },
+      {
+        "file": "app/api/products.php",
+        "loc": 190
+      },
+      {
+        "file": "app/api/reports.php",
+        "loc": 123
+      },
+      {
+        "file": "app/api/sales.php",
+        "loc": 241
+      },
+      {
+        "file": "app/config.php",
+        "loc": 42
+      },
+      {
+        "file": "app/init-database.php",
+        "loc": 133
+      }
+    ],
+    "total": 955
+  },
+  "sari_maintenance": {
+    "repo": "x1n-Q__Sari-Sari-Store-System",
+    "root": "/home/user/legacyshift-research/candidates/x1n-Q__Sari-Sari-Store-System",
+    "files": [
+      {
+        "file": "app/fix-sqlite.php",
+        "loc": 176
+      }
+    ],
+    "total": 176
+  },
+  "client_billing": {
+    "repo": "DEV-PHP-MAX__client-billing-manager",
+    "root": "/home/user/legacyshift-research/candidates/DEV-PHP-MAX__client-billing-manager",
+    "files": [
+      {
+        "file": "public/index.php",
+        "loc": 40
+      },
+      {
+        "file": "src/Database.php",
+        "loc": 93
+      },
+      {
+        "file": "src/Notifier.php",
+        "loc": 43
+      },
+      {
+        "file": "src/controllers/ClientController.php",
+        "loc": 109
+      },
+      {
+        "file": "src/controllers/DashboardController.php",
+        "loc": 35
+      },
+      {
+        "file": "src/controllers/InvoiceController.php",
+        "loc": 110
+      },
+      {
+        "file": "src/helpers.php",
+        "loc": 77
+      },
+      {
+        "file": "src/views/clients/form.php",
+        "loc": 6
+      },
+      {
+        "file": "src/views/clients/index.php",
+        "loc": 12
+      },
+      {
+        "file": "src/views/dashboard.php",
+        "loc": 17
+      },
+      {
+        "file": "src/views/invoices/form.php",
+        "loc": 6
+      },
+      {
+        "file": "src/views/invoices/index.php",
+        "loc": 21
+      },
+      {
+        "file": "src/views/layout.php",
+        "loc": 6
+      }
+    ],
+    "total": 575
+  },
+  "car_workshop": {
+    "repo": "tanjilaafsarirubina__car-workshop",
+    "root": "/home/user/legacyshift-research/candidates/tanjilaafsarirubina__car-workshop",
+    "files": [
+      {
+        "file": "admin.php",
+        "loc": 1
+      },
+      {
+        "file": "api.php",
+        "loc": 306
+      },
+      {
+        "file": "config.php",
+        "loc": 107
+      },
+      {
+        "file": "index.php",
+        "loc": 2
+      }
+    ],
+    "total": 416
+  },
+  "solara": {
+    "repo": "SolaraCZ__php-native-rest-api",
+    "root": "/home/user/legacyshift-research/candidates/SolaraCZ__php-native-rest-api",
+    "files": [
+      {
+        "file": "bin/migrate.php",
+        "loc": 13
+      },
+      {
+        "file": "public/index.php",
+        "loc": 20
+      },
+      {
+        "file": "src/Config/Database.php",
+        "loc": 29
+      },
+      {
+        "file": "src/Controllers/BaseController.php",
+        "loc": 33
+      },
+      {
+        "file": "src/Controllers/TaskController.php",
+        "loc": 134
+      },
+      {
+        "file": "src/Database/Migrator.php",
+        "loc": 23
+      },
+      {
+        "file": "src/Middleware/CorsMiddleware.php",
+        "loc": 16
+      },
+      {
+        "file": "src/Router/Router.php",
+        "loc": 69
+      },
+      {
+        "file": "src/Validation/TaskValidator.php",
+        "loc": 56
+      }
+    ],
+    "total": 393
+  },
+  "transaction_ledger": {
+    "repo": "Mohamedajab__transaction-ledger-api",
+    "root": "/home/user/legacyshift-research/candidates/Mohamedajab__transaction-ledger-api",
+    "files": [
+      {
+        "file": "public/index.php",
+        "loc": 54
+      },
+      {
+        "file": "scripts/init_db.php",
+        "loc": 14
+      },
+      {
+        "file": "src/Database.php",
+        "loc": 19
+      },
+      {
+        "file": "src/DomainException.php",
+        "loc": 12
+      },
+      {
+        "file": "src/TransferService.php",
+        "loc": 140
+      },
+      {
+        "file": "src/bootstrap.php",
+        "loc": 10
+      }
+    ],
+    "total": 249
+  },
+  "helpdesk": {
+    "repo": "MarionForm__HelpdeskPortablePHP",
+    "root": "/home/user/legacyshift-research/candidates/MarionForm__HelpdeskPortablePHP",
+    "files": [
+      {
+        "file": "app/auth.php",
+        "loc": 31
+      },
+      {
+        "file": "app/bootstrap.php",
+        "loc": 17
+      },
+      {
+        "file": "app/csrf.php",
+        "loc": 14
+      },
+      {
+        "file": "app/db.php",
+        "loc": 94
+      },
+      {
+        "file": "app/export.php",
+        "loc": 66
+      },
+      {
+        "file": "app/utils.php",
+        "loc": 25
+      },
+      {
+        "file": "app/views.php",
+        "loc": 43
+      },
+      {
+        "file": "bin/init.php",
+        "loc": 10
+      },
+      {
+        "file": "public/index.php",
+        "loc": 592
+      }
+    ],
+    "total": 892
+  },
+  "lavagest": {
+    "repo": "dmarck82__LavaGest",
+    "root": "/home/user/legacyshift-research/candidates/dmarck82__LavaGest",
+    "files": [
+      {
+        "file": "backend/bin/migrar.php",
+        "loc": 11
+      },
+      {
+        "file": "backend/public/index.php",
+        "loc": 5
+      },
+      {
+        "file": "backend/rotas/api.php",
+        "loc": 22
+      },
+      {
+        "file": "backend/rotas/autenticacao.php",
+        "loc": 11
+      },
+      {
+        "file": "backend/rotas/clientes.php",
+        "loc": 26
+      },
+      {
+        "file": "backend/rotas/usuarios.php",
+        "loc": 26
+      },
+      {
+        "file": "backend/rotas/veiculos.php",
+        "loc": 26
+      },
+      {
+        "file": "backend/src/Aplicacao.php",
+        "loc": 77
+      },
+      {
+        "file": "backend/src/Banco/Conexao.php",
+        "loc": 29
+      },
+      {
+        "file": "backend/src/Banco/InicializadorBanco.php",
+        "loc": 48
+      },
+      {
+        "file": "backend/src/Configuracao.php",
+        "loc": 21
+      },
+      {
+        "file": "backend/src/Contratos/ClienteRepositorioInterface.php",
+        "loc": 12
+      },
+      {
+        "file": "backend/src/Contratos/TokenRepositorioInterface.php",
+        "loc": 7
+      },
+      {
+        "file": "backend/src/Contratos/UsuarioRepositorioInterface.php",
+        "loc": 15
+      },
+      {
+        "file": "backend/src/Contratos/VeiculoRepositorioInterface.php",
+        "loc": 13
+      },
+      {
+        "file": "backend/src/Controladores/AutenticacaoControlador.php",
+        "loc": 28
+      },
+      {
+        "file": "backend/src/Controladores/ClienteControlador.php",
+        "loc": 62
+      },
+      {
+        "file": "backend/src/Controladores/UsuarioControlador.php",
+        "loc": 58
+      },
+      {
+        "file": "backend/src/Controladores/VeiculoControlador.php",
+        "loc": 61
+      },
+      {
+        "file": "backend/src/Excecoes/ClientePossuiVeiculosException.php",
+        "loc": 5
+      },
+      {
+        "file": "backend/src/Excecoes/ConflitoException.php",
+        "loc": 6
+      },
+      {
+        "file": "backend/src/Excecoes/CredenciaisInvalidasException.php",
+        "loc": 5
+      },
+      {
+        "file": "backend/src/Excecoes/EmailJaCadastradoException.php",
+        "loc": 5
+      },
+      {
+        "file": "backend/src/Excecoes/NaoAutorizadoException.php",
+        "loc": 6
+      },
+      {
+        "file": "backend/src/Excecoes/PlacaJaCadastradaException.php",
+        "loc": 5
+      },
+      {
+        "file": "backend/src/Excecoes/RecursoNaoEncontradoException.php",
+        "loc": 6
+      },
+      {
+        "file": "backend/src/Excecoes/TokenInvalidoException.php",
+        "loc": 5
+      },
+      {
+        "file": "backend/src/Excecoes/WhatsappJaCadastradoException.php",
+        "loc": 5
+      },
+      {
+        "file": "backend/src/Http/Campos.php",
+        "loc": 43
+      },
+      {
+        "file": "backend/src/Http/Requisicao.php",
+        "loc": 63
+      },
+      {
+        "file": "backend/src/Http/RespostaJson.php",
+        "loc": 31
+      },
+      {
+        "file": "backend/src/Http/Roteador.php",
+        "loc": 70
+      },
+      {
+        "file": "backend/src/Http/TratadorDeErros.php",
+        "loc": 30
+      },
+      {
+        "file": "backend/src/Modelos/Cliente.php",
+        "loc": 196
+      },
+      {
+        "file": "backend/src/Modelos/Usuario.php",
+        "loc": 138
+      },
+      {
+        "file": "backend/src/Modelos/Veiculo.php",
+        "loc": 145
+      },
+      {
+        "file": "backend/src/Repositorios/ClienteRepositorio.php",
+        "loc": 212
+      },
+      {
+        "file": "backend/src/Repositorios/TokenRepositorio.php",
+        "loc": 41
+      },
+      {
+        "file": "backend/src/Repositorios/UsuarioRepositorio.php",
+        "loc": 187
+      },
+      {
+        "file": "backend/src/Repositorios/VeiculoRepositorio.php",
+        "loc": 158
+      },
+      {
+        "file": "backend/src/Seguranca/Autenticador.php",
+        "loc": 22
+      },
+      {
+        "file": "backend/src/Servicos/AutenticacaoServico.php",
+        "loc": 45
+      },
+      {
+        "file": "backend/src/Servicos/ClienteServico.php",
+        "loc": 111
+      },
+      {
+        "file": "backend/src/Servicos/UsuarioServico.php",
+        "loc": 82
+      },
+      {
+        "file": "backend/src/Servicos/VeiculoServico.php",
+        "loc": 110
+      }
+    ],
+    "total": 2290
+  },
+  "javier_03mvc": {
+    "repo": "JavierQuinan__Listas",
+    "root": "/home/user/legacyshift-research/candidates/JavierQuinan__Listas",
+    "files": [
+      {
+        "file": "Proyectos/03MVC/config/config.php",
+        "loc": 49
+      },
+      {
+        "file": "Proyectos/03MVC/config/http.php",
+        "loc": 26
+      },
+      {
+        "file": "Proyectos/03MVC/controllers/clientes.controller.php",
+        "loc": 68
+      },
+      {
+        "file": "Proyectos/03MVC/controllers/factura.controller.php",
+        "loc": 85
+      },
+      {
+        "file": "Proyectos/03MVC/controllers/iva.controller.php",
+        "loc": 67
+      },
+      {
+        "file": "Proyectos/03MVC/controllers/productos.controller.php",
+        "loc": 69
+      },
+      {
+        "file": "Proyectos/03MVC/controllers/proveedores.controller.php",
+        "loc": 63
+      },
+      {
+        "file": "Proyectos/03MVC/controllers/unidadmedida.controller.php",
+        "loc": 61
+      },
+      {
+        "file": "Proyectos/03MVC/controllers/usuarios.controller.php",
+        "loc": 81
+      },
+      {
+        "file": "Proyectos/03MVC/database/create_local_admin.php",
+        "loc": 60
+      },
+      {
+        "file": "Proyectos/03MVC/database/init_db.php",
+        "loc": 61
+      },
+      {
+        "file": "Proyectos/03MVC/models/clientes.model.php",
+        "loc": 73
+      },
+      {
+        "file": "Proyectos/03MVC/models/factura.model.php",
+        "loc": 106
+      },
+      {
+        "file": "Proyectos/03MVC/models/iva.model.php",
+        "loc": 73
+      },
+      {
+        "file": "Proyectos/03MVC/models/productos.model.php",
+        "loc": 104
+      },
+      {
+        "file": "Proyectos/03MVC/models/proveedores.model.php",
+        "loc": 67
+      },
+      {
+        "file": "Proyectos/03MVC/models/unidadmedida.model.php",
+        "loc": 61
+      },
+      {
+        "file": "Proyectos/03MVC/models/usuarios.model.php",
+        "loc": 76
+      },
+      {
+        "file": "Proyectos/03MVC/reports/productos.report.php",
+        "loc": 74
+      }
+    ],
+    "total": 1324
+  },
+  "joseph": {
+    "repo": "josephfranca__Projeto-Integrador-2-semestre",
+    "root": "/home/user/legacyshift-research/candidates/josephfranca__Projeto-Integrador-2-semestre",
+    "files": [
+      {
+        "file": "public/Login_PI2/login.php",
+        "loc": 22
+      },
+      {
+        "file": "public/adcProdutos/adcionarProdutos.php",
+        "loc": 16
+      },
+      {
+        "file": "public/adcProdutos/adicionarCor.php",
+        "loc": 19
+      },
+      {
+        "file": "public/adcProdutos/buscarProduto.php",
+        "loc": 25
+      },
+      {
+        "file": "public/adcProdutos/editarProduto.php",
+        "loc": 43
+      },
+      {
+        "file": "public/adcProdutos/exibir_imagem.php",
+        "loc": 16
+      },
+      {
+        "file": "public/adcProdutos/inserirProdutos.php",
+        "loc": 33
+      },
+      {
+        "file": "public/adcProdutos/listarProdutos.php",
+        "loc": 20
+      },
+      {
+        "file": "public/adcProdutos/removerProduto.php",
+        "loc": 9
+      },
+      {
+        "file": "public/conexao/conexao.php",
+        "loc": 10
+      },
+      {
+        "file": "public/estoque/conexao.php",
+        "loc": 8
+      },
+      {
+        "file": "public/estoque/editarProduto.php",
+        "loc": 79
+      },
+      {
+        "file": "public/estoque/estoque.php",
+        "loc": 149
+      },
+      {
+        "file": "public/modulo_categoria/categoria.php",
+        "loc": 21
+      },
+      {
+        "file": "public/modulo_categoria/conexao.php",
+        "loc": 6
+      },
+      {
+        "file": "public/modulo_categoria/editar_categoria.php",
+        "loc": 13
+      },
+      {
+        "file": "public/modulo_categoria/excluir_categoria.php",
+        "loc": 12
+      },
+      {
+        "file": "public/modulo_categoria/salvar_categoria.php",
+        "loc": 18
+      },
+      {
+        "file": "public/pagCriarUsuario/cadastrarUsuario.php",
+        "loc": 28
+      },
+      {
+        "file": "public/pagCriarUsuario/criaUsuario.php",
+        "loc": 0
+      }
+    ],
+    "total": 547
+  },
+  "coskun": {
+    "repo": "coskunsoysal__rest-api-sample",
+    "root": "/home/user/legacyshift-research/candidates/coskunsoysal__rest-api-sample",
+    "files": [
+      {
+        "file": "bootstrap.php",
+        "loc": 16
+      },
+      {
+        "file": "db/config/default.php",
+        "loc": 15
+      },
+      {
+        "file": "lib/API/Application.php",
+        "loc": 57
+      },
+      {
+        "file": "lib/API/Exception.php",
+        "loc": 4
+      },
+      {
+        "file": "lib/API/Exception/ValidationException.php",
+        "loc": 14
+      },
+      {
+        "file": "lib/API/Middleware/JSON.php",
+        "loc": 35
+      },
+      {
+        "file": "lib/API/Middleware/TokenOverBasicAuth.php",
+        "loc": 76
+      },
+      {
+        "file": "public/index.php",
+        "loc": 108
+      }
+    ],
+    "total": 325
+  },
+  "grocery": {
+    "repo": "MarcoRuffati__grocery-broker",
+    "root": "/home/user/legacyshift-research/candidates/MarcoRuffati__grocery-broker",
+    "files": [
+      {
+        "file": "app/bootstrap.php",
+        "loc": 48
+      },
+      {
+        "file": "app/connectors.php",
+        "loc": 44
+      },
+      {
+        "file": "app/domain.php",
+        "loc": 103
+      },
+      {
+        "file": "app/imports.php",
+        "loc": 73
+      },
+      {
+        "file": "bin/backup.php",
+        "loc": 4
+      },
+      {
+        "file": "bin/demo.php",
+        "loc": 13
+      },
+      {
+        "file": "bin/sync.php",
+        "loc": 2
+      },
+      {
+        "file": "public/index.php",
+        "loc": 51
+      },
+      {
+        "file": "public/router.php",
+        "loc": 3
+      }
+    ],
+    "total": 341
+  },
+  "office_tracker": {
+    "repo": "cdominik__office-tracker",
+    "root": "/home/user/legacyshift-research/candidates/cdominik__office-tracker",
+    "files": [
+      {
+        "file": "admin.php",
+        "loc": 273
+      },
+      {
+        "file": "api/admin_update.php",
+        "loc": 83
+      },
+      {
+        "file": "api/desk_year.php",
+        "loc": 30
+      },
+      {
+        "file": "api/revision.php",
+        "loc": 7
+      },
+      {
+        "file": "api/save_batch_color.php",
+        "loc": 47
+      },
+      {
+        "file": "api/save_booking_cell.php",
+        "loc": 31
+      },
+      {
+        "file": "api/save_desk_cell.php",
+        "loc": 31
+      },
+      {
+        "file": "api/state.php",
+        "loc": 25
+      },
+      {
+        "file": "assets/icons.php",
+        "loc": 71
+      },
+      {
+        "file": "backup.php",
+        "loc": 18
+      },
+      {
+        "file": "config.php",
+        "loc": 466
+      },
+      {
+        "file": "index.php",
+        "loc": 472
+      },
+      {
+        "file": "login.php",
+        "loc": 60
+      }
+    ],
+    "total": 1614
+  },
+  "turkiye": {
+    "repo": "lupusoftco__turkiye-api",
+    "root": "/home/user/legacyshift-research/candidates/lupusoftco__turkiye-api",
+    "files": [
+      {
+        "file": "bin/api-key.php",
+        "loc": 44
+      },
+      {
+        "file": "bin/bootstrap.php",
+        "loc": 25
+      },
+      {
+        "file": "bin/fetch-rates.php",
+        "loc": 34
+      },
+      {
+        "file": "bin/setup.php",
+        "loc": 22
+      },
+      {
+        "file": "bin/stats.php",
+        "loc": 19
+      },
+      {
+        "file": "public/index.php",
+        "loc": 33
+      },
+      {
+        "file": "src/App.php",
+        "loc": 320
+      },
+      {
+        "file": "src/Config.php",
+        "loc": 75
+      },
+      {
+        "file": "src/Http/ApiException.php",
+        "loc": 62
+      },
+      {
+        "file": "src/Http/Request.php",
+        "loc": 204
+      },
+      {
+        "file": "src/Http/Response.php",
+        "loc": 75
+      },
+      {
+        "file": "src/Http/Router.php",
+        "loc": 62
+      },
+      {
+        "file": "src/Modules/Address/AddressController.php",
+        "loc": 121
+      },
+      {
+        "file": "src/Modules/Address/AddressImporter.php",
+        "loc": 79
+      },
+      {
+        "file": "src/Modules/Address/AddressRepository.php",
+        "loc": 150
+      },
+      {
+        "file": "src/Modules/Exchange/ExchangeController.php",
+        "loc": 160
+      },
+      {
+        "file": "src/Modules/Exchange/ExchangeService.php",
+        "loc": 216
+      },
+      {
+        "file": "src/Modules/Exchange/TcmbClient.php",
+        "loc": 110
+      },
+      {
+        "file": "src/Modules/Holidays/BusinessDays.php",
+        "loc": 97
+      },
+      {
+        "file": "src/Modules/Holidays/HolidayCalendar.php",
+        "loc": 240
+      },
+      {
+        "file": "src/Modules/Holidays/HolidayController.php",
+        "loc": 97
+      },
+      {
+        "file": "src/Modules/LinkPreview/LinkPreviewController.php",
+        "loc": 59
+      },
+      {
+        "file": "src/Modules/LinkPreview/MetadataExtractor.php",
+        "loc": 119
+      },
+      {
+        "file": "src/Modules/LinkPreview/SafeHttpClient.php",
+        "loc": 191
+      },
+      {
+        "file": "src/Modules/LinkPreview/UrlResolver.php",
+        "loc": 57
+      },
+      {
+        "file": "src/Modules/Qr/QrController.php",
+        "loc": 110
+      },
+      {
+        "file": "src/Modules/Text/NumberToWords.php",
+        "loc": 178
+      },
+      {
+        "file": "src/Modules/Text/Syllabifier.php",
+        "loc": 50
+      },
+      {
+        "file": "src/Modules/Text/TextController.php",
+        "loc": 83
+      },
+      {
+        "file": "src/Modules/Text/TurkishText.php",
+        "loc": 86
+      },
+      {
+        "file": "src/Modules/Validation/IbanData.php",
+        "loc": 68
+      },
+      {
+        "file": "src/Modules/Validation/ValidationController.php",
+        "loc": 88
+      },
+      {
+        "file": "src/Modules/Validation/Validators.php",
+        "loc": 204
+      },
+      {
+        "file": "src/Storage/ApiKeys.php",
+        "loc": 57
+      },
+      {
+        "file": "src/Storage/Cache.php",
+        "loc": 46
+      },
+      {
+        "file": "src/Storage/Database.php",
+        "loc": 140
+      },
+      {
+        "file": "src/Storage/RateLimiter.php",
+        "loc": 39
+      },
+      {
+        "file": "src/Storage/Usage.php",
+        "loc": 29
+      },
+      {
+        "file": "src/compat.php",
+        "loc": 32
+      }
+    ],
+    "total": 3881
+  },
+  "vanilla": {
+    "repo": "VanillaSaaS__vanillasaas-booking-tracker",
+    "root": "/home/user/legacyshift-research/candidates/VanillaSaaS__vanillasaas-booking-tracker",
+    "files": [
+      {
+        "file": "app/bootstrap.php",
+        "loc": 61
+      },
+      {
+        "file": "app/config.local.example.php",
+        "loc": 20
+      },
+      {
+        "file": "app/config.php",
+        "loc": 78
+      },
+      {
+        "file": "app/custom.php",
+        "loc": 19
+      },
+      {
+        "file": "app/custom/bookings.php",
+        "loc": 289
+      },
+      {
+        "file": "app/custom/demo.php",
+        "loc": 116
+      },
+      {
+        "file": "app/lib/auth.php",
+        "loc": 208
+      },
+      {
+        "file": "app/lib/csrf.php",
+        "loc": 64
+      },
+      {
+        "file": "app/lib/db.php",
+        "loc": 266
+      },
+      {
+        "file": "app/lib/errors.php",
+        "loc": 112
+      },
+      {
+        "file": "app/lib/helpers.php",
+        "loc": 282
+      },
+      {
+        "file": "app/lib/http.php",
+        "loc": 108
+      },
+      {
+        "file": "app/lib/mail.php",
+        "loc": 71
+      },
+      {
+        "file": "app/lib/password_reset.php",
+        "loc": 90
+      },
+      {
+        "file": "app/lib/session.php",
+        "loc": 127
+      },
+      {
+        "file": "app/lib/throttle.php",
+        "loc": 84
+      },
+      {
+        "file": "app/lib/validate.php",
+        "loc": 113
+      },
+      {
+        "file": "app/views/errors/error.php",
+        "loc": 11
+      },
+      {
+        "file": "app/views/layouts/app.php",
+        "loc": 57
+      },
+      {
+        "file": "app/views/layouts/auth.php",
+        "loc": 24
+      },
+      {
+        "file": "app/views/pages/appointment-edit.php",
+        "loc": 10
+      },
+      {
+        "file": "app/views/pages/appointments.php",
+        "loc": 16
+      },
+      {
+        "file": "app/views/pages/client-edit.php",
+        "loc": 15
+      },
+      {
+        "file": "app/views/pages/clients.php",
+        "loc": 16
+      },
+      {
+        "file": "app/views/pages/dashboard.php",
+        "loc": 20
+      },
+      {
+        "file": "app/views/pages/forgot-password.php",
+        "loc": 10
+      },
+      {
+        "file": "app/views/pages/home.php",
+        "loc": 11
+      },
+      {
+        "file": "app/views/pages/login.php",
+        "loc": 17
+      },
+      {
+        "file": "app/views/pages/register.php",
+        "loc": 21
+      },
+      {
+        "file": "app/views/pages/reset-password.php",
+        "loc": 20
+      },
+      {
+        "file": "app/views/pages/settings.php",
+        "loc": 36
+      },
+      {
+        "file": "app/views/partials/appointment-fields.php",
+        "loc": 37
+      },
+      {
+        "file": "app/views/partials/appointment-table.php",
+        "loc": 18
+      },
+      {
+        "file": "app/views/partials/client-fields.php",
+        "loc": 15
+      },
+      {
+        "file": "app/views/partials/demo-banner.php",
+        "loc": 12
+      },
+      {
+        "file": "app/views/partials/demo-button.php",
+        "loc": 8
+      },
+      {
+        "file": "app/views/partials/flash.php",
+        "loc": 11
+      },
+      {
+        "file": "bin/demo-reset.php",
+        "loc": 27
+      },
+      {
+        "file": "bin/install.php",
+        "loc": 58
+      },
+      {
+        "file": "public/404.php",
+        "loc": 16
+      },
+      {
+        "file": "public/appointment-edit.php",
+        "loc": 51
+      },
+      {
+        "file": "public/appointments.php",
+        "loc": 40
+      },
+      {
+        "file": "public/client-edit.php",
+        "loc": 41
+      },
+      {
+        "file": "public/clients.php",
+        "loc": 34
+      },
+      {
+        "file": "public/dashboard.php",
+        "loc": 36
+      },
+      {
+        "file": "public/demo-login.php",
+        "loc": 30
+      },
+      {
+        "file": "public/forgot-password.php",
+        "loc": 43
+      },
+      {
+        "file": "public/index.php",
+        "loc": 18
+      },
+      {
+        "file": "public/login.php",
+        "loc": 54
+      },
+      {
+        "file": "public/logout.php",
+        "loc": 18
+      },
+      {
+        "file": "public/register.php",
+        "loc": 54
+      },
+      {
+        "file": "public/reset-password.php",
+        "loc": 45
+      },
+      {
+        "file": "public/settings.php",
+        "loc": 122
+      }
+    ],
+    "total": 3180
+  },
+  "task_tracker_pro": {
+    "repo": "subirkathuria__Task-Tracker-Pro",
+    "root": "/home/user/legacyshift-research/candidates/subirkathuria__Task-Tracker-Pro",
+    "files": [
+      {
+        "file": "api.php",
+        "loc": 254
+      }
+    ],
+    "total": 254
+  },
+  "mahnoor": {
+    "repo": "MahnoorPortfolio__Inventory_Management_System",
+    "root": "/home/user/legacyshift-research/candidates/MahnoorPortfolio__Inventory_Management_System",
+    "files": [
+      {
+        "file": "api.php",
+        "loc": 60
+      },
+      {
+        "file": "database.php",
+        "loc": 7
+      },
+      {
+        "file": "edit.php",
+        "loc": 31
+      },
+      {
+        "file": "index.php",
+        "loc": 10
+      }
+    ],
+    "total": 108
+  },
+  "squirrel": {
+    "repo": "Squirrel1734__taskflow-php",
+    "root": "/home/user/legacyshift-research/candidates/Squirrel1734__taskflow-php",
+    "files": [
+      {
+        "file": "bootstrap.php",
+        "loc": 10
+      },
+      {
+        "file": "public/action.php",
+        "loc": 43
+      },
+      {
+        "file": "public/index.php",
+        "loc": 65
+      },
+      {
+        "file": "src/Database.php",
+        "loc": 34
+      },
+      {
+        "file": "src/TaskRepository.php",
+        "loc": 85
+      },
+      {
+        "file": "src/Validator.php",
+        "loc": 40
+      },
+      {
+        "file": "src/helpers.php",
+        "loc": 35
+      }
+    ],
+    "total": 312
+  },
+  "tasky": {
+    "repo": "Damianttje__Tasky",
+    "root": "/home/user/legacyshift-research/candidates/Damianttje__Tasky",
+    "files": [
+      {
+        "file": "config/config.php",
+        "loc": 3
+      },
+      {
+        "file": "index.php",
+        "loc": 62
+      },
+      {
+        "file": "src/controllers/AuthController.php",
+        "loc": 40
+      },
+      {
+        "file": "src/controllers/TodoController.php",
+        "loc": 52
+      },
+      {
+        "file": "src/database/Database.php",
+        "loc": 21
+      },
+      {
+        "file": "src/utils/functions.php",
+        "loc": 11
+      },
+      {
+        "file": "src/views/layout.php",
+        "loc": 20
+      },
+      {
+        "file": "src/views/login.php",
+        "loc": 0
+      },
+      {
+        "file": "src/views/register.php",
+        "loc": 0
+      },
+      {
+        "file": "src/views/todo_list.php",
+        "loc": 3
+      }
+    ],
+    "total": 212
+  },
+  "chat": {
+    "repo": "PonrajkumarRajendran__php_chatapplication",
+    "root": "/home/user/legacyshift-research/candidates/PonrajkumarRajendran__php_chatapplication",
+    "files": [
+      {
+        "file": "chatApplication/public/index.php",
+        "loc": 9
+      },
+      {
+        "file": "chatApplication/src/database/database.php",
+        "loc": 28
+      },
+      {
+        "file": "chatApplication/src/routes/messageController.php",
+        "loc": 123
+      },
+      {
+        "file": "chatApplication/src/validation/validation.php",
+        "loc": 10
+      }
+    ],
+    "total": 170
+  },
+  "message_board": {
+    "repo": "mas886__Simple-Message-Board",
+    "root": "/home/user/legacyshift-research/candidates/mas886__Simple-Message-Board",
+    "files": [
+      {
+        "file": "api.php",
+        "loc": 8
+      },
+      {
+        "file": "index.php",
+        "loc": 17
+      },
+      {
+        "file": "setup.php",
+        "loc": 13
+      }
+    ],
+    "total": 38
+  },
+  "farrel": {
+    "repo": "FarrelAD__Basic-PHP-RESTful-API",
+    "root": "/home/user/legacyshift-research/candidates/FarrelAD__Basic-PHP-RESTful-API",
+    "files": [
+      {
+        "file": "public/index.php",
+        "loc": 9
+      },
+      {
+        "file": "src/Config/Database.php",
+        "loc": 53
+      },
+      {
+        "file": "src/Controllers/UsersController.php",
+        "loc": 160
+      },
+      {
+        "file": "src/Models/User.php",
+        "loc": 161
+      },
+      {
+        "file": "src/Routes/api.php",
+        "loc": 61
+      },
+      {
+        "file": "src/Utils/Logger.php",
+        "loc": 15
+      },
+      {
+        "file": "src/Utils/Request.php",
+        "loc": 17
+      },
+      {
+        "file": "src/Utils/Response.php",
+        "loc": 14
+      }
+    ],
+    "total": 490
+  },
+  "asilvafx": {
+    "repo": "asilvafx__php-sqlite-crud",
+    "root": "/home/user/legacyshift-research/candidates/asilvafx__php-sqlite-crud",
+    "files": [
+      {
+        "file": "index.php",
+        "loc": 45
+      },
+      {
+        "file": "src/crud.php",
+        "loc": 83
+      },
+      {
+        "file": "src/db.service.php",
+        "loc": 18
+      }
+    ],
+    "total": 146
+  },
+  "arrestdb": {
+    "repo": "alixaxel__ArrestDB",
+    "root": "/home/user/legacyshift-research/candidates/alixaxel__ArrestDB",
+    "files": [
+      {
+        "file": "index.php",
+        "loc": 477
+      }
+    ],
+    "total": 477
+  },
+  "yui0": {
+    "repo": "yui0__php-db-api",
+    "root": "/home/user/legacyshift-research/candidates/yui0__php-db-api",
+    "files": [
+      {
+        "file": "_router.php",
+        "loc": 9
+      },
+      {
+        "file": "api.php",
+        "loc": 431
+      },
+      {
+        "file": "config.php",
+        "loc": 15
+      }
+    ],
+    "total": 455
+  },
+  "simple_crud": {
+    "repo": "Falcowoski__API_REST_PHP_SQLITE",
+    "root": "/home/user/legacyshift-research/candidates/Falcowoski__API_REST_PHP_SQLITE",
+    "files": [
+      {
+        "file": "source/app/Config.php",
+        "loc": 4
+      },
+      {
+        "file": "source/app/SQLiteConnection.php",
+        "loc": 10
+      },
+      {
+        "file": "source/app/SQLiteQuery.php",
+        "loc": 34
+      },
+      {
+        "file": "source/public/index.php",
+        "loc": 4
+      },
+      {
+        "file": "source/public/registros.php",
+        "loc": 61
+      }
+    ],
+    "total": 113
+  },
+  "nino": {
+    "repo": "NinoMiquelino__php-rest-api",
+    "root": "/home/user/legacyshift-research/candidates/NinoMiquelino__php-rest-api",
+    "files": [
+      {
+        "file": "BookController.php",
+        "loc": 65
+      },
+      {
+        "file": "Database.php",
+        "loc": 28
+      },
+      {
+        "file": "api.php",
+        "loc": 65
+      }
+    ],
+    "total": 158
+  },
+  "iasmin": {
+    "repo": "IasminRDS__api-produtos-php",
+    "root": "/home/user/legacyshift-research/candidates/IasminRDS__api-produtos-php",
+    "files": [
+      {
+        "file": "db.php",
+        "loc": 21
+      },
+      {
+        "file": "index.php",
+        "loc": 123
+      },
+      {
+        "file": "seed.php",
+        "loc": 20
+      }
+    ],
+    "total": 164
+  },
+  "rricajos": {
+    "repo": "rricajos__php-task-manager",
+    "root": "/home/user/legacyshift-research/candidates/rricajos__php-task-manager",
+    "files": [
+      {
+        "file": ".php-cs-fixer.php",
+        "loc": 17
+      },
+      {
+        "file": "api.php",
+        "loc": 192
+      },
+      {
+        "file": "app.php",
+        "loc": 28
+      },
+      {
+        "file": "src/ApiController.php",
+        "loc": 813
+      },
+      {
+        "file": "src/AppException.php",
+        "loc": 90
+      },
+      {
+        "file": "src/AuthService.php",
+        "loc": 462
+      },
+      {
+        "file": "src/AuthServiceInterface.php",
+        "loc": 57
+      },
+      {
+        "file": "src/CliApp.php",
+        "loc": 499
+      },
+      {
+        "file": "src/CorsMiddleware.php",
+        "loc": 87
+      },
+      {
+        "file": "src/Database.php",
+        "loc": 189
+      },
+      {
+        "file": "src/ExportService.php",
+        "loc": 407
+      },
+      {
+        "file": "src/JsonResponse.php",
+        "loc": 171
+      },
+      {
+        "file": "src/Middleware.php",
+        "loc": 110
+      },
+      {
+        "file": "src/RateLimiter.php",
+        "loc": 159
+      },
+      {
+        "file": "src/RecurrenceInterval.php",
+        "loc": 72
+      },
+      {
+        "file": "src/Router.php",
+        "loc": 196
+      },
+      {
+        "file": "src/TagRepository.php",
+        "loc": 319
+      },
+      {
+        "file": "src/Task.php",
+        "loc": 238
+      },
+      {
+        "file": "src/TaskRepository.php",
+        "loc": 620
+      },
+      {
+        "file": "src/TaskService.php",
+        "loc": 577
+      },
+      {
+        "file": "src/TaskServiceInterface.php",
+        "loc": 146
+      },
+      {
+        "file": "src/bootstrap.php",
+        "loc": 41
+      }
+    ],
+    "total": 5490
+  },
+  "bilet": {
+    "repo": "dogancanyildiz__bilet-satin-alma",
+    "root": "/home/user/legacyshift-research/candidates/dogancanyildiz__bilet-satin-alma",
+    "files": [
+      {
+        "file": "config/admin.php",
+        "loc": 307
+      },
+      {
+        "file": "config/auth.php",
+        "loc": 228
+      },
+      {
+        "file": "config/company.php",
+        "loc": 307
+      },
+      {
+        "file": "config/database.php",
+        "loc": 333
+      },
+      {
+        "file": "config/db.php",
+        "loc": 13
+      },
+      {
+        "file": "config/init.php",
+        "loc": 20
+      },
+      {
+        "file": "config/pdf.php",
+        "loc": 94
+      },
+      {
+        "file": "config/router.php",
+        "loc": 51
+      },
+      {
+        "file": "config/ticket.php",
+        "loc": 123
+      },
+      {
+        "file": "config/trip.php",
+        "loc": 233
+      },
+      {
+        "file": "public/index.php",
+        "loc": 684
+      },
+      {
+        "file": "public/simple.php",
+        "loc": 30
+      },
+      {
+        "file": "public/test.php",
+        "loc": 2
+      },
+      {
+        "file": "views/404.php",
+        "loc": 17
+      },
+      {
+        "file": "views/admin_panel.php",
+        "loc": 86
+      },
+      {
+        "file": "views/company_panel.php",
+        "loc": 136
+      },
+      {
+        "file": "views/home.php",
+        "loc": 174
+      },
+      {
+        "file": "views/layout.php",
+        "loc": 32
+      },
+      {
+        "file": "views/login.php",
+        "loc": 85
+      },
+      {
+        "file": "views/my_tickets.php",
+        "loc": 56
+      },
+      {
+        "file": "views/profile.php",
+        "loc": 54
+      },
+      {
+        "file": "views/register.php",
+        "loc": 173
+      },
+      {
+        "file": "views/search_results.php",
+        "loc": 30
+      },
+      {
+        "file": "views/trip_detail.php",
+        "loc": 65
+      }
+    ],
+    "total": 3333
+  }
+}

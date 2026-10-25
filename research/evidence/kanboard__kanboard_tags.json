@@ -1,0 +1,1002 @@
+[
+  {
+    "name": "v1.2.56",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.2.56",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.2.56",
+    "commit": {
+      "sha": "e197e71af4ff9f371b931ab0338b2b41827e6394",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/e197e71af4ff9f371b931ab0338b2b41827e6394"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjIuNTY="
+  },
+  {
+    "name": "v1.2.55",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.2.55",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.2.55",
+    "commit": {
+      "sha": "e4fb64e972b0ae255a92cf4b7b03489846ebbffc",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/e4fb64e972b0ae255a92cf4b7b03489846ebbffc"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjIuNTU="
+  },
+  {
+    "name": "v1.2.54",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.2.54",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.2.54",
+    "commit": {
+      "sha": "9ce6a5edc5b646ef15780cb445bc6d2c39d9898f",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/9ce6a5edc5b646ef15780cb445bc6d2c39d9898f"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjIuNTQ="
+  },
+  {
+    "name": "v1.2.53",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.2.53",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.2.53",
+    "commit": {
+      "sha": "3c88caa218c8b631e5d663552625a64b86f7f1d6",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/3c88caa218c8b631e5d663552625a64b86f7f1d6"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjIuNTM="
+  },
+  {
+    "name": "v1.2.52",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.2.52",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.2.52",
+    "commit": {
+      "sha": "1a9a32da1118a095325ecec50d4c0a784dcd46f8",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/1a9a32da1118a095325ecec50d4c0a784dcd46f8"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjIuNTI="
+  },
+  {
+    "name": "v1.2.51",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.2.51",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.2.51",
+    "commit": {
+      "sha": "1c27f48cc2ef2bfbf6097c5ec19e61d1aa60dba6",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/1c27f48cc2ef2bfbf6097c5ec19e61d1aa60dba6"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjIuNTE="
+  },
+  {
+    "name": "v1.2.50",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.2.50",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.2.50",
+    "commit": {
+      "sha": "a98bc5f855d4e7e47eb3425a6c7da6c6cc6748a3",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/a98bc5f855d4e7e47eb3425a6c7da6c6cc6748a3"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjIuNTA="
+  },
+  {
+    "name": "v1.2.49",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.2.49",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.2.49",
+    "commit": {
+      "sha": "f0f7d27007f5a788f14416c548421efd740b7bce",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/f0f7d27007f5a788f14416c548421efd740b7bce"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjIuNDk="
+  },
+  {
+    "name": "v1.2.48",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.2.48",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.2.48",
+    "commit": {
+      "sha": "ab7c7f2bf2a7985de9f534425319320b00a99a9b",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/ab7c7f2bf2a7985de9f534425319320b00a99a9b"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjIuNDg="
+  },
+  {
+    "name": "v1.2.47",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.2.47",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.2.47",
+    "commit": {
+      "sha": "b57deb7082797b791a3fa39dbcdc5e5c2b14b541",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/b57deb7082797b791a3fa39dbcdc5e5c2b14b541"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjIuNDc="
+  },
+  {
+    "name": "v1.2.46",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.2.46",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.2.46",
+    "commit": {
+      "sha": "839585162a77ac8e9cd9b7c74c7e5ed9da785e72",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/839585162a77ac8e9cd9b7c74c7e5ed9da785e72"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjIuNDY="
+  },
+  {
+    "name": "v1.2.45",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.2.45",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.2.45",
+    "commit": {
+      "sha": "635d7ff71d6229d4f31cc23230a921729a39b2c0",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/635d7ff71d6229d4f31cc23230a921729a39b2c0"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjIuNDU="
+  },
+  {
+    "name": "v1.2.44",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.2.44",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.2.44",
+    "commit": {
+      "sha": "c073041d8f9fcd3e2c46fa25bfde5ab5c9eaff36",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/c073041d8f9fcd3e2c46fa25bfde5ab5c9eaff36"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjIuNDQ="
+  },
+  {
+    "name": "v1.2.43",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.2.43",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.2.43",
+    "commit": {
+      "sha": "e49e6968a587594ed62af193f639313293104e6a",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/e49e6968a587594ed62af193f639313293104e6a"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjIuNDM="
+  },
+  {
+    "name": "v1.2.42",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.2.42",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.2.42",
+    "commit": {
+      "sha": "732a2e0ca92b69bcbb458284fe82841da2592984",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/732a2e0ca92b69bcbb458284fe82841da2592984"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjIuNDI="
+  },
+  {
+    "name": "v1.2.41",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.2.41",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.2.41",
+    "commit": {
+      "sha": "2675945f47308b635a6525e87e24d9e71f285afe",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/2675945f47308b635a6525e87e24d9e71f285afe"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjIuNDE="
+  },
+  {
+    "name": "v1.2.40",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.2.40",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.2.40",
+    "commit": {
+      "sha": "2211b31e101c9ea5d80cccbc3331df44e31c1a38",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/2211b31e101c9ea5d80cccbc3331df44e31c1a38"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjIuNDA="
+  },
+  {
+    "name": "v1.2.39",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.2.39",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.2.39",
+    "commit": {
+      "sha": "63db1e1b39b4f013d582a909cb6da83efedb6ae3",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/63db1e1b39b4f013d582a909cb6da83efedb6ae3"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjIuMzk="
+  },
+  {
+    "name": "v1.2.38",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.2.38",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.2.38",
+    "commit": {
+      "sha": "ba8f155d6a28142d5da1e5980460f7e347bd9cf6",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/ba8f155d6a28142d5da1e5980460f7e347bd9cf6"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjIuMzg="
+  },
+  {
+    "name": "v1.2.37",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.2.37",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.2.37",
+    "commit": {
+      "sha": "e5ff28a8fe4a8b05dd22d39db0d75c90246422d0",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/e5ff28a8fe4a8b05dd22d39db0d75c90246422d0"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjIuMzc="
+  },
+  {
+    "name": "v1.2.36",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.2.36",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.2.36",
+    "commit": {
+      "sha": "644ad39125b205b1432755d3b614a79068590d2c",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/644ad39125b205b1432755d3b614a79068590d2c"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjIuMzY="
+  },
+  {
+    "name": "v1.2.35",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.2.35",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.2.35",
+    "commit": {
+      "sha": "034ad8031fd8be17829463f0b0c9f2f9f4744d7c",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/034ad8031fd8be17829463f0b0c9f2f9f4744d7c"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjIuMzU="
+  },
+  {
+    "name": "v1.2.34",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.2.34",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.2.34",
+    "commit": {
+      "sha": "5b8ed19f7d30328022252878e4be06878a453849",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/5b8ed19f7d30328022252878e4be06878a453849"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjIuMzQ="
+  },
+  {
+    "name": "v1.2.33",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.2.33",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.2.33",
+    "commit": {
+      "sha": "065d6f3e6eab142a50f0b2dcf77f461fa6cf3637",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/065d6f3e6eab142a50f0b2dcf77f461fa6cf3637"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjIuMzM="
+  },
+  {
+    "name": "v1.2.32",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.2.32",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.2.32",
+    "commit": {
+      "sha": "a39cc490352257d01d9c27a042c89f6d60fbf7f0",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/a39cc490352257d01d9c27a042c89f6d60fbf7f0"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjIuMzI="
+  },
+  {
+    "name": "v1.2.31",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.2.31",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.2.31",
+    "commit": {
+      "sha": "8522226367a1c374cb328ed9b2609c0686d92c16",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/8522226367a1c374cb328ed9b2609c0686d92c16"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjIuMzE="
+  },
+  {
+    "name": "v1.2.30",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.2.30",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.2.30",
+    "commit": {
+      "sha": "b81bd3db0683c8527ee4e2848df6af34c9ed3c5d",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/b81bd3db0683c8527ee4e2848df6af34c9ed3c5d"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjIuMzA="
+  },
+  {
+    "name": "v1.2.29",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.2.29",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.2.29",
+    "commit": {
+      "sha": "dfd3b4899bfb760190ee1d8819da0aa86f899bf3",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/dfd3b4899bfb760190ee1d8819da0aa86f899bf3"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjIuMjk="
+  },
+  {
+    "name": "v1.2.28",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.2.28",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.2.28",
+    "commit": {
+      "sha": "1c90a0ce57cea1512f6619f3fc86044288283705",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/1c90a0ce57cea1512f6619f3fc86044288283705"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjIuMjg="
+  },
+  {
+    "name": "v1.2.27",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.2.27",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.2.27",
+    "commit": {
+      "sha": "0620c13d71ee429ae8cbd5b1324487fd66157c48",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/0620c13d71ee429ae8cbd5b1324487fd66157c48"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjIuMjc="
+  },
+  {
+    "name": "v1.2.26",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.2.26",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.2.26",
+    "commit": {
+      "sha": "5750e273bc2154ce04ac8cbb804d0b1ca3692620",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/5750e273bc2154ce04ac8cbb804d0b1ca3692620"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjIuMjY="
+  },
+  {
+    "name": "v1.2.25",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.2.25",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.2.25",
+    "commit": {
+      "sha": "8bf55d1307ec8d87c7bb8ccfae6c928f03f6b729",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/8bf55d1307ec8d87c7bb8ccfae6c928f03f6b729"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjIuMjU="
+  },
+  {
+    "name": "v1.2.24",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.2.24",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.2.24",
+    "commit": {
+      "sha": "2d4ee932da6541613e8d0ae59764b3a14056aabf",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/2d4ee932da6541613e8d0ae59764b3a14056aabf"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjIuMjQ="
+  },
+  {
+    "name": "v1.2.23",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.2.23",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.2.23",
+    "commit": {
+      "sha": "75e4e85d0fb50d8fc234ed0eb78860f67412a267",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/75e4e85d0fb50d8fc234ed0eb78860f67412a267"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjIuMjM="
+  },
+  {
+    "name": "v1.2.22",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.2.22",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.2.22",
+    "commit": {
+      "sha": "4e218efd97061291dc4ef847c2206965bcc6b5dc",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/4e218efd97061291dc4ef847c2206965bcc6b5dc"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjIuMjI="
+  },
+  {
+    "name": "v1.2.21",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.2.21",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.2.21",
+    "commit": {
+      "sha": "ee18479b7e019e6415d7b095da629932ee1b3fd5",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/ee18479b7e019e6415d7b095da629932ee1b3fd5"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjIuMjE="
+  },
+  {
+    "name": "v1.2.20",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.2.20",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.2.20",
+    "commit": {
+      "sha": "0755f0d64ffe1bd4d41d3f632e858063e6e4cd36",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/0755f0d64ffe1bd4d41d3f632e858063e6e4cd36"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjIuMjA="
+  },
+  {
+    "name": "v1.2.19",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.2.19",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.2.19",
+    "commit": {
+      "sha": "ebde594f50a179fd7bf76637a6ad7d42d9543656",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/ebde594f50a179fd7bf76637a6ad7d42d9543656"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjIuMTk="
+  },
+  {
+    "name": "v1.2.18",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.2.18",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.2.18",
+    "commit": {
+      "sha": "f31f0cec4cc2a6e5bd92db520a3290795f0ff7f1",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/f31f0cec4cc2a6e5bd92db520a3290795f0ff7f1"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjIuMTg="
+  },
+  {
+    "name": "v1.2.17",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.2.17",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.2.17",
+    "commit": {
+      "sha": "7a60e760ae04f3e50dc2293c012c9d84975d3fe1",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/7a60e760ae04f3e50dc2293c012c9d84975d3fe1"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjIuMTc="
+  },
+  {
+    "name": "v1.2.16",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.2.16",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.2.16",
+    "commit": {
+      "sha": "2239c4175d5b7c6e9ab37744c5de46d77b25d0ce",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/2239c4175d5b7c6e9ab37744c5de46d77b25d0ce"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjIuMTY="
+  },
+  {
+    "name": "v1.2.15",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.2.15",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.2.15",
+    "commit": {
+      "sha": "00a8b2d7ea55ee43e92e0e9eb193ce1e915d146b",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/00a8b2d7ea55ee43e92e0e9eb193ce1e915d146b"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjIuMTU="
+  },
+  {
+    "name": "v1.2.14",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.2.14",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.2.14",
+    "commit": {
+      "sha": "9d22fef38905c916fd4dd83758e3954dfc66ec01",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/9d22fef38905c916fd4dd83758e3954dfc66ec01"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjIuMTQ="
+  },
+  {
+    "name": "v1.2.13",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.2.13",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.2.13",
+    "commit": {
+      "sha": "d983c113da13aad4c022a8832365d04d77adf3a7",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/d983c113da13aad4c022a8832365d04d77adf3a7"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjIuMTM="
+  },
+  {
+    "name": "v1.2.12",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.2.12",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.2.12",
+    "commit": {
+      "sha": "309511e4523f089151c2af8f63e4e36a71429415",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/309511e4523f089151c2af8f63e4e36a71429415"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjIuMTI="
+  },
+  {
+    "name": "v1.2.11",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.2.11",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.2.11",
+    "commit": {
+      "sha": "8b2d46ed5d4f3d3789696478f69d08a3b11323d9",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/8b2d46ed5d4f3d3789696478f69d08a3b11323d9"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjIuMTE="
+  },
+  {
+    "name": "v1.2.10",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.2.10",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.2.10",
+    "commit": {
+      "sha": "19208bfab2fd5328d5e4703177a40e2d950c1486",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/19208bfab2fd5328d5e4703177a40e2d950c1486"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjIuMTA="
+  },
+  {
+    "name": "v1.2.9",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.2.9",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.2.9",
+    "commit": {
+      "sha": "0b4b288ff8b2a9e6f9fad74b29123e5b8daa6089",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/0b4b288ff8b2a9e6f9fad74b29123e5b8daa6089"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjIuOQ=="
+  },
+  {
+    "name": "v1.2.8",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.2.8",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.2.8",
+    "commit": {
+      "sha": "ba5878e7869655feda1983967ba80e7c2e811676",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/ba5878e7869655feda1983967ba80e7c2e811676"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjIuOA=="
+  },
+  {
+    "name": "v1.2.7",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.2.7",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.2.7",
+    "commit": {
+      "sha": "f470873d5d95571a30a99c2482ece7873e8f88d5",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/f470873d5d95571a30a99c2482ece7873e8f88d5"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjIuNw=="
+  },
+  {
+    "name": "v1.2.6",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.2.6",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.2.6",
+    "commit": {
+      "sha": "00228ac12fedaf436869289c7c114dc6f76dd14c",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/00228ac12fedaf436869289c7c114dc6f76dd14c"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjIuNg=="
+  },
+  {
+    "name": "v1.2.5",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.2.5",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.2.5",
+    "commit": {
+      "sha": "e29bfe6ee8143082552cb6f61e60b2c6e32c0f68",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/e29bfe6ee8143082552cb6f61e60b2c6e32c0f68"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjIuNQ=="
+  },
+  {
+    "name": "v1.2.4",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.2.4",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.2.4",
+    "commit": {
+      "sha": "5b17d232e069b2323e1cf5d573d4fbcf23822dec",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/5b17d232e069b2323e1cf5d573d4fbcf23822dec"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjIuNA=="
+  },
+  {
+    "name": "v1.2.3",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.2.3",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.2.3",
+    "commit": {
+      "sha": "927607b5ff106224e49b63adc58454ffef2e2504",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/927607b5ff106224e49b63adc58454ffef2e2504"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjIuMw=="
+  },
+  {
+    "name": "v1.2.2",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.2.2",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.2.2",
+    "commit": {
+      "sha": "a8e89c58b396ab8f66d264874ed866be118093df",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/a8e89c58b396ab8f66d264874ed866be118093df"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjIuMg=="
+  },
+  {
+    "name": "v1.2.1",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.2.1",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.2.1",
+    "commit": {
+      "sha": "94ed32dedfeb32d8b89f457bae749fbec16fd9b0",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/94ed32dedfeb32d8b89f457bae749fbec16fd9b0"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjIuMQ=="
+  },
+  {
+    "name": "v1.2.0",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.2.0",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.2.0",
+    "commit": {
+      "sha": "9cec52f76b280a7009e8477eb4c01b3d1be25c05",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/9cec52f76b280a7009e8477eb4c01b3d1be25c05"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjIuMA=="
+  },
+  {
+    "name": "v1.1.1",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.1.1",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.1.1",
+    "commit": {
+      "sha": "962db83404680395b175c28ee623bf3577edcd48",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/962db83404680395b175c28ee623bf3577edcd48"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjEuMQ=="
+  },
+  {
+    "name": "v1.1.0",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.1.0",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.1.0",
+    "commit": {
+      "sha": "e2eec8b7e75223cb4499de10e005cdb9e153868a",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/e2eec8b7e75223cb4499de10e005cdb9e153868a"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjEuMA=="
+  },
+  {
+    "name": "v1.0.48",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.0.48",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.0.48",
+    "commit": {
+      "sha": "c507c5416251c505cb3e088a03c6664bed73c812",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/c507c5416251c505cb3e088a03c6664bed73c812"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjAuNDg="
+  },
+  {
+    "name": "v1.0.47",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.0.47",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.0.47",
+    "commit": {
+      "sha": "b54f174a27b24c40fd84b52377eddc1890c37679",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/b54f174a27b24c40fd84b52377eddc1890c37679"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjAuNDc="
+  },
+  {
+    "name": "v1.0.46",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.0.46",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.0.46",
+    "commit": {
+      "sha": "daccedbdab2709faca6faf8fcc3388f1f9eab07b",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/daccedbdab2709faca6faf8fcc3388f1f9eab07b"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjAuNDY="
+  },
+  {
+    "name": "v1.0.45",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.0.45",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.0.45",
+    "commit": {
+      "sha": "217977500a6c10f71bcffed19ec6dee2466d4a84",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/217977500a6c10f71bcffed19ec6dee2466d4a84"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjAuNDU="
+  },
+  {
+    "name": "v1.0.44",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.0.44",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.0.44",
+    "commit": {
+      "sha": "6251ac62d43817b996c2f0131433c1955e08a1de",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/6251ac62d43817b996c2f0131433c1955e08a1de"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjAuNDQ="
+  },
+  {
+    "name": "v1.0.43",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.0.43",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.0.43",
+    "commit": {
+      "sha": "95ec4b1f71c0679d971035b6c796d32570793879",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/95ec4b1f71c0679d971035b6c796d32570793879"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjAuNDM="
+  },
+  {
+    "name": "v1.0.42",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.0.42",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.0.42",
+    "commit": {
+      "sha": "13129699bab220d3f1eae10cbfdb67ad99b4548f",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/13129699bab220d3f1eae10cbfdb67ad99b4548f"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjAuNDI="
+  },
+  {
+    "name": "v1.0.41",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.0.41",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.0.41",
+    "commit": {
+      "sha": "a46d66cf8cc58b50f7a05c8c81cc94562b69dd61",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/a46d66cf8cc58b50f7a05c8c81cc94562b69dd61"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjAuNDE="
+  },
+  {
+    "name": "v1.0.40",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.0.40",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.0.40",
+    "commit": {
+      "sha": "8cd45e8dd24b388d2464f2d05c5acdd28f2855de",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/8cd45e8dd24b388d2464f2d05c5acdd28f2855de"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjAuNDA="
+  },
+  {
+    "name": "v1.0.39",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.0.39",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.0.39",
+    "commit": {
+      "sha": "6defc2312f600023e5b9c580ea07a8c1b0e2052b",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/6defc2312f600023e5b9c580ea07a8c1b0e2052b"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjAuMzk="
+  },
+  {
+    "name": "v1.0.38",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.0.38",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.0.38",
+    "commit": {
+      "sha": "ba544882dea5e5bf18ca8cae1ee6c479d3ab0f76",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/ba544882dea5e5bf18ca8cae1ee6c479d3ab0f76"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjAuMzg="
+  },
+  {
+    "name": "v1.0.37",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.0.37",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.0.37",
+    "commit": {
+      "sha": "513aefdb2c092b687c567c62e6e3d70b9bcea4f4",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/513aefdb2c092b687c567c62e6e3d70b9bcea4f4"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjAuMzc="
+  },
+  {
+    "name": "v1.0.36",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.0.36",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.0.36",
+    "commit": {
+      "sha": "d49ce63e51f596ad3bf0d02b689aea673cf544f8",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/d49ce63e51f596ad3bf0d02b689aea673cf544f8"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjAuMzY="
+  },
+  {
+    "name": "v1.0.35",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.0.35",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.0.35",
+    "commit": {
+      "sha": "6d2bd7383a8204a85429a88eb7ebe2a36a035455",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/6d2bd7383a8204a85429a88eb7ebe2a36a035455"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjAuMzU="
+  },
+  {
+    "name": "v1.0.34",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.0.34",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.0.34",
+    "commit": {
+      "sha": "ac7dd194b3a3e8a707318f5dfbb463961bded296",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/ac7dd194b3a3e8a707318f5dfbb463961bded296"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjAuMzQ="
+  },
+  {
+    "name": "v1.0.33",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.0.33",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.0.33",
+    "commit": {
+      "sha": "102de7e3860929e62578a6c96f810252dc572bdf",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/102de7e3860929e62578a6c96f810252dc572bdf"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjAuMzM="
+  },
+  {
+    "name": "v1.0.32",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.0.32",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.0.32",
+    "commit": {
+      "sha": "98efcf21e355ed6ac3827058b99df86ca67c75bb",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/98efcf21e355ed6ac3827058b99df86ca67c75bb"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjAuMzI="
+  },
+  {
+    "name": "v1.0.31",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.0.31",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.0.31",
+    "commit": {
+      "sha": "796ebb956a0e199ce22b7d17e27272ef8ae46b39",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/796ebb956a0e199ce22b7d17e27272ef8ae46b39"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjAuMzE="
+  },
+  {
+    "name": "v1.0.30",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.0.30",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.0.30",
+    "commit": {
+      "sha": "a1e2b0f1b88ed445a9dd960d9431fdbcf983fb33",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/a1e2b0f1b88ed445a9dd960d9431fdbcf983fb33"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjAuMzA="
+  },
+  {
+    "name": "v1.0.29",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.0.29",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.0.29",
+    "commit": {
+      "sha": "660bfa72f4b8155a996af697c3f099686245bd88",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/660bfa72f4b8155a996af697c3f099686245bd88"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjAuMjk="
+  },
+  {
+    "name": "v1.0.28",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.0.28",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.0.28",
+    "commit": {
+      "sha": "5672a8c3625d54f66f9bbf10da010a35dc9e95ff",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/5672a8c3625d54f66f9bbf10da010a35dc9e95ff"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjAuMjg="
+  },
+  {
+    "name": "v1.0.27",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.0.27",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.0.27",
+    "commit": {
+      "sha": "4badb84dbaef0a81e8e292e932769aa3b96099d9",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/4badb84dbaef0a81e8e292e932769aa3b96099d9"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjAuMjc="
+  },
+  {
+    "name": "v1.0.26",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.0.26",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.0.26",
+    "commit": {
+      "sha": "333bec112ae34e3e8435153355f3ae0ba407f515",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/333bec112ae34e3e8435153355f3ae0ba407f515"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjAuMjY="
+  },
+  {
+    "name": "v1.0.25",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.0.25",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.0.25",
+    "commit": {
+      "sha": "695a07fc3efd4ce2c3e9aebe22236fb0d30c19fb",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/695a07fc3efd4ce2c3e9aebe22236fb0d30c19fb"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjAuMjU="
+  },
+  {
+    "name": "v1.0.24",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.0.24",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.0.24",
+    "commit": {
+      "sha": "203754649e08dadeb631c2adfb0ccf4819dda941",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/203754649e08dadeb631c2adfb0ccf4819dda941"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjAuMjQ="
+  },
+  {
+    "name": "v1.0.23",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.0.23",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.0.23",
+    "commit": {
+      "sha": "2fb002c266437597838d4321932da107f398e8fd",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/2fb002c266437597838d4321932da107f398e8fd"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjAuMjM="
+  },
+  {
+    "name": "v1.0.22",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.0.22",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.0.22",
+    "commit": {
+      "sha": "f8bb0b47736e782033b241e4b9982e5c6ab61ef9",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/f8bb0b47736e782033b241e4b9982e5c6ab61ef9"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjAuMjI="
+  },
+  {
+    "name": "v1.0.21",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.0.21",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.0.21",
+    "commit": {
+      "sha": "b0a7203d3989558de73c19d034f62cc9a7d5c737",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/b0a7203d3989558de73c19d034f62cc9a7d5c737"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjAuMjE="
+  },
+  {
+    "name": "v1.0.20",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.0.20",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.0.20",
+    "commit": {
+      "sha": "06e9486c59831cdd1630647ea7474a39879a37da",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/06e9486c59831cdd1630647ea7474a39879a37da"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjAuMjA="
+  },
+  {
+    "name": "v1.0.19",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.0.19",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.0.19",
+    "commit": {
+      "sha": "dc0749ecce232a5a68d83fbde965ee4ee8e36d00",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/dc0749ecce232a5a68d83fbde965ee4ee8e36d00"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjAuMTk="
+  },
+  {
+    "name": "v1.0.18",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.0.18",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.0.18",
+    "commit": {
+      "sha": "de91d5820b9f987b17bea245ecf999b8e6aa7a81",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/de91d5820b9f987b17bea245ecf999b8e6aa7a81"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjAuMTg="
+  },
+  {
+    "name": "v1.0.17",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.0.17",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.0.17",
+    "commit": {
+      "sha": "8d24e03b440ed5de90cae41f45d116c8f7e0f87c",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/8d24e03b440ed5de90cae41f45d116c8f7e0f87c"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjAuMTc="
+  },
+  {
+    "name": "v1.0.16",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.0.16",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.0.16",
+    "commit": {
+      "sha": "0fa64fc9bd947e2f82f60d63d57479fa4189ef68",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/0fa64fc9bd947e2f82f60d63d57479fa4189ef68"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjAuMTY="
+  },
+  {
+    "name": "v1.0.15",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.0.15",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.0.15",
+    "commit": {
+      "sha": "380aacd3f586089ae5c1e69841c0e0cb99478dcd",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/380aacd3f586089ae5c1e69841c0e0cb99478dcd"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjAuMTU="
+  },
+  {
+    "name": "v1.0.14",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.0.14",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.0.14",
+    "commit": {
+      "sha": "fa59a1487c01b27fb7128c22c472a09c34a7891b",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/fa59a1487c01b27fb7128c22c472a09c34a7891b"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjAuMTQ="
+  },
+  {
+    "name": "v1.0.13",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.0.13",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.0.13",
+    "commit": {
+      "sha": "e41495a06c3401120a781efdc1a882b85bd5a0cc",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/e41495a06c3401120a781efdc1a882b85bd5a0cc"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjAuMTM="
+  },
+  {
+    "name": "v1.0.12",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.0.12",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.0.12",
+    "commit": {
+      "sha": "0450d86a18b1bc16b88bf3d3540a00eb9318203e",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/0450d86a18b1bc16b88bf3d3540a00eb9318203e"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjAuMTI="
+  },
+  {
+    "name": "v1.0.11",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.0.11",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.0.11",
+    "commit": {
+      "sha": "c5e4c781f5cbda416e0077e88fe75bf5b785f659",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/c5e4c781f5cbda416e0077e88fe75bf5b785f659"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjAuMTE="
+  },
+  {
+    "name": "v1.0.10",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.0.10",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.0.10",
+    "commit": {
+      "sha": "515e29461fcf3060b940cc9304dda254adba2d17",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/515e29461fcf3060b940cc9304dda254adba2d17"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjAuMTA="
+  },
+  {
+    "name": "v1.0.9",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.0.9",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.0.9",
+    "commit": {
+      "sha": "8fe5df39d97ef851d11931fcf7e906ec08838ef7",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/8fe5df39d97ef851d11931fcf7e906ec08838ef7"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjAuOQ=="
+  },
+  {
+    "name": "v1.0.8",
+    "zipball_url": "https://api.github.com/repos/kanboard/kanboard/zipball/refs/tags/v1.0.8",
+    "tarball_url": "https://api.github.com/repos/kanboard/kanboard/tarball/refs/tags/v1.0.8",
+    "commit": {
+      "sha": "082fda68ca52e8ace083256c57fd0da9991cde7b",
+      "url": "https://api.github.com/repos/kanboard/kanboard/commits/082fda68ca52e8ace083256c57fd0da9991cde7b"
+    },
+    "node_id": "MDM6UmVmMTYyMzg2NzM6cmVmcy90YWdzL3YxLjAuOA=="
+  }
+]

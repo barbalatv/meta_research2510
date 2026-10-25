@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-25",
+  "source_execution": "NOT_RUN",
+  "php_lint": "NOT_RUN",
+  "composer_install": "NOT_RUN",
+  "docker_build": "NOT_RUN",
+  "http_smoke": "NOT_RUN",
+  "stateful_replay": "NOT_RUN",
+  "sqlite_reset_runtime": "NOT_RUN",
+  "repeatability": "NOT_RUN",
+  "host_tools_found": [
+    "git.exe",
+    "python.exe"
+  ],
+  "host_tools_not_found_in_PATH": [
+    "php",
+    "docker",
+    "podman",
+    "cloc"
+  ],
+  "notes": [
+    "No authorized ready disposable restricted runtime identified; no new infrastructure installed.",
+    "Public OSS source downloaded and statically read only.",
+    "Code search API HTTP401: no authenticated GitHub code search claimed.",
+    "RaymiiOrg/tasks.php API HTTP404; lgg fork inspected instead.",
+    "Initial console printing hit Windows encoding errors after JSON saves; files retained, subsequent PYTHONIOENCODING=utf-8."
+  ]
+}

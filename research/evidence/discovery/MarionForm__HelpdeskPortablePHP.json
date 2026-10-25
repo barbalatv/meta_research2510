@@ -1,0 +1,22 @@
+{
+  "repo": "MarionForm/HelpdeskPortablePHP",
+  "stage": "DISCOVERY_ONLY",
+  "files": {
+    "README.md": {
+      "url": "https://raw.githubusercontent.com/MarionForm/HelpdeskPortablePHP/HEAD/README.md",
+      "text": "# HelpdeskPortablePHP\nPortable Helpdesk &amp; IT Ops mini-suite built with PHP 8 + SQLite. Includes ticket management, asset inventory, evidence hashing (SHA256), CSV import/export and Windows portable launcher.\n# Helpdesk Portable PHP + SQLite\n\nMini suite de Helpdesk / IT Ops portable:\n- PHP 8 + SQLite (sin servidor externo)\n- Casos + evidencias (uploads) con hash SHA256\n- Export HTML y PDF (Dompdf)\n- Inventario de equipos + import/export CSV\n- Pack portable Windows (.bat)\n\n## Requisitos\n- PHP 8.x con pdo_sqlite\n- (Opcional) Composer para PDF\n\n## Arranque rápido\n```bash\nphp -S 127.0.0.1:8080 -t public\n"
+    },
+    "LICENSE": {
+      "url": "https://raw.githubusercontent.com/MarionForm/HelpdeskPortablePHP/HEAD/LICENSE",
+      "text": "MIT License\r\n\r\nCopyright (c) 2026 MarionForm\r\n\r\nPermission is hereby granted, free of charge, to any person obtaining a copy\r\nof this software and associated documentation files (the \"Software\"), to deal\r\nin the Software without restriction, including without limitation the rights\r\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\r\ncopies of the Software, and to permit persons to whom the Software is\r\nfurnished to do so, subject to the following conditions:\r\n\r\nThe above copyright notice and this permission notice shall be included in all\r\ncopies or substantial portions of the Software.\r\n\r\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\r\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\r\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\r\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\r\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\r\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\r\nSOFTWARE.\r\n"
+    },
+    "LICENSE.md": {
+      "url": "https://raw.githubusercontent.com/MarionForm/HelpdeskPortablePHP/HEAD/LICENSE.md",
+      "error": "HTTP Error 404: Not Found"
+    },
+    "composer.json": {
+      "url": "https://raw.githubusercontent.com/MarionForm/HelpdeskPortablePHP/HEAD/composer.json",
+      "text": "{\r\n  \"require\": {\r\n    \"dompdf/dompdf\": \"^2.0\"\r\n  }\r\n}\r\n"
+    }
+  }
+}

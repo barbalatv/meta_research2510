@@ -1,0 +1,540 @@
+{
+  "count": 30,
+  "date": "2026-10-25",
+  "repositories": [
+    {
+      "repo": "MarionForm/Tech2Teach-ExamSuite",
+      "url": "https://github.com/MarionForm/Tech2Teach-ExamSuite",
+      "function": "учебные пакеты, экзамены, оценка, экспорт",
+      "php": "README 7.4+ + static support",
+      "database": "SQLite",
+      "license": "MIT",
+      "size": [
+        {
+          "sha": "444a2f71491b755ab3f84dbaa3e4ebf5f2227805",
+          "ref": "main",
+          "production_php_sloc": 615
+        }
+      ],
+      "decision": "shortlist: основной условный выбор",
+      "stage": "PINNED_STATIC_INSPECTION",
+      "evidence": [
+        "evidence/MarionForm__Tech2Teach-ExamSuite/provenance.json"
+      ]
+    },
+    {
+      "repo": "sebcode/b",
+      "url": "https://github.com/sebcode/b",
+      "function": "закладки, tags/filter, title extraction",
+      "php": "7.4 static syntax; Docker8.2",
+      "database": "SQLite",
+      "license": "MIT",
+      "size": [
+        {
+          "sha": "d0d240bd99d12a43eb9740033854baeea09bf797",
+          "ref": null,
+          "production_php_sloc": 392
+        }
+      ],
+      "decision": "shortlist: fallback",
+      "stage": "PINNED_STATIC_INSPECTION",
+      "evidence": [
+        "evidence/sebcode__b/provenance.json"
+      ]
+    },
+    {
+      "repo": "lgg-archive/tasks.php",
+      "url": "https://github.com/lgg-archive/tasks.php",
+      "function": "task lifecycle, dates, trash, priority",
+      "php": "7.x static support",
+      "database": "JSON files",
+      "license": "MIT + MIT Kickstart",
+      "size": [
+        {
+          "sha": "d01f9366b8e1f53ea63d26054346ad866f1ec57f",
+          "ref": "master",
+          "production_php_sloc": 684
+        }
+      ],
+      "decision": "shortlist: резерв без SQLite",
+      "stage": "PINNED_STATIC_INSPECTION",
+      "evidence": [
+        "evidence/lgg-archive__tasks.php/provenance.json"
+      ]
+    },
+    {
+      "repo": "lodev09/php-todo",
+      "url": "https://github.com/lodev09/php-todo",
+      "function": "task state/priority/sorting",
+      "php": "composer >=7.3; lock допускает7.4",
+      "database": "SQLite",
+      "license": "MIT",
+      "size": [
+        {
+          "sha": "95be4451c8c46ad7f25a3baa773118200ab3224e",
+          "ref": null,
+          "production_php_sloc": 369
+        }
+      ],
+      "decision": "shortlist",
+      "stage": "PINNED_STATIC_INSPECTION",
+      "evidence": [
+        "evidence/lodev09__php-todo/provenance.json"
+      ]
+    },
+    {
+      "repo": "azlux/Simple-URL-Shortener",
+      "url": "https://github.com/azlux/Simple-URL-Shortener",
+      "function": "short links, users/history/views",
+      "php": "7.2 example + static support",
+      "database": "SQLite/MySQL",
+      "license": "MIT",
+      "size": [
+        {
+          "sha": "acba0eaf5b38edff285abec164e202a897ace07d",
+          "ref": null,
+          "production_php_sloc": 300
+        }
+      ],
+      "decision": "shortlist",
+      "stage": "PINNED_STATIC_INSPECTION",
+      "evidence": [
+        "evidence/azlux__Simple-URL-Shortener/provenance.json"
+      ]
+    },
+    {
+      "repo": "kiswa/TaskBoard",
+      "url": "https://github.com/kiswa/TaskBoard",
+      "function": "Kanban, users, comments, automatic actions",
+      "php": "README7.x; CI matrix7.4 и lock constraints; runtime NOT_RUN",
+      "database": "SQLite/RedBean",
+      "license": "MIT",
+      "size": [
+        {
+          "sha": "857583e4bb508c7b449a8e45bb0747d22d88abdb",
+          "ref": null,
+          "production_php_sloc": 2353
+        }
+      ],
+      "decision": "shortlist; объём выше предпочтений",
+      "stage": "PINNED_STATIC_INSPECTION",
+      "evidence": [
+        "evidence/kiswa__TaskBoard/provenance.json"
+      ]
+    },
+    {
+      "repo": "PHPixie/Demo-Todo",
+      "url": "https://github.com/PHPixie/Demo-Todo",
+      "function": "projects/tasks",
+      "php": "PHPixie3 deps; 7.4 UNKNOWN",
+      "database": "SQLite",
+      "license": "BSD-3-Clause",
+      "size": [
+        {
+          "sha": "399483d98fb9f11f99781c444533734f1b35df6b",
+          "ref": null,
+          "production_php_sloc": 382
+        }
+      ],
+      "decision": "shortlist; unlocked dependencies",
+      "stage": "PINNED_STATIC_INSPECTION",
+      "evidence": [
+        "evidence/PHPixie__Demo-Todo/provenance.json"
+      ]
+    },
+    {
+      "repo": "yui0/php-db-api",
+      "url": "https://github.com/yui0/php-db-api",
+      "function": "schema-driven CRUD/auth API",
+      "php": "README >=7.0; NOT_RUN",
+      "database": "SQLite",
+      "license": "MIT",
+      "size": [
+        {
+          "sha": "db55be7e94d16d54e37b5c233fda3785419ba8aa",
+          "ref": null,
+          "production_php_sloc": 455
+        }
+      ],
+      "decision": "shortlist; infrastructure-only, низкая предметная ценность",
+      "stage": "PINNED_STATIC_INSPECTION",
+      "evidence": [
+        "evidence/yui0__php-db-api/provenance.json"
+      ]
+    },
+    {
+      "repo": "coskunsoysal/rest-api-sample",
+      "url": "https://github.com/coskunsoysal/rest-api-sample",
+      "function": "users CRUD + auth",
+      "php": "composer >=5.4, wildcards",
+      "database": "SQLite",
+      "license": "MIT License.txt",
+      "size": [
+        {
+          "sha": "bee41d433bf6a88ef2ae1c7ff494616ae123e4fd",
+          "ref": null,
+          "production_php_sloc": 276
+        }
+      ],
+      "decision": "не выбран: 276SLOC, без lock, только 4 CRUD routes",
+      "stage": "PINNED_STATIC_INSPECTION",
+      "evidence": [
+        "evidence/coskunsoysal__rest-api-sample/provenance.json"
+      ]
+    },
+    {
+      "repo": "TyMick/php-todo",
+      "url": "https://github.com/TyMick/php-todo",
+      "function": "однофайловый todo",
+      "php": "7.4 STATICALLY_SUPPORTED",
+      "database": "SQLite",
+      "license": "MIT LICENSE.md; UI footer CC-BY4",
+      "size": [
+        {
+          "sha": "0178df120597d07d1d6beebcad70943734e01e84",
+          "ref": null,
+          "production_php_sloc": 73
+        }
+      ],
+      "decision": "не выбран: 73 PHP SLOC; преимущественно HTML",
+      "stage": "PINNED_STATIC_INSPECTION",
+      "evidence": [
+        "evidence/TyMick__php-todo/provenance.json"
+      ]
+    },
+    {
+      "repo": "simplonco/php-rest-sqlite",
+      "url": "https://github.com/simplonco/php-rest-sqlite",
+      "function": "single-file CRUD",
+      "php": "7.4 UNKNOWN",
+      "database": "SQLite",
+      "license": "UNKNOWN; manifest/LICENSE отсутствуют",
+      "size": [
+        {
+          "sha": "d981dad37edd65277ee48db5bbcb805ab1a00704",
+          "ref": null,
+          "production_php_sloc": 60
+        }
+      ],
+      "decision": "HARD REJECT: verifiable redistribution license отсутствует",
+      "stage": "PINNED_STATIC_INSPECTION",
+      "evidence": [
+        "evidence/simplonco__php-rest-sqlite/provenance.json"
+      ]
+    },
+    {
+      "repo": "seikan/Cart",
+      "url": "https://github.com/seikan/Cart",
+      "function": "shopping cart class + example",
+      "php": "7.4 static plausible",
+      "database": "PHP session",
+      "license": "MIT",
+      "size": [
+        {
+          "sha": "cae64d344126951b8ca10ea68d4aeb097237602f",
+          "ref": null,
+          "production_php_sloc": 216
+        }
+      ],
+      "decision": "не выбран: standalone library; HTTP adapter пришлось бы создавать",
+      "stage": "PINNED_STATIC_INSPECTION",
+      "evidence": [
+        "evidence/seikan__Cart/provenance.json"
+      ]
+    },
+    {
+      "repo": "sen-ltd/short-url",
+      "url": "https://github.com/sen-ltd/short-url",
+      "function": "REST shortener, base62/clicks",
+      "php": "composer >=8.2",
+      "database": "SQLite",
+      "license": "MIT",
+      "size": [
+        {
+          "sha": "c2bead05235909e8e6d8052d9e5c8d133b95d968",
+          "ref": null,
+          "production_php_sloc": 474
+        }
+      ],
+      "decision": "HARD REJECT этой ревизии: PHP8.2",
+      "stage": "PINNED_STATIC_INSPECTION",
+      "evidence": [
+        "evidence/sen-ltd__short-url/provenance.json"
+      ]
+    },
+    {
+      "repo": "Mohamedajab/transaction-ledger-api",
+      "url": "https://github.com/Mohamedajab/transaction-ledger-api",
+      "function": "atomic transfers/idempotency",
+      "php": "PHP8.2 README; readonly/never source",
+      "database": "SQLite",
+      "license": "MIT",
+      "size": [
+        {
+          "sha": "9c152c26fd8bfc8c204e4b0d33c7616e42f6756c",
+          "ref": null,
+          "production_php_sloc": 230
+        }
+      ],
+      "decision": "HARD REJECT этой ревизии: PHP8 syntax",
+      "stage": "PINNED_STATIC_INSPECTION",
+      "evidence": [
+        "evidence/Mohamedajab__transaction-ledger-api/provenance.json"
+      ]
+    },
+    {
+      "repo": "Alespfer/wisenomy",
+      "url": "https://github.com/Alespfer/wisenomy",
+      "function": "shared expenses/settlement",
+      "php": "composer >=8.1",
+      "database": "SQLite/PostgreSQL",
+      "license": "MIT",
+      "size": [
+        {
+          "sha": "ba80f94750362842a2a914fc5ac501a44c5380a9",
+          "ref": null,
+          "production_php_sloc": 2575
+        }
+      ],
+      "decision": "HARD REJECT этой ревизии: PHP8.1; 2575SLOC",
+      "stage": "PINNED_STATIC_INSPECTION",
+      "evidence": [
+        "evidence/Alespfer__wisenomy/provenance.json"
+      ]
+    },
+    {
+      "repo": "PrivateBin/PrivateBin",
+      "url": "https://github.com/PrivateBin/PrivateBin",
+      "function": "encrypted paste/discussion lifecycle",
+      "php": "historical 0.22/1.3.5 checked statically; runtime NOT_RUN",
+      "database": "filesystem/SQL",
+      "license": "Zlib core + mixed bundled licenses",
+      "size": [
+        {
+          "sha": "6b3ad326655bb6c16f143e8c5ea0e9b264360a33",
+          "ref": "0.22",
+          "production_php_sloc": 1953
+        },
+        {
+          "sha": "d65bf02d7819a530c3c2a88f6f9947651fe5258d",
+          "ref": "1.3.5",
+          "production_php_sloc": 2720
+        }
+      ],
+      "decision": "не выбран: 1953SLOC в0.22, 2720 в1.3.5; frontend crypto + licenses/time/state",
+      "stage": "PINNED_STATIC_INSPECTION",
+      "evidence": [
+        "evidence/PrivateBin__PrivateBin__0.22/provenance.json",
+        "evidence/PrivateBin__PrivateBin__1.3.5/provenance.json"
+      ]
+    },
+    {
+      "repo": "kanboard/kanboard",
+      "url": "https://github.com/kanboard/kanboard",
+      "function": "Kanban projects/tasks",
+      "php": "v1.0.0 README >=5.3.7",
+      "database": "SQLite",
+      "license": "v1.0.0 AGPL-3.0; metadata main MIT",
+      "size": [
+        {
+          "sha": "c2f8e1c4360cbdd0c740b747d017034d97d8e053",
+          "ref": "v1.0.0",
+          "production_php_sloc": 2349
+        }
+      ],
+      "decision": "не выбран: историческая лицензия не permissive, 2349SLOC",
+      "stage": "PINNED_STATIC_INSPECTION",
+      "evidence": [
+        "evidence/kanboard__kanboard__v1.0.0/provenance.json"
+      ]
+    },
+    {
+      "repo": "ronaldaug/sim-rest",
+      "url": "https://github.com/ronaldaug/sim-rest",
+      "function": "JSON DB/routing/auth toolkit",
+      "php": "README PHP7+",
+      "database": "JSON files",
+      "license": "MIT",
+      "size": [
+        {
+          "sha": "a6e0f40a6cc795ac4ddb95a3d1aef9ebb3ae851c",
+          "ref": null,
+          "production_php_sloc": 492
+        }
+      ],
+      "decision": "не основной: framework/demo posts/cars, 492SLOC",
+      "stage": "PINNED_STATIC_INSPECTION",
+      "evidence": [
+        "evidence/ronaldaug__sim-rest/provenance.json"
+      ]
+    },
+    {
+      "repo": "amirsanni/Mini-Inventory-and-Sales-Management-System",
+      "url": "https://github.com/amirsanni/Mini-Inventory-and-Sales-Management-System",
+      "function": "склад, продажи, скидки/VAT",
+      "php": "README >=5.4; 7.4 NOT_VERIFIED",
+      "database": "MySQL/SQLite",
+      "license": "MIT по GitHub discovery; файл license не получен",
+      "size": "NOT_VERIFIED",
+      "decision": "не short-list: CodeIgniter и полный UI; размер/схема NOT_VERIFIED",
+      "stage": "DISCOVERY_ONLY_UNPINNED",
+      "evidence": [
+        "evidence/discovery/amirsanni__Mini-Inventory-and-Sales-Management-System.json"
+      ]
+    },
+    {
+      "repo": "NexusForgeLab/StockTrack",
+      "url": "https://github.com/NexusForgeLab/StockTrack",
+      "function": "склад и audit log",
+      "php": "README 8.2+, manual 8.0+",
+      "database": "SQLite",
+      "license": "UNKNOWN; общая фраза о redistribution без проверенного LICENSE",
+      "size": "NOT_VERIFIED",
+      "decision": "не выбран: 7.4 и license не подтверждены",
+      "stage": "DISCOVERY_ONLY_UNPINNED",
+      "evidence": [
+        "evidence/discovery/NexusForgeLab__StockTrack.json"
+      ]
+    },
+    {
+      "repo": "JuneNouh/php-Hairdresser-Full-UI-Admin",
+      "url": "https://github.com/JuneNouh/php-Hairdresser-Full-UI-Admin",
+      "function": "бронирование парикмахерской",
+      "php": "README PHP8+",
+      "database": "SQLite",
+      "license": "All Rights Reserved по README",
+      "size": "NOT_VERIFIED",
+      "decision": "HARD REJECT: proprietary license",
+      "stage": "DISCOVERY_ONLY_UNPINNED",
+      "evidence": [
+        "evidence/discovery/JuneNouh__php-Hairdresser-Full-UI-Admin.json"
+      ]
+    },
+    {
+      "repo": "scrow/PHP-Inventory",
+      "url": "https://github.com/scrow/PHP-Inventory",
+      "function": "домашний inventory, вложения",
+      "php": "README PHP5+; 7.4 NOT_VERIFIED",
+      "database": "MySQL",
+      "license": "GPL-2.0 LICENSE.md",
+      "size": "NOT_VERIFIED",
+      "decision": "не выбран: не permissive; MySQL/Imagick/zip stack",
+      "stage": "DISCOVERY_ONLY_UNPINNED",
+      "evidence": [
+        "evidence/discovery/scrow__PHP-Inventory.json"
+      ]
+    },
+    {
+      "repo": "mevdschee/php-crud-api",
+      "url": "https://github.com/mevdschee/php-crud-api",
+      "function": "универсальный SQL REST gateway",
+      "php": "composer >=7.2.0",
+      "database": "SQLite/MySQL/PostgreSQL/SQL Server",
+      "license": "MIT LICENSE",
+      "size": "NOT_VERIFIED",
+      "decision": "не основной: инфраструктура, собственный domain workflow отсутствует",
+      "stage": "DISCOVERY_ONLY_UNPINNED",
+      "evidence": [
+        "evidence/discovery/mevdschee__php-crud-api.json"
+      ]
+    },
+    {
+      "repo": "dspinozz/PHP-Rest-API",
+      "url": "https://github.com/dspinozz/PHP-Rest-API",
+      "function": "REST framework",
+      "php": "composer ^8.2",
+      "database": "PDO several DBs",
+      "license": "MIT LICENSE",
+      "size": "NOT_VERIFIED",
+      "decision": "HARD REJECT этой ревизии: PHP8.2 framework",
+      "stage": "DISCOVERY_ONLY_UNPINNED",
+      "evidence": [
+        "evidence/discovery/dspinozz__PHP-Rest-API.json"
+      ]
+    },
+    {
+      "repo": "Inventoros/Inventoros",
+      "url": "https://github.com/Inventoros/Inventoros",
+      "function": "полный WMS",
+      "php": "composer ^8.4.1",
+      "database": "SQLite/MySQL/PostgreSQL",
+      "license": "AGPL-3.0-only LICENSE/composer, несмотря на старый MIT search snippet",
+      "size": "NOT_VERIFIED",
+      "decision": "HARD REJECT текущего source: PHP8 + объёмный Laravel stack; не permissive",
+      "stage": "DISCOVERY_ONLY_UNPINNED",
+      "evidence": [
+        "evidence/discovery/Inventoros__Inventoros.json"
+      ]
+    },
+    {
+      "repo": "WebEngineBlueprints/todo-list",
+      "url": "https://github.com/WebEngineBlueprints/todo-list",
+      "function": "CRUD todo",
+      "php": "UNKNOWN; phpgt/webengine dev-master",
+      "database": "SQLite",
+      "license": "UNKNOWN; LICENSE не найден в проверенных путях",
+      "size": "NOT_VERIFIED",
+      "decision": "не выбран: license и unlocked framework compatibility",
+      "stage": "DISCOVERY_ONLY_UNPINNED",
+      "evidence": [
+        "evidence/discovery/WebEngineBlueprints__todo-list.json"
+      ]
+    },
+    {
+      "repo": "MarionForm/HelpdeskPortablePHP",
+      "url": "https://github.com/MarionForm/HelpdeskPortablePHP",
+      "function": "helpdesk, assets, hash/export",
+      "php": "README PHP8; 7.4 NOT_VERIFIED",
+      "database": "SQLite",
+      "license": "MIT LICENSE",
+      "size": "NOT_VERIFIED",
+      "decision": "резерв вне shortlist; PHP8 profile и dompdf ^2.0",
+      "stage": "DISCOVERY_ONLY_UNPINNED",
+      "evidence": [
+        "evidence/discovery/MarionForm__HelpdeskPortablePHP.json"
+      ]
+    },
+    {
+      "repo": "SolaraCZ/php-native-rest-api",
+      "url": "https://github.com/SolaraCZ/php-native-rest-api",
+      "function": "native JSON API",
+      "php": "composer >=8.1",
+      "database": "SQLite",
+      "license": "MIT LICENSE",
+      "size": "NOT_VERIFIED",
+      "decision": "HARD REJECT этой ревизии: PHP8.1 constraint",
+      "stage": "DISCOVERY_ONLY_UNPINNED",
+      "evidence": [
+        "evidence/discovery/SolaraCZ__php-native-rest-api.json"
+      ]
+    },
+    {
+      "repo": "Falcowoski/API_REST_PHP_SQLITE",
+      "url": "https://github.com/Falcowoski/API_REST_PHP_SQLITE",
+      "function": "REST interview exercise",
+      "php": "README PHP8; 7.4 UNKNOWN",
+      "database": "SQLite",
+      "license": "MIT LICENSE",
+      "size": "NOT_VERIFIED",
+      "decision": "не выбран: PHP7.4 и достаточная business logic не установлены",
+      "stage": "DISCOVERY_ONLY_UNPINNED",
+      "evidence": [
+        "evidence/discovery/Falcowoski__API_REST_PHP_SQLITE.json"
+      ]
+    },
+    {
+      "repo": "MahnoorPortfolio/Inventory_Management_System",
+      "url": "https://github.com/MahnoorPortfolio/Inventory_Management_System",
+      "function": "small inventory CRUD",
+      "php": "UNKNOWN",
+      "database": "SQLite по README",
+      "license": "MIT LICENSE",
+      "size": "NOT_VERIFIED",
+      "decision": "резерв discovery; PHP7.4/semantic depth NOT_VERIFIED",
+      "stage": "DISCOVERY_ONLY_UNPINNED",
+      "evidence": [
+        "evidence/discovery/MahnoorPortfolio__Inventory_Management_System.json"
+      ]
+    }
+  ]
+}

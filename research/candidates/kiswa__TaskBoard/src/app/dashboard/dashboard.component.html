@@ -1,0 +1,116 @@
+<tb-top-nav page-name="{{ pageName }}"></tb-top-nav>
+
+<div class="dashboard">
+  <tb-my-items [boardsLoading]="boardsLoading"
+               [boards]="boards" [boardsMessage]="boardsMessage"
+               [tasksLoading]="tasksLoading" [tasks]="tasks"
+               [tasksMessage]="tasksMessage"
+               [strings]="strings"></tb-my-items>
+
+  <section>
+    <h2>{{ strings['dashboard_analytics'] }}</h2>
+
+    <div class="row">
+      <select [(ngModel)]="analyticsBoardId" (change)="updateAnalytics()">
+        <option [ngValue]="null">
+          {{ strings['boards_selectBoard'] }}...
+        </option>
+
+        <option *ngFor="let board of boards">
+          {{ board.name }}
+        </option>
+      </select>
+    </div>
+
+    <div class="row" *ngIf="analyticsBoardId">
+      <h3>Task Burndown</h3>
+
+      <label class="inline">
+        Start Date:
+        <input type="date" [(ngModel)]="burndownDates.start"
+               (change)="validateDates()">
+      </label>
+
+      <label class="inline">
+        End Date:
+        <input type="date" [(ngModel)]="burndownDates.end"
+               (change)="validateDates()">
+      </label>
+
+      <div *ngIf="datesError.length" class="error">{{ datesError }}</div>
+
+      <div *ngIf="!showBurndown">Select dates to display burndown chart.</div>
+
+      <tb-charts *ngIf="showBurndown"
+                 chart-name="chartBurndown" chart-type="line"
+                 series="29,26,21,18,13,8,3"
+                 labels="12/31/2015,1/1/2016,1/2/2016,1/3/2016,1/4/2016,1/5/2016,1/6/2016"
+                 table-head="Date"></tb-charts>
+    </div>
+
+    <div class="row" *ngIf="analyticsBoardId">
+      <div class="half-page">
+        <h3>Task Distribution by User</h3>
+
+        <tb-charts chart-name="chartByUser" series="7,13,8,5"
+                   labels="admin,tester,user,another"
+                   table-head="User"></tb-charts>
+      </div>
+
+      <div class="half-page">
+        <h3>Task Distribution by Column</h3>
+
+        <tb-charts chart-name="chartByColumn" series="18,3,7"
+                   labels="To Do,Doing,Done"
+                   table-head="Column"></tb-charts>
+      </div>
+    </div>
+
+    <div class="row" *ngIf="analyticsBoardId">
+      <tb-calendar board-id="1"></tb-calendar>
+    </div>
+  </section>
+
+  <section>
+    <h2>Activity Log</h2>
+
+    <div class="row">
+      <table class="alternating">
+        <thead>
+          <tr>
+            <th>User</th>
+            <th>Action</th>
+            <th>Timestamp</th>
+            <th></th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>admin</td>
+            <td>admin added task Mockup Dashboard.</td>
+            <td>5/22/2016 1:31:53 PM</td>
+            <td><a href="#">View Task</a></td>
+          </tr>
+          <tr>
+            <td>admin</td>
+            <td>admin added board Test.</td>
+            <td>5/13/2016 4:16:46 PM</td>
+            <td><a href="#">View Board</a></td>
+          </tr>
+          <tr>
+            <td>admin</td>
+            <td>admin removed board Demo.</td>
+            <td>5/11/2016 9:21:39 AM</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>admin</td>
+            <td>admin added board Demo.</td>
+            <td>5/11/2016 9:18:26 AM</td>
+            <td></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+</div>

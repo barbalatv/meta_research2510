@@ -1,0 +1,22 @@
+[
+  ".gitignore",
+  "License.txt",
+  "README.md",
+  "bootstrap.php",
+  "composer.json",
+  "db/config/default.php",
+  "db/db_file/test.sqlite",
+  "db/initial_data/import",
+  "db/initial_data/install",
+  "db/sql/data/api_auth.sql",
+  "db/sql/data/users.sql",
+  "db/sql/tables/api_auth.sql",
+  "db/sql/tables/users.sql",
+  "lib/API/Application.php",
+  "lib/API/Exception.php",
+  "lib/API/Exception/ValidationException.php",
+  "lib/API/Middleware/JSON.php",
+  "lib/API/Middleware/TokenOverBasicAuth.php",
+  "public/index.php",
+  "public/nginx_conf.txt"
+]

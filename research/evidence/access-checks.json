@@ -1,0 +1,29 @@
+[
+  {
+    "command": [
+      "git",
+      "ls-remote",
+      "--tags",
+      "https://github.com/MarionForm/Tech2Teach-ExamSuite.git"
+    ],
+    "exit_code": 0,
+    "stdout": "",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "git",
+      "ls-remote",
+      "--tags",
+      "https://github.com/lgg-archive/tasks.php.git"
+    ],
+    "exit_code": 0,
+    "stdout": "",
+    "stderr": ""
+  },
+  {
+    "url": "https://api.github.com/search/code?q=language%3APHP+%22php%3A%2F%2Finput%22+%22sqlite%22",
+    "http_status": 401,
+    "body": "{\r\n  \"message\": \"Requires authentication\",\r\n  \"documentation_url\": \"https://docs.github.com/rest\",\r\n  \"status\": \"401\"\r\n}"
+  }
+]

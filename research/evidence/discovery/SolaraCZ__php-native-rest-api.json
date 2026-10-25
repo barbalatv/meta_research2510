@@ -1,0 +1,22 @@
+{
+  "repo": "SolaraCZ/php-native-rest-api",
+  "stage": "DISCOVERY_ONLY",
+  "files": {
+    "README.md": {
+      "url": "https://raw.githubusercontent.com/SolaraCZ/php-native-rest-api/HEAD/README.md",
+      "text": "# Native PHP REST API\n\nA lightweight, framework-less RESTful API built entirely from scratch with native PHP 8. This project demonstrates core backend fundamentals, clean object-oriented architecture, and robust security practices without relying on external frameworks like Laravel or Symfony.\n\n---\n\n## Key Features\n\n* **Zero Frameworks:** Custom-built OOP routing, front controller, and middleware layer.\n* **Security:** Full protection against SQL Injection using PDO prepared statements.\n* **Input Sanitization & Validation:** Dedicated validation layer protecting against XSS attacks.\n* **CORS Ready:** Pre-configured middleware to handle cross-origin requests and `OPTIONS` preflight checks.\n* **Modern Standards:** Built with strict types enabled, PSR-4 autoloading via Composer, and compliant with PSR-12 coding standards.\n\n---\n\n## Tech Stack\n\n* **Language:** PHP 8.1+ (Strict types enabled)\n* **Database:** SQLite3 via PDO\n* **Dependency Manager:** Composer\n\n---\n\n## API Endpoints\n\nThe API consumes and produces exclusively `application/json` data.\n\n| Method | Endpoint | Description | Status Code |\n| :--- | :--- | :--- | :--- |\n| `GET` | `/api/health` | Health check endpoint | `200 OK` |\n| `GET` | `/api/tasks` | Get all tasks | `200 OK` |\n| `GET` | `/api/tasks/{id}` | Get a specific task by ID | `200 OK` / `404 Not Found` |\n| `POST` | `/api/tasks` | Create a new task | `200 OK` / `422 Unprocessable` |\n| `PUT` | `/api/tasks/{id}` | Update an existing task | `200 OK` / `422 Unprocessable` |\n| `DELETE` | `/api/tasks/{id}` | Delete a task by ID | `200 OK` / `404 Not Found` |\n\n### Example Request Body (`POST /api/tasks`)\n```json\n{\n  \"title\": \"Complete Week 5\",\n  \"description\": \"Refactor codebase and finish documentation\",\n  \"completed\": false\n}\n```\n\n---\n\n## License\n\nThis project is open-source and available under the [MIT License](LICENSE)."
+    },
+    "LICENSE": {
+      "url": "https://raw.githubusercontent.com/SolaraCZ/php-native-rest-api/HEAD/LICENSE",
+      "text": "MIT License\n\nCopyright (c) 2026 Solara\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.\n"
+    },
+    "LICENSE.md": {
+      "url": "https://raw.githubusercontent.com/SolaraCZ/php-native-rest-api/HEAD/LICENSE.md",
+      "error": "HTTP Error 404: Not Found"
+    },
+    "composer.json": {
+      "url": "https://raw.githubusercontent.com/SolaraCZ/php-native-rest-api/HEAD/composer.json",
+      "text": "{\n    \"name\": \"solaracz/php-native-rest-api\",\n    \"description\": \"Native PHP REST API without frameworks using OOP and PDO\",\n    \"type\": \"project\",\n    \"autoload\": {\n        \"psr-4\": {\n            \"App\\\\\": \"src/\"\n        }\n    },\n    \"require\": {\n        \"php\": \">=8.1\",\n        \"ext-pdo\": \"*\",\n        \"ext-pdo_sqlite\": \"*\"\n    },\n    \"require-dev\": {\n        \"squizlabs/php_codesniffer\": \"^4.0\"\n    }\n}\n"
+    }
+  }
+}

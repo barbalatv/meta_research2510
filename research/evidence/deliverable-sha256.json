@@ -1,0 +1,12 @@
+{
+  "LEGACYSHIFT-RESEARCH-01.md": "5f3051c32ab5b9fb36692d653fd2a3dbace2ff3e8fcbb1ee334fc585d3660d3b",
+  "benchmark-selection.json": "1206d9e7e2e6a2b835f10d9e90be843712e5fd37483f2ed684b2261daf95d7ce",
+  "frozen-sources.json": "121aca87412a39c09137934bd4e381df2d5dae066a2df9c68f07bf39112c2e21",
+  "candidate-comparison.json": "250ebac315b33f1a64e989719922ada46021c0baf0ce05d93d8e6dfc06b7335c",
+  "discovery-ledger.json": "d612f1b0e4cfea8f8a8c05f4b540f9e059f6712d8e79caefa8992f55b1740730",
+  "evidence-ledger.json": "da3dc4b6fa832f8a91c2c32ab21fd0fb51ee99b0fc4d81094da6432096439099",
+  "evidence/php-loc.json": "639f6f30c31a17bc25e7883be7dac69b8c18af7cf3ef63c4b4567d41ca08f77d",
+  "evidence/integrity-verification.json": "657773f7f552249c7807af98545cad5b8ad2e67e7bc426aafa677348780b7cb4",
+  "evidence/validation-status.json": "ed4cd17ecba45c5efeccd35747f2ea942cefc0a10673a68f04d2f5ed25a7c202",
+  "evidence/artifact-validation.json": "914adf3b2c010a96ba984249d4fac21e05989e5005aa7fbb5f559dec8dca48b9"
+}

@@ -1,0 +1,126 @@
+/* Banner for github */
+.forkit {
+    left: -65px;
+    height: 30px;
+    top: 40px;
+    position: absolute;
+    text-decoration: none;
+    width: 250px;
+    -moz-transform: rotate(-45deg);
+    -ms-transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+}
+.forkit span {
+    background: black;
+    color: white;
+    font-size: 14px;
+    left: 0;
+    padding: 5px 0;
+    position: absolute;
+    text-align: center;
+    width: 250px;
+    -moz-box-shadow: rgba(0,0,0,0.2) 1px 1px 10px;
+    -webkit-box-shadow: rgba(0,0,0,0.2) 1px 1px 10px;
+    box-shadow: rgba(0,0,0,0.2) 1px 1px 10px;
+    -moz-transition: opacity, 1s;
+    -o-transition: opacity, 1s;
+    -webkit-transition: opacity, 1s;
+    transition: opacity, 1s;
+}
+.forkit span:last-child {
+    background: #C68E17;
+    opacity: 0;
+}
+.forkit:hover span:first-child {
+    opacity: 0;
+}
+.forkit:hover span:last-child {
+    opacity: 1;
+}
+
+/* common classes */
+
+html, body{
+    height: 100%;
+}
+
+body{
+    padding: 15px;
+}
+
+body:not(.light){
+    color: #cbcbcb;
+    background: linear-gradient( rgba(0, 0, 0, 0.51), rgba(0, 0, 0, 0.5) ), url("../img/black_bg.png");
+}
+
+body.light{
+    color: #1a1a1a;
+    background-image: url("../img/white_bg.png");
+}
+
+.flex{
+    display: flex;
+}
+
+.flex-grow{
+    flex-grow: 1;
+}
+
+.flex-space > *:not(:last-child){
+    margin-right: 15px;
+}
+
+.flex-center{
+    align-self: center;
+}
+
+tr, td{
+    text-align: center;
+}
+
+body > *:not(:last-child) {
+    margin-bottom: 50px;
+}
+
+/* banner */
+
+#banner{
+    justify-content: flex-end;
+}
+
+/* index content div */
+
+#content{
+    max-width: 400px;
+    margin: 50px auto 0 auto;
+    text-align: left;
+    padding: 20px;
+    border: 2px solid #909090;
+    border-radius: 20px;
+}
+
+#content > *:not(:last-child){
+    margin-bottom: 30px;
+}
+
+#content > form > *:not(:last-child){
+    margin-bottom: 15px;
+}
+
+/* list */
+
+#list{
+    max-width: 800px;
+    margin: auto;
+}
+
+/* credits */
+#credits {
+    font-weight: bold;
+}
+footer {
+    color: #878787;
+    position: absolute;
+    bottom: 8px;
+}

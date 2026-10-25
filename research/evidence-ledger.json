@@ -1,0 +1,568 @@
+{
+  "date": "2026-10-25",
+  "claims": [
+    {
+      "id": "T01",
+      "claim": "Публичный source, SHA и отсутствие tag",
+      "url": "https://github.com/MarionForm/Tech2Teach-ExamSuite/blob/444a2f71491b755ab3f84dbaa3e4ebf5f2227805/README.md#L1-L103",
+      "revision": "444a2f71491b755ab3f84dbaa3e4ebf5f2227805",
+      "method": "GitHub API commit + pinned codeload; ls-remote --tags exit 0 без строк",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "source_sha256": "02b9c10ef8578d620a4734f34fe7c1b03f3e8014fe145b94ec637f7caf41fb82"
+    },
+    {
+      "id": "T02",
+      "claim": "MIT и copyright 2026 MarionForm",
+      "url": "https://github.com/MarionForm/Tech2Teach-ExamSuite/blob/444a2f71491b755ab3f84dbaa3e4ebf5f2227805/LICENSE#L1-L21",
+      "revision": "444a2f71491b755ab3f84dbaa3e4ebf5f2227805",
+      "method": "прочитан pinned файл",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "source_sha256": "0fa34aa0e8ae102749ec0c13e137f543bc88d975c4e52d058f545ea25a7cdba5"
+    },
+    {
+      "id": "T03",
+      "claim": "10 method/path registrations; 7 бизнес-route slices",
+      "url": "https://github.com/MarionForm/Tech2Teach-ExamSuite/blob/444a2f71491b755ab3f84dbaa3e4ebf5f2227805/public/index.php#L33-L64",
+      "revision": "444a2f71491b755ab3f84dbaa3e4ebf5f2227805",
+      "method": "статический подсчёт; группировка 7+3 аналитическая",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "source_sha256": "c15ca232f863fb067def582e25af6e9077d60060a7f7d992f39587d4ec6b6142"
+    },
+    {
+      "id": "T04",
+      "claim": "PHP7.4 заявлен upstream; runtime не проверен",
+      "url": "https://github.com/MarionForm/Tech2Teach-ExamSuite/blob/444a2f71491b755ab3f84dbaa3e4ebf5f2227805/README.md#L47-L98",
+      "revision": "444a2f71491b755ab3f84dbaa3e4ebf5f2227805",
+      "method": "README плюс чтение всех PHP файлов; PHP lint NOT_RUN",
+      "status": "STATICALLY_SUPPORTED",
+      "confidence": "MEDIUM",
+      "source_sha256": "02b9c10ef8578d620a4734f34fe7c1b03f3e8014fe145b94ec637f7caf41fb82"
+    },
+    {
+      "id": "T05",
+      "claim": "typed property совместимо с 7.4",
+      "url": "https://github.com/MarionForm/Tech2Teach-ExamSuite/blob/444a2f71491b755ab3f84dbaa3e4ebf5f2227805/app/Router.php#L4-L19",
+      "revision": "444a2f71491b755ab3f84dbaa3e4ebf5f2227805",
+      "method": "чтение source + PHP 7.4 manual; не parser check",
+      "status": "STATICALLY_SUPPORTED",
+      "confidence": "MEDIUM",
+      "source_sha256": "edf3bc3b6cde7a9249b8cbbaf027210e4feaeb34c7cbb1598209a7ccc6fc52b3"
+    },
+    {
+      "id": "T06",
+      "claim": "SQLite PDO + foreign_keys ON",
+      "url": "https://github.com/MarionForm/Tech2Teach-ExamSuite/blob/444a2f71491b755ab3f84dbaa3e4ebf5f2227805/app/db.php#L4-L14",
+      "revision": "444a2f71491b755ab3f84dbaa3e4ebf5f2227805",
+      "method": "чтение connection setup; соединение NOT_RUN",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "source_sha256": "aa28335b57d43f6afdfba22acfbb4125f40b26c653069e80acf302dff21af80f"
+    },
+    {
+      "id": "T07",
+      "claim": "5 таблиц и FK доступны локально",
+      "url": "https://github.com/MarionForm/Tech2Teach-ExamSuite/blob/444a2f71491b755ab3f84dbaa3e4ebf5f2227805/scripts/init_db.php#L10-L59",
+      "revision": "444a2f71491b755ab3f84dbaa3e4ebf5f2227805",
+      "method": "статическое чтение DDL; SQL NOT_RUN",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "source_sha256": "83171449d333aa44307e6431c48a3087b7cf92c62c453c3b5d3c20d080b6c012"
+    },
+    {
+      "id": "T08",
+      "claim": "seed из 5 вопросов; UUID каждый раз",
+      "url": "https://github.com/MarionForm/Tech2Teach-ExamSuite/blob/444a2f71491b755ab3f84dbaa3e4ebf5f2227805/scripts/seed_questions.php#L15-L65",
+      "revision": "444a2f71491b755ab3f84dbaa3e4ebf5f2227805",
+      "method": "прочитан массив; seed NOT_RUN",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "source_sha256": "857b782d15242e2d2d263238a4e3413a0f201fa9b895e368cb32ac956f6d0257"
+    },
+    {
+      "id": "T09",
+      "claim": "POST precedence, null/missing default; случайный UUID",
+      "url": "https://github.com/MarionForm/Tech2Teach-ExamSuite/blob/444a2f71491b755ab3f84dbaa3e4ebf5f2227805/app/helpers.php#L22-L32",
+      "revision": "444a2f71491b755ab3f84dbaa3e4ebf5f2227805",
+      "method": "операторы присутствуют; результаты на PHP7.4 STATICALLY_SUPPORTED",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "source_sha256": "a6781b5b8eaeea28967ca33353e97f36fed033cf09960bb8e26df3bd2fd2ae91"
+    },
+    {
+      "id": "T10",
+      "claim": "Europe/Madrid; display_errors включён",
+      "url": "https://github.com/MarionForm/Tech2Teach-ExamSuite/blob/444a2f71491b755ab3f84dbaa3e4ebf5f2227805/app/config.php#L4-L15",
+      "revision": "444a2f71491b755ab3f84dbaa3e4ebf5f2227805",
+      "method": "чтение source",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "source_sha256": "3d64557ae64d6ab3724ffb8c07e7aa706315006ef3a709bb9a26c7d60b7cf02f"
+    },
+    {
+      "id": "T11",
+      "claim": "Unicode, regex, keyed frequency, arsort",
+      "url": "https://github.com/MarionForm/Tech2Teach-ExamSuite/blob/444a2f71491b755ab3f84dbaa3e4ebf5f2227805/app/Services/DidacticPackService.php#L48-L77",
+      "revision": "444a2f71491b755ab3f84dbaa3e4ebf5f2227805",
+      "method": "статическое чтение; trap outcomes не исполнялись",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "source_sha256": "6d3cedc3e40add89104ee4b24227f1336a1f522004aecd52107892f55bb05dfa"
+    },
+    {
+      "id": "T12",
+      "claim": "JSON rubric numeric keys",
+      "url": "https://github.com/MarionForm/Tech2Teach-ExamSuite/blob/444a2f71491b755ab3f84dbaa3e4ebf5f2227805/app/Services/DidacticPackService.php#L11-L44",
+      "revision": "444a2f71491b755ab3f84dbaa3e4ebf5f2227805",
+      "method": "source + PHP array-key rules; runtime NOT_RUN",
+      "status": "STATICALLY_SUPPORTED",
+      "confidence": "MEDIUM",
+      "source_sha256": "6d3cedc3e40add89104ee4b24227f1336a1f522004aecd52107892f55bb05dfa"
+    },
+    {
+      "id": "T13",
+      "claim": "Intake insert и pack update отдельные statements",
+      "url": "https://github.com/MarionForm/Tech2Teach-ExamSuite/blob/444a2f71491b755ab3f84dbaa3e4ebf5f2227805/app/Models/Intake.php#L8-L26",
+      "revision": "444a2f71491b755ab3f84dbaa3e4ebf5f2227805",
+      "method": "нет transaction в просмотренных функциях",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "source_sha256": "0b03f6fc4cb9dbd4227e878594477441af57ce3ffaa4aad035b6fdd4ced636bf"
+    },
+    {
+      "id": "T14",
+      "claim": "Поля формы, variant whitelist и clamp count",
+      "url": "https://github.com/MarionForm/Tech2Teach-ExamSuite/blob/444a2f71491b755ab3f84dbaa3e4ebf5f2227805/app/Controllers/ExamController.php#L18-L30",
+      "revision": "444a2f71491b755ab3f84dbaa3e4ebf5f2227805",
+      "method": "статическое чтение",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "source_sha256": "1cbc2ff931b81eea4b7c1e3236e6f96a4633ab4e8209787a4f58c2ed68dd2f3c"
+    },
+    {
+      "id": "T15",
+      "claim": "ORDER BY RANDOM и LIKE selection",
+      "url": "https://github.com/MarionForm/Tech2Teach-ExamSuite/blob/444a2f71491b755ab3f84dbaa3e4ebf5f2227805/app/Models/Question.php#L8-L40",
+      "revision": "444a2f71491b755ab3f84dbaa3e4ebf5f2227805",
+      "method": "статическое чтение SQL",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "source_sha256": "6da431289bffd9c8936eb70b676aec50a4f6c8c4b32eeec8cc7d5c9379ab6f1a"
+    },
+    {
+      "id": "T16",
+      "claim": "Merge/de-dup/fallback не гарантирует n вопросов",
+      "url": "https://github.com/MarionForm/Tech2Teach-ExamSuite/blob/444a2f71491b755ab3f84dbaa3e4ebf5f2227805/app/Services/ExamGeneratorService.php#L9-L38",
+      "revision": "444a2f71491b755ab3f84dbaa3e4ebf5f2227805",
+      "method": "разбор алгоритма; не исполнен",
+      "status": "STATICALLY_SUPPORTED",
+      "confidence": "MEDIUM",
+      "source_sha256": "d994635704c5412f5e26fe6d13f6b9e1c1d3d3e26f30bbe7c626da830c00323c"
+    },
+    {
+      "id": "T17",
+      "claim": "Exam insert и question rows без transaction",
+      "url": "https://github.com/MarionForm/Tech2Teach-ExamSuite/blob/444a2f71491b755ab3f84dbaa3e4ebf5f2227805/app/Models/Exam.php#L8-L28",
+      "revision": "444a2f71491b755ab3f84dbaa3e4ebf5f2227805",
+      "method": "разбор функций; SQL NOT_RUN",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "source_sha256": "e9bfb9f7147523958a7ef7dde623d45581f796d03ed23199673e89e1543b10be"
+    },
+    {
+      "id": "T18",
+      "claim": "Строковое сравнение ответа, round score, attempt insert",
+      "url": "https://github.com/MarionForm/Tech2Teach-ExamSuite/blob/444a2f71491b755ab3f84dbaa3e4ebf5f2227805/app/Models/Exam.php#L31-L69",
+      "revision": "444a2f71491b755ab3f84dbaa3e4ebf5f2227805",
+      "method": "разбор source; outputs NOT_RUN",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "source_sha256": "e9bfb9f7147523958a7ef7dde623d45581f796d03ed23199673e89e1543b10be"
+    },
+    {
+      "id": "T19",
+      "claim": "lastAttempt упорядочен только по created_at",
+      "url": "https://github.com/MarionForm/Tech2Teach-ExamSuite/blob/444a2f71491b755ab3f84dbaa3e4ebf5f2227805/app/Models/Exam.php#L72-L78",
+      "revision": "444a2f71491b755ab3f84dbaa3e4ebf5f2227805",
+      "method": "чтение SQL",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "source_sha256": "e9bfb9f7147523958a7ef7dde623d45581f796d03ed23199673e89e1543b10be"
+    },
+    {
+      "id": "T20",
+      "claim": "Счётчики seen/wrong обновляются отдельно",
+      "url": "https://github.com/MarionForm/Tech2Teach-ExamSuite/blob/444a2f71491b755ab3f84dbaa3e4ebf5f2227805/app/Services/AnalyticsService.php#L5-L13",
+      "revision": "444a2f71491b755ab3f84dbaa3e4ebf5f2227805",
+      "method": "чтение source",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "source_sha256": "e3d2701bc6c73507d6f8e990105f09969351f797b414f505877429e611de98f3"
+    },
+    {
+      "id": "T21",
+      "claim": "JSON/GIFT/HTML export; missing exam возвращает error.txt",
+      "url": "https://github.com/MarionForm/Tech2Teach-ExamSuite/blob/444a2f71491b755ab3f84dbaa3e4ebf5f2227805/app/Services/ExportService.php#L9-L56",
+      "revision": "444a2f71491b755ab3f84dbaa3e4ebf5f2227805",
+      "method": "чтение service, outputs NOT_RUN",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "source_sha256": "af27acb4f2610d3173d92447e6d75cfc89386a64d0bd148e8a650bcef9ebc9f3"
+    },
+    {
+      "id": "T22",
+      "claim": "HTML export использует date и отдельный sanitizer",
+      "url": "https://github.com/MarionForm/Tech2Teach-ExamSuite/blob/444a2f71491b755ab3f84dbaa3e4ebf5f2227805/app/Services/ExportService.php#L60-L117",
+      "revision": "444a2f71491b755ab3f84dbaa3e4ebf5f2227805",
+      "method": "статическое чтение",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "source_sha256": "af27acb4f2610d3173d92447e6d75cfc89386a64d0bd148e8a650bcef9ebc9f3"
+    },
+    {
+      "id": "T23",
+      "claim": "HTML и CSS локальные; основной layout",
+      "url": "https://github.com/MarionForm/Tech2Teach-ExamSuite/blob/444a2f71491b755ab3f84dbaa3e4ebf5f2227805/app/Views/layout.php#L1-L32",
+      "revision": "444a2f71491b755ab3f84dbaa3e4ebf5f2227805",
+      "method": "прочитаны layout и local asset references",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "source_sha256": "81c7ca3455eb59e925a3dd51c6667c7e8156e39f2188a933cf6aef40eacb64dc"
+    },
+    {
+      "id": "T24",
+      "claim": "Некорректный intake показывает форму, не 422 JSON",
+      "url": "https://github.com/MarionForm/Tech2Teach-ExamSuite/blob/444a2f71491b755ab3f84dbaa3e4ebf5f2227805/app/Controllers/IntakeController.php#L12-L27",
+      "revision": "444a2f71491b755ab3f84dbaa3e4ebf5f2227805",
+      "method": "нет установки статуса в этом handler; runtime NOT_RUN",
+      "status": "STATICALLY_SUPPORTED",
+      "confidence": "MEDIUM",
+      "source_sha256": "e38ba8532d6338ae8df294f3092c25241afd6a3cef91cd9e95b53c6481db23f5"
+    },
+    {
+      "id": "T25",
+      "claim": "Missing take/results выставляет 404; grade/export иначе",
+      "url": "https://github.com/MarionForm/Tech2Teach-ExamSuite/blob/444a2f71491b755ab3f84dbaa3e4ebf5f2227805/app/Controllers/ExamController.php#L33-L79",
+      "revision": "444a2f71491b755ab3f84dbaa3e4ebf5f2227805",
+      "method": "сравнение route branches; status/body не измерены",
+      "status": "STATICALLY_SUPPORTED",
+      "confidence": "MEDIUM",
+      "source_sha256": "1cbc2ff931b81eea4b7c1e3236e6f96a4633ab4e8209787a4f58c2ed68dd2f3c"
+    },
+    {
+      "id": "T26",
+      "claim": "Набор views показывает результат из lastAttempt",
+      "url": "https://github.com/MarionForm/Tech2Teach-ExamSuite/blob/444a2f71491b755ab3f84dbaa3e4ebf5f2227805/app/Views/exam_results.php#L1-L19",
+      "revision": "444a2f71491b755ab3f84dbaa3e4ebf5f2227805",
+      "method": "чтение view",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "source_sha256": "f5648460de000609539b69fc5236edee37448fb72f4c1dc1cbccc5a876263b0e"
+    },
+    {
+      "id": "T27",
+      "claim": "Missing pack выставляет 404",
+      "url": "https://github.com/MarionForm/Tech2Teach-ExamSuite/blob/444a2f71491b755ab3f84dbaa3e4ebf5f2227805/app/Controllers/PackController.php#L7-L15",
+      "revision": "444a2f71491b755ab3f84dbaa3e4ebf5f2227805",
+      "method": "ветка source; HTTP NOT_RUN",
+      "status": "STATICALLY_SUPPORTED",
+      "confidence": "MEDIUM",
+      "source_sha256": "58addfc5a4a69155ba4d3a16879ee1c00866f6b5e9c9d86a478f6e8cd54e3874"
+    },
+    {
+      "id": "T28",
+      "claim": "Optional portable launcher меняет cwd не на корень source",
+      "url": "https://github.com/MarionForm/Tech2Teach-ExamSuite/blob/444a2f71491b755ab3f84dbaa3e4ebf5f2227805/portable/START.bat#L1-L8",
+      "revision": "444a2f71491b755ab3f84dbaa3e4ebf5f2227805",
+      "method": "проверка относительного public path; batch NOT_RUN",
+      "status": "STATICALLY_SUPPORTED",
+      "confidence": "MEDIUM",
+      "source_sha256": "3cf23d5f857bbf67f7eabce71337d8af33b0ee0026c8222bce5658b194851a32"
+    },
+    {
+      "id": "B01",
+      "claim": "Fallback env names, typed properties, actions, fetch",
+      "url": "https://github.com/sebcode/b/blob/d0d240bd99d12a43eb9740033854baeea09bf797/src/BookmarkManager.php#L5-L198",
+      "revision": "d0d240bd99d12a43eb9740033854baeea09bf797",
+      "method": "прочитан source",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "source_sha256": "7250e5b5127dbdcbef3816bd8b869b32851e4471ba45de81c96e6d34211602a3"
+    },
+    {
+      "id": "B02",
+      "claim": "Одна таблица; UNIQUE link; list ordering/date",
+      "url": "https://github.com/sebcode/b/blob/d0d240bd99d12a43eb9740033854baeea09bf797/src/DB.php#L9-L96",
+      "revision": "d0d240bd99d12a43eb9740033854baeea09bf797",
+      "method": "статическое чтение",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "source_sha256": "dde9e7d205e1592d73a92e45162805f6f5a105724f82613c3658b4703fe156c2"
+    },
+    {
+      "id": "B03",
+      "claim": "GET JSON и POST JSON dispatch",
+      "url": "https://github.com/sebcode/b/blob/d0d240bd99d12a43eb9740033854baeea09bf797/htdocs/index.php#L5-L68",
+      "revision": "d0d240bd99d12a43eb9740033854baeea09bf797",
+      "method": "прочитан entrypoint",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "source_sha256": "805123b74988cba051ba05d207e432642e8a8365cb3a332b90eb651a9d1379e6"
+    },
+    {
+      "id": "B04",
+      "claim": "Нет runtime Composer require, dev PHPUnit",
+      "url": "https://github.com/sebcode/b/blob/d0d240bd99d12a43eb9740033854baeea09bf797/composer.json#L1-L12",
+      "revision": "d0d240bd99d12a43eb9740033854baeea09bf797",
+      "method": "прочитан manifest/lock",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "source_sha256": "a09820ac664c6f38eb500979811ac6645153d7c425cf559f0b4511a2cd68acec"
+    },
+    {
+      "id": "B05",
+      "claim": "Upstream Docker PHP8.2",
+      "url": "https://github.com/sebcode/b/blob/d0d240bd99d12a43eb9740033854baeea09bf797/Dockerfile#L1-L11",
+      "revision": "d0d240bd99d12a43eb9740033854baeea09bf797",
+      "method": "прочитан Dockerfile, build NOT_RUN",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "source_sha256": "8e1f53ddb0c9ad35704e9669035a40d2444e9911adeac26105c4dcf0c567b5eb"
+    },
+    {
+      "id": "B06",
+      "claim": "MIT fallback",
+      "url": "https://github.com/sebcode/b/blob/d0d240bd99d12a43eb9740033854baeea09bf797/LICENSE#L1-L21",
+      "revision": "d0d240bd99d12a43eb9740033854baeea09bf797",
+      "method": "прочитан license",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "source_sha256": "85b1f59ecbbdf0958e56b9dd9ec3d7996a7c616f74a2a84cea7d41483a5a86ca"
+    },
+    {
+      "id": "B07",
+      "claim": "Basic auth вне приложения",
+      "url": "https://github.com/sebcode/b/blob/d0d240bd99d12a43eb9740033854baeea09bf797/conf/apache-extra.conf#L1-L15",
+      "revision": "d0d240bd99d12a43eb9740033854baeea09bf797",
+      "method": "прочитан Apache config",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "source_sha256": "c5336fc44583c33d5dc92406646a8bb42659d476ee2c326d4087ef1df8d4c27b"
+    },
+    {
+      "id": "L01",
+      "claim": "Жизненный цикл tasks, empty, equality, recursive merge, time ID",
+      "url": "https://github.com/lgg-archive/tasks.php/blob/d01f9366b8e1f53ea63d26054346ad866f1ec57f/action.php#L49-L278",
+      "revision": "d01f9366b8e1f53ea63d26054346ad866f1ec57f",
+      "method": "прочитан switch; runtime NOT_RUN",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "source_sha256": "ead2d2d19d4a0fa5febde35d83f1f9080a85fd7b88a67530ebe33ce2137bece9"
+    },
+    {
+      "id": "L02",
+      "claim": "Сортировка и дни",
+      "url": "https://github.com/lgg-archive/tasks.php/blob/d01f9366b8e1f53ea63d26054346ad866f1ec57f/core/functions/global.php#L9-L32",
+      "revision": "d01f9366b8e1f53ea63d26054346ad866f1ec57f",
+      "method": "прочитан source",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "source_sha256": "1b0e0d6ffdee221282f3ab8fff1cf7d161df591e99bfdee5edd4a8e21862ef8a"
+    },
+    {
+      "id": "L03",
+      "claim": "JSON path, auth и date settings",
+      "url": "https://github.com/lgg-archive/tasks.php/blob/d01f9366b8e1f53ea63d26054346ad866f1ec57f/core/data.php#L8-L28",
+      "revision": "d01f9366b8e1f53ea63d26054346ad866f1ec57f",
+      "method": "прочитан source",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "source_sha256": "2c9b324e1c6f2a8bd63cd865400e1df8865191d570e0d46e4bfa528bf899cad1"
+    },
+    {
+      "id": "L04",
+      "claim": "MIT и Kickstart notices",
+      "url": "https://github.com/lgg-archive/tasks.php/blob/d01f9366b8e1f53ea63d26054346ad866f1ec57f/LICENSE#L1-L38",
+      "revision": "d01f9366b8e1f53ea63d26054346ad866f1ec57f",
+      "method": "прочитан license",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "source_sha256": "f695e3c94119e444d806b50a3ef8c62d9bb0f53a2b4d70ec0d24133c67f4a509"
+    },
+    {
+      "id": "D01",
+      "claim": "Todo 5 AJAX handlers",
+      "url": "https://github.com/lodev09/php-todo/blob/95be4451c8c46ad7f25a3baa773118200ab3224e/public/ajax/requests.php#L1-L52",
+      "revision": "95be4451c8c46ad7f25a3baa773118200ab3224e",
+      "method": "прочитаны все handlers",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "source_sha256": "0539a7ae0ee44014a4b2e3846327960c6fcbcaf22ae257f03200942ae16e3d0d"
+    },
+    {
+      "id": "D02",
+      "claim": "Todo SQLite schema",
+      "url": "https://github.com/lodev09/php-todo/blob/95be4451c8c46ad7f25a3baa773118200ab3224e/db/todo.sql#L1-L8",
+      "revision": "95be4451c8c46ad7f25a3baa773118200ab3224e",
+      "method": "прочитан SQL",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "source_sha256": "af2a6321c91d53e75466f8d3c5ff7da784a3de1f5eb2028da1773d6248c23302"
+    },
+    {
+      "id": "D03",
+      "claim": "Todo production dependency versions",
+      "url": "https://github.com/lodev09/php-todo/blob/95be4451c8c46ad7f25a3baa773118200ab3224e/composer.lock#L1",
+      "revision": "95be4451c8c46ad7f25a3baa773118200ab3224e",
+      "method": "JSON parse packages; Composer NOT_RUN",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "source_sha256": "744b84c16776798093aa7a3a8da18b03c30d73f36c2c296d6debaee230374261"
+    },
+    {
+      "id": "A01",
+      "claim": "shortener RNG/validation/defaults",
+      "url": "https://github.com/azlux/Simple-URL-Shortener/blob/acba0eaf5b38edff285abec164e202a897ace07d/shorten.php#L4-L115",
+      "revision": "acba0eaf5b38edff285abec164e202a897ace07d",
+      "method": "чтение source",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "source_sha256": "58d43761f84b9583a48b796740fe3ef3b5c94ab08ab643489b7a878ad13d2f58"
+    },
+    {
+      "id": "A02",
+      "claim": "shortener schema",
+      "url": "https://github.com/azlux/Simple-URL-Shortener/blob/acba0eaf5b38edff285abec164e202a897ace07d/installation.php#L1-L38",
+      "revision": "acba0eaf5b38edff285abec164e202a897ace07d",
+      "method": "чтение setup",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "source_sha256": "28cbac861a8b86bd83b1733164b86e09b72db422dde8af0a9a6fb4d465625139"
+    },
+    {
+      "id": "K01",
+      "claim": "Исторический Kanboard v1.0.0 AGPL, не нынешний MIT",
+      "url": "https://github.com/kanboard/kanboard/blob/c2f8e1c4360cbdd0c740b747d017034d97d8e053/LICENSE#L1-L18",
+      "revision": "c2f8e1c4360cbdd0c740b747d017034d97d8e053",
+      "method": "прочитан license точной исторической ревизии",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "source_sha256": "57c8ff33c9c0cfc3ef00e650a1cc910d7ee479a8bc509f6c9209a7c2a11399d6"
+    },
+    {
+      "id": "K02",
+      "claim": "TaskBoard CI объявляет PHP7.4, но успешное CI выполнение не проверено",
+      "url": "https://github.com/kiswa/TaskBoard/blob/857583e4bb508c7b449a8e45bb0747d22d88abdb/.travis.yml#L1-L16",
+      "revision": "857583e4bb508c7b449a8e45bb0747d22d88abdb",
+      "method": "статическое чтение CI matrix и before_script; CI NOT_VERIFIED",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "source_sha256": "3a37e2d699ce3c0f32729e8462e6799a3301825b5ee3e826ae74f5848fcd6f0c"
+    },
+    {
+      "id": "K03",
+      "claim": "TaskBoard имеет lock с 50 packages, constraints допускают PHP7.4",
+      "url": "https://github.com/kiswa/TaskBoard/blob/857583e4bb508c7b449a8e45bb0747d22d88abdb/src/api/composer.lock#L1",
+      "revision": "857583e4bb508c7b449a8e45bb0747d22d88abdb",
+      "method": "JSON parse package versions/require.php; install NOT_RUN",
+      "status": "STATICALLY_SUPPORTED",
+      "confidence": "MEDIUM",
+      "source_sha256": "d353fb147127ba2946ceb41fbf74922495aa3eddc0bbbbbb3aa6ee1575a0c1cb"
+    },
+    {
+      "id": "P01",
+      "claim": "PrivateBin 1.3.5 смешанные licenses",
+      "url": "https://github.com/PrivateBin/PrivateBin/blob/d65bf02d7819a530c3c2a88f6f9947651fe5258d/LICENSE.md#L1-L31",
+      "revision": "d65bf02d7819a530c3c2a88f6f9947651fe5258d",
+      "method": "прочитан license inventory",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "source_sha256": "80fdcaace9a53e00d5e8382bb5ce75a10057a771491d7c6e0f827661a131619a"
+    },
+    {
+      "id": "S01",
+      "claim": "PHP8.2 constraint short-url",
+      "url": "https://github.com/sen-ltd/short-url/blob/c2bead05235909e8e6d8052d9e5c8d133b95d968/composer.json#L1",
+      "revision": "c2bead05235909e8e6d8052d9e5c8d133b95d968",
+      "method": "JSON parse manifest",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "source_sha256": "b85f77dfa6c3b35bf94db43de165d0e0dc837856fdb5567aa101e895ad6fac66"
+    },
+    {
+      "id": "M01",
+      "claim": "PHP8.1 readonly/promoted constructor ledger",
+      "url": "https://github.com/Mohamedajab/transaction-ledger-api/blob/9c152c26fd8bfc8c204e4b0d33c7616e42f6756c/src/TransferService.php#L10-L14",
+      "revision": "9c152c26fd8bfc8c204e4b0d33c7616e42f6756c",
+      "method": "source несовместим с PHP7.4",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "source_sha256": "37f6724f7df0579b3b2e7aff6f9a19dcf3dee46220674a0d61706b8b96a925d9"
+    },
+    {
+      "id": "E01",
+      "claim": "615 production PHP SLOC; 521 core + 94 presentation; 109 setup отдельно",
+      "url": "local:evidence/php-loc.json",
+      "revision": "444a2f71491b755ab3f84dbaa3e4ebf5f2227805",
+      "method": "Pygments PHP lexer 2.21.0; scripts/count_php.py; per-file hashes; docblocks excluded",
+      "status": "VERIFIED",
+      "confidence": "HIGH_FOR_DEFINED_METHOD"
+    },
+    {
+      "id": "E02",
+      "claim": "Runtime validation недоступна; PHP/docker/podman не найдены в PATH",
+      "url": "local:evidence/validation-status.json",
+      "revision": null,
+      "method": "Get-Command git,python,php,docker,podman,cloc -ErrorAction SilentlyContinue",
+      "status": "VERIFIED",
+      "confidence": "HIGH_FOR_THIS_SESSION_PATH_ONLY"
+    },
+    {
+      "id": "E03",
+      "claim": "PHP7.4.33 CLI manifest существует; image не запущен",
+      "url": "https://registry-1.docker.io/v2/library/php/manifests/7.4.33-cli",
+      "revision": "sha256:620a6b9f4d4feef2210026172570465e9d0c1de79766418d3affd09190a7fda5",
+      "method": "public Registry API read; evidence/php-7.4.33-cli-manifest.json",
+      "status": "VERIFIED",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "R01",
+      "claim": "Official waiver допускает OSS с условиями; собственность/оригинальность заявки требуется",
+      "url": "https://cerebralvalley.ai/e/meta-ai-developer-hackathon/waiver",
+      "revision": "HTML SHA256 4ea568bf3eb9febf594eddc8c1c09833b49a6fad415a3d7d59e2d92bbd6fa5e8",
+      "method": "HTTP GET; статическое JSON decoding Next.js payload; paragraphs 28-29",
+      "status": "VERIFIED",
+      "confidence": "HIGH_FOR_PUBLIC_TEXT_NOT_LEGAL_ELIGIBILITY"
+    },
+    {
+      "id": "R02",
+      "claim": "Marketing page по-прежнему обещает публикацию rules до 26 октября",
+      "url": "https://dev.meta.ai/events/global-hackathon",
+      "revision": "HTML SHA256 696f4d8207b5b8d13e43b49b4b20e496838a52ed24fc65b9023f9d4a3071c743",
+      "method": "web open + HTTP GET",
+      "status": "VERIFIED",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "R03",
+      "claim": "PHP7.4 sorts не гарантируют стабильный порядок равных элементов",
+      "url": "https://wiki.php.net/rfc/stable_sorting",
+      "revision": "checked 2026-10-25",
+      "method": "official PHP RFC; implemented in 8.0",
+      "status": "VERIFIED",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "R04",
+      "claim": "PHP преобразует некоторые строковые array keys в int",
+      "url": "https://www.php.net/manual/en/language.types.array.php",
+      "revision": "checked 2026-10-25",
+      "method": "official PHP manual + relevant source",
+      "status": "VERIFIED",
+      "confidence": "HIGH"
+    }
+  ]
+}

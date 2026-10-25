@@ -1,0 +1,17 @@
+[
+  ".env.example",
+  ".github/workflows/ci.yml",
+  ".gitignore",
+  "LICENSE",
+  "README.md",
+  "docs/API.md",
+  "docs/DEFECT-NOTES.md",
+  "migrations/001_create_ledger.sql",
+  "public/index.php",
+  "scripts/init_db.php",
+  "src/Database.php",
+  "src/DomainException.php",
+  "src/TransferService.php",
+  "src/bootstrap.php",
+  "tests/run.php"
+]

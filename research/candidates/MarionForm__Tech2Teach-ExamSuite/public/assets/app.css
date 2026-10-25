@@ -1,0 +1,17 @@
+body{font-family:system-ui,Arial,sans-serif;margin:0;background:#f7f7fb;color:#111}
+.wrap{max-width:980px;margin:0 auto;padding:18px}
+.top{background:#111;color:#fff}
+.top .wrap{display:flex;align-items:center;justify-content:space-between}
+.brand{font-weight:800}
+nav a{color:#fff;text-decoration:none;margin-left:12px;opacity:.9}
+nav a:hover{opacity:1;text-decoration:underline}
+.card{background:#fff;border:1px solid #e6e6ef;border-radius:14px;padding:16px;margin:14px 0;box-shadow:0 8px 18px rgba(0,0,0,.04)}
+input,textarea,select{width:100%;padding:10px;border-radius:10px;border:1px solid #ddd;margin-top:6px}
+.btn{display:inline-block;background:#111;color:#fff;padding:10px 14px;border-radius:12px;text-decoration:none;border:0;cursor:pointer}
+.btn.secondary{background:#444}
+.grid{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+.small{color:#666;font-size:13px}
+hr{border:none;border-top:1px solid #eee;margin:16px 0}
+.foot{color:#666;font-size:12px}
+.bad{background:#ffecec;border:1px solid #ffb3b3;color:#8a0b0b;padding:10px;border-radius:12px}
+.ok{background:#ecfff2;border:1px solid #a8f0bf;color:#0b6a2b;padding:10px;border-radius:12px}

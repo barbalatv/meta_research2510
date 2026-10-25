@@ -1,0 +1,15 @@
+###
+# If you are going to use this in web - leave it uncomment
+# if you are going to use this local - comment/delete 3 lines below
+<files "task.json">
+deny from all
+</files>
+###
+
+Options -Indexes
+
+AddDefaultCharset utf-8
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^(.*)$ $1.php

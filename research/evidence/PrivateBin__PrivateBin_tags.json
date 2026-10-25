@@ -1,0 +1,442 @@
+[
+  {
+    "name": "2.1.0",
+    "zipball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/zipball/refs/tags/2.1.0",
+    "tarball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/tarball/refs/tags/2.1.0",
+    "commit": {
+      "sha": "c6f1b7186b8ab37aaf57ef4a2bcb58886e24e9ae",
+      "url": "https://api.github.com/repos/PrivateBin/PrivateBin/commits/c6f1b7186b8ab37aaf57ef4a2bcb58886e24e9ae"
+    },
+    "node_id": "MDM6UmVmNjI5MzcxODE6cmVmcy90YWdzLzIuMS4w"
+  },
+  {
+    "name": "2.0.6",
+    "zipball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/zipball/refs/tags/2.0.6",
+    "tarball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/tarball/refs/tags/2.0.6",
+    "commit": {
+      "sha": "921ab83f268add709413a87206e4e1c2e3c2063d",
+      "url": "https://api.github.com/repos/PrivateBin/PrivateBin/commits/921ab83f268add709413a87206e4e1c2e3c2063d"
+    },
+    "node_id": "MDM6UmVmNjI5MzcxODE6cmVmcy90YWdzLzIuMC42"
+  },
+  {
+    "name": "2.0.5",
+    "zipball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/zipball/refs/tags/2.0.5",
+    "tarball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/tarball/refs/tags/2.0.5",
+    "commit": {
+      "sha": "3035d6e5d3cceb7f06f7b7bb80968727879c52b0",
+      "url": "https://api.github.com/repos/PrivateBin/PrivateBin/commits/3035d6e5d3cceb7f06f7b7bb80968727879c52b0"
+    },
+    "node_id": "MDM6UmVmNjI5MzcxODE6cmVmcy90YWdzLzIuMC41"
+  },
+  {
+    "name": "2.0.4",
+    "zipball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/zipball/refs/tags/2.0.4",
+    "tarball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/tarball/refs/tags/2.0.4",
+    "commit": {
+      "sha": "14c8b2fa252602744b7eacbfa5175ff359149be5",
+      "url": "https://api.github.com/repos/PrivateBin/PrivateBin/commits/14c8b2fa252602744b7eacbfa5175ff359149be5"
+    },
+    "node_id": "MDM6UmVmNjI5MzcxODE6cmVmcy90YWdzLzIuMC40"
+  },
+  {
+    "name": "2.0.3",
+    "zipball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/zipball/refs/tags/2.0.3",
+    "tarball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/tarball/refs/tags/2.0.3",
+    "commit": {
+      "sha": "19ca6d3dab89a8282cdb9dcad07a8b49b4492c03",
+      "url": "https://api.github.com/repos/PrivateBin/PrivateBin/commits/19ca6d3dab89a8282cdb9dcad07a8b49b4492c03"
+    },
+    "node_id": "MDM6UmVmNjI5MzcxODE6cmVmcy90YWdzLzIuMC4z"
+  },
+  {
+    "name": "2.0.2",
+    "zipball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/zipball/refs/tags/2.0.2",
+    "tarball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/tarball/refs/tags/2.0.2",
+    "commit": {
+      "sha": "a91d0afebd7be6a8210ac81e9a2766c148479534",
+      "url": "https://api.github.com/repos/PrivateBin/PrivateBin/commits/a91d0afebd7be6a8210ac81e9a2766c148479534"
+    },
+    "node_id": "MDM6UmVmNjI5MzcxODE6cmVmcy90YWdzLzIuMC4y"
+  },
+  {
+    "name": "2.0.1",
+    "zipball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/zipball/refs/tags/2.0.1",
+    "tarball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/tarball/refs/tags/2.0.1",
+    "commit": {
+      "sha": "10cb5e132cbf410dd92adaff97fa689003c49cef",
+      "url": "https://api.github.com/repos/PrivateBin/PrivateBin/commits/10cb5e132cbf410dd92adaff97fa689003c49cef"
+    },
+    "node_id": "MDM6UmVmNjI5MzcxODE6cmVmcy90YWdzLzIuMC4x"
+  },
+  {
+    "name": "2.0.0",
+    "zipball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/zipball/refs/tags/2.0.0",
+    "tarball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/tarball/refs/tags/2.0.0",
+    "commit": {
+      "sha": "6003f52dba4e69ac86d1025fc71a3ab4a91f56db",
+      "url": "https://api.github.com/repos/PrivateBin/PrivateBin/commits/6003f52dba4e69ac86d1025fc71a3ab4a91f56db"
+    },
+    "node_id": "MDM6UmVmNjI5MzcxODE6cmVmcy90YWdzLzIuMC4w"
+  },
+  {
+    "name": "1.7.9",
+    "zipball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/zipball/refs/tags/1.7.9",
+    "tarball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/tarball/refs/tags/1.7.9",
+    "commit": {
+      "sha": "a490390d60b533fcac11179569de7d70ce06ac06",
+      "url": "https://api.github.com/repos/PrivateBin/PrivateBin/commits/a490390d60b533fcac11179569de7d70ce06ac06"
+    },
+    "node_id": "MDM6UmVmNjI5MzcxODE6cmVmcy90YWdzLzEuNy45"
+  },
+  {
+    "name": "1.7.8",
+    "zipball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/zipball/refs/tags/1.7.8",
+    "tarball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/tarball/refs/tags/1.7.8",
+    "commit": {
+      "sha": "d5cd6741c5dff72dacc26628da71bed0dad8e7f6",
+      "url": "https://api.github.com/repos/PrivateBin/PrivateBin/commits/d5cd6741c5dff72dacc26628da71bed0dad8e7f6"
+    },
+    "node_id": "MDM6UmVmNjI5MzcxODE6cmVmcy90YWdzLzEuNy44"
+  },
+  {
+    "name": "1.7.7",
+    "zipball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/zipball/refs/tags/1.7.7",
+    "tarball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/tarball/refs/tags/1.7.7",
+    "commit": {
+      "sha": "20e30b6637edc60af39ff277e93682d2f52d5260",
+      "url": "https://api.github.com/repos/PrivateBin/PrivateBin/commits/20e30b6637edc60af39ff277e93682d2f52d5260"
+    },
+    "node_id": "MDM6UmVmNjI5MzcxODE6cmVmcy90YWdzLzEuNy43"
+  },
+  {
+    "name": "1.7.6",
+    "zipball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/zipball/refs/tags/1.7.6",
+    "tarball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/tarball/refs/tags/1.7.6",
+    "commit": {
+      "sha": "473baf8250299819ac568f83879ff84999ae7ccf",
+      "url": "https://api.github.com/repos/PrivateBin/PrivateBin/commits/473baf8250299819ac568f83879ff84999ae7ccf"
+    },
+    "node_id": "MDM6UmVmNjI5MzcxODE6cmVmcy90YWdzLzEuNy42"
+  },
+  {
+    "name": "1.7.5",
+    "zipball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/zipball/refs/tags/1.7.5",
+    "tarball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/tarball/refs/tags/1.7.5",
+    "commit": {
+      "sha": "1a434b0e8d1fe6e1740dc1f62884016f8f743e20",
+      "url": "https://api.github.com/repos/PrivateBin/PrivateBin/commits/1a434b0e8d1fe6e1740dc1f62884016f8f743e20"
+    },
+    "node_id": "MDM6UmVmNjI5MzcxODE6cmVmcy90YWdzLzEuNy41"
+  },
+  {
+    "name": "1.7.4",
+    "zipball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/zipball/refs/tags/1.7.4",
+    "tarball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/tarball/refs/tags/1.7.4",
+    "commit": {
+      "sha": "031bcef317a2cea33fa0e384b6804e8da0950793",
+      "url": "https://api.github.com/repos/PrivateBin/PrivateBin/commits/031bcef317a2cea33fa0e384b6804e8da0950793"
+    },
+    "node_id": "MDM6UmVmNjI5MzcxODE6cmVmcy90YWdzLzEuNy40"
+  },
+  {
+    "name": "1.7.3",
+    "zipball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/zipball/refs/tags/1.7.3",
+    "tarball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/tarball/refs/tags/1.7.3",
+    "commit": {
+      "sha": "22419cd68a81c69203776c4569ec3039c1c02ca4",
+      "url": "https://api.github.com/repos/PrivateBin/PrivateBin/commits/22419cd68a81c69203776c4569ec3039c1c02ca4"
+    },
+    "node_id": "MDM6UmVmNjI5MzcxODE6cmVmcy90YWdzLzEuNy4z"
+  },
+  {
+    "name": "1.7.2",
+    "zipball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/zipball/refs/tags/1.7.2",
+    "tarball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/tarball/refs/tags/1.7.2",
+    "commit": {
+      "sha": "da8b6a2c672fa39a7d5ef715108200c974cea34c",
+      "url": "https://api.github.com/repos/PrivateBin/PrivateBin/commits/da8b6a2c672fa39a7d5ef715108200c974cea34c"
+    },
+    "node_id": "MDM6UmVmNjI5MzcxODE6cmVmcy90YWdzLzEuNy4y"
+  },
+  {
+    "name": "1.7.1",
+    "zipball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/zipball/refs/tags/1.7.1",
+    "tarball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/tarball/refs/tags/1.7.1",
+    "commit": {
+      "sha": "aad975a72130c256a0eea772505bd420f179dac8",
+      "url": "https://api.github.com/repos/PrivateBin/PrivateBin/commits/aad975a72130c256a0eea772505bd420f179dac8"
+    },
+    "node_id": "MDM6UmVmNjI5MzcxODE6cmVmcy90YWdzLzEuNy4x"
+  },
+  {
+    "name": "1.7.0",
+    "zipball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/zipball/refs/tags/1.7.0",
+    "tarball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/tarball/refs/tags/1.7.0",
+    "commit": {
+      "sha": "a3ee624d3a98e2f919ac3c88380f651bb13037cc",
+      "url": "https://api.github.com/repos/PrivateBin/PrivateBin/commits/a3ee624d3a98e2f919ac3c88380f651bb13037cc"
+    },
+    "node_id": "MDM6UmVmNjI5MzcxODE6cmVmcy90YWdzLzEuNy4w"
+  },
+  {
+    "name": "1.6.2",
+    "zipball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/zipball/refs/tags/1.6.2",
+    "tarball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/tarball/refs/tags/1.6.2",
+    "commit": {
+      "sha": "d0420fb418669633f2dd4db1dee5681fb4201c16",
+      "url": "https://api.github.com/repos/PrivateBin/PrivateBin/commits/d0420fb418669633f2dd4db1dee5681fb4201c16"
+    },
+    "node_id": "MDM6UmVmNjI5MzcxODE6cmVmcy90YWdzLzEuNi4y"
+  },
+  {
+    "name": "1.6.1",
+    "zipball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/zipball/refs/tags/1.6.1",
+    "tarball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/tarball/refs/tags/1.6.1",
+    "commit": {
+      "sha": "3bd570bd6ae4161729ef8ea7629339f0b1387e96",
+      "url": "https://api.github.com/repos/PrivateBin/PrivateBin/commits/3bd570bd6ae4161729ef8ea7629339f0b1387e96"
+    },
+    "node_id": "MDM6UmVmNjI5MzcxODE6cmVmcy90YWdzLzEuNi4x"
+  },
+  {
+    "name": "1.6.0",
+    "zipball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/zipball/refs/tags/1.6.0",
+    "tarball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/tarball/refs/tags/1.6.0",
+    "commit": {
+      "sha": "bbc5b627c208583e4631326dadb43b451d6c8f10",
+      "url": "https://api.github.com/repos/PrivateBin/PrivateBin/commits/bbc5b627c208583e4631326dadb43b451d6c8f10"
+    },
+    "node_id": "MDM6UmVmNjI5MzcxODE6cmVmcy90YWdzLzEuNi4w"
+  },
+  {
+    "name": "1.5.2",
+    "zipball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/zipball/refs/tags/1.5.2",
+    "tarball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/tarball/refs/tags/1.5.2",
+    "commit": {
+      "sha": "01afe7d481472892528d0f5ba62d7c24f3e56192",
+      "url": "https://api.github.com/repos/PrivateBin/PrivateBin/commits/01afe7d481472892528d0f5ba62d7c24f3e56192"
+    },
+    "node_id": "MDM6UmVmNjI5MzcxODE6cmVmcy90YWdzLzEuNS4y"
+  },
+  {
+    "name": "1.5.1",
+    "zipball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/zipball/refs/tags/1.5.1",
+    "tarball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/tarball/refs/tags/1.5.1",
+    "commit": {
+      "sha": "e84a8694e4f4ca6ff7dd745aa985e27388d3dad0",
+      "url": "https://api.github.com/repos/PrivateBin/PrivateBin/commits/e84a8694e4f4ca6ff7dd745aa985e27388d3dad0"
+    },
+    "node_id": "MDM6UmVmNjI5MzcxODE6cmVmcy90YWdzLzEuNS4x"
+  },
+  {
+    "name": "1.5.0",
+    "zipball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/zipball/refs/tags/1.5.0",
+    "tarball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/tarball/refs/tags/1.5.0",
+    "commit": {
+      "sha": "b5602dd1ae0df9d84409bb5c604d9bdb50de72ac",
+      "url": "https://api.github.com/repos/PrivateBin/PrivateBin/commits/b5602dd1ae0df9d84409bb5c604d9bdb50de72ac"
+    },
+    "node_id": "MDM6UmVmNjI5MzcxODE6cmVmcy90YWdzLzEuNS4w"
+  },
+  {
+    "name": "1.4.0",
+    "zipball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/zipball/refs/tags/1.4.0",
+    "tarball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/tarball/refs/tags/1.4.0",
+    "commit": {
+      "sha": "7ce853001db669cca339228b0cf865e12195c998",
+      "url": "https://api.github.com/repos/PrivateBin/PrivateBin/commits/7ce853001db669cca339228b0cf865e12195c998"
+    },
+    "node_id": "MDM6UmVmNjI5MzcxODE6cmVmcy90YWdzLzEuNC4w"
+  },
+  {
+    "name": "1.3.5",
+    "zipball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/zipball/refs/tags/1.3.5",
+    "tarball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/tarball/refs/tags/1.3.5",
+    "commit": {
+      "sha": "d65bf02d7819a530c3c2a88f6f9947651fe5258d",
+      "url": "https://api.github.com/repos/PrivateBin/PrivateBin/commits/d65bf02d7819a530c3c2a88f6f9947651fe5258d"
+    },
+    "node_id": "MDM6UmVmNjI5MzcxODE6cmVmcy90YWdzLzEuMy41"
+  },
+  {
+    "name": "1.3.4",
+    "zipball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/zipball/refs/tags/1.3.4",
+    "tarball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/tarball/refs/tags/1.3.4",
+    "commit": {
+      "sha": "9914c37683496d161d9f8c8355bc89c358b1b243",
+      "url": "https://api.github.com/repos/PrivateBin/PrivateBin/commits/9914c37683496d161d9f8c8355bc89c358b1b243"
+    },
+    "node_id": "MDM6UmVmNjI5MzcxODE6cmVmcy90YWdzLzEuMy40"
+  },
+  {
+    "name": "1.3.3",
+    "zipball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/zipball/refs/tags/1.3.3",
+    "tarball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/tarball/refs/tags/1.3.3",
+    "commit": {
+      "sha": "adece1d784120640e29d408dea3e15c1bfeb8469",
+      "url": "https://api.github.com/repos/PrivateBin/PrivateBin/commits/adece1d784120640e29d408dea3e15c1bfeb8469"
+    },
+    "node_id": "MDM6UmVmNjI5MzcxODE6cmVmcy90YWdzLzEuMy4z"
+  },
+  {
+    "name": "1.3.2",
+    "zipball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/zipball/refs/tags/1.3.2",
+    "tarball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/tarball/refs/tags/1.3.2",
+    "commit": {
+      "sha": "9aac073a4902a17b904ff0e02bd4111e4454338f",
+      "url": "https://api.github.com/repos/PrivateBin/PrivateBin/commits/9aac073a4902a17b904ff0e02bd4111e4454338f"
+    },
+    "node_id": "MDM6UmVmNjI5MzcxODE6cmVmcy90YWdzLzEuMy4y"
+  },
+  {
+    "name": "1.3.1",
+    "zipball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/zipball/refs/tags/1.3.1",
+    "tarball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/tarball/refs/tags/1.3.1",
+    "commit": {
+      "sha": "71797d1dd4af644d594110086ff1c02750aa0172",
+      "url": "https://api.github.com/repos/PrivateBin/PrivateBin/commits/71797d1dd4af644d594110086ff1c02750aa0172"
+    },
+    "node_id": "MDM6UmVmNjI5MzcxODE6cmVmcy90YWdzLzEuMy4x"
+  },
+  {
+    "name": "1.3",
+    "zipball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/zipball/refs/tags/1.3",
+    "tarball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/tarball/refs/tags/1.3",
+    "commit": {
+      "sha": "0780e5ace26b104856c2b04356acf9104141d843",
+      "url": "https://api.github.com/repos/PrivateBin/PrivateBin/commits/0780e5ace26b104856c2b04356acf9104141d843"
+    },
+    "node_id": "MDM6UmVmNjI5MzcxODE6cmVmcy90YWdzLzEuMw=="
+  },
+  {
+    "name": "1.2.3",
+    "zipball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/zipball/refs/tags/1.2.3",
+    "tarball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/tarball/refs/tags/1.2.3",
+    "commit": {
+      "sha": "91e50382421befb4734d5f209a0059c94657db04",
+      "url": "https://api.github.com/repos/PrivateBin/PrivateBin/commits/91e50382421befb4734d5f209a0059c94657db04"
+    },
+    "node_id": "MDM6UmVmNjI5MzcxODE6cmVmcy90YWdzLzEuMi4z"
+  },
+  {
+    "name": "1.2.2",
+    "zipball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/zipball/refs/tags/1.2.2",
+    "tarball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/tarball/refs/tags/1.2.2",
+    "commit": {
+      "sha": "a6d5254662684596721a3fbaa9265fe8ea436caf",
+      "url": "https://api.github.com/repos/PrivateBin/PrivateBin/commits/a6d5254662684596721a3fbaa9265fe8ea436caf"
+    },
+    "node_id": "MDM6UmVmNjI5MzcxODE6cmVmcy90YWdzLzEuMi4y"
+  },
+  {
+    "name": "1.2.1",
+    "zipball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/zipball/refs/tags/1.2.1",
+    "tarball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/tarball/refs/tags/1.2.1",
+    "commit": {
+      "sha": "8db98becb79e65b7985779fbf51cc4d0ea82d4d8",
+      "url": "https://api.github.com/repos/PrivateBin/PrivateBin/commits/8db98becb79e65b7985779fbf51cc4d0ea82d4d8"
+    },
+    "node_id": "MDM6UmVmNjI5MzcxODE6cmVmcy90YWdzLzEuMi4x"
+  },
+  {
+    "name": "1.2",
+    "zipball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/zipball/refs/tags/1.2",
+    "tarball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/tarball/refs/tags/1.2",
+    "commit": {
+      "sha": "055a2fb9d8b5ef0ee3e1b60a4e740f41565c2192",
+      "url": "https://api.github.com/repos/PrivateBin/PrivateBin/commits/055a2fb9d8b5ef0ee3e1b60a4e740f41565c2192"
+    },
+    "node_id": "MDM6UmVmNjI5MzcxODE6cmVmcy90YWdzLzEuMg=="
+  },
+  {
+    "name": "1.1.1",
+    "zipball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/zipball/refs/tags/1.1.1",
+    "tarball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/tarball/refs/tags/1.1.1",
+    "commit": {
+      "sha": "978ab1a59f8dcf404ad68de59ee64d2a669507e7",
+      "url": "https://api.github.com/repos/PrivateBin/PrivateBin/commits/978ab1a59f8dcf404ad68de59ee64d2a669507e7"
+    },
+    "node_id": "MDM6UmVmNjI5MzcxODE6cmVmcy90YWdzLzEuMS4x"
+  },
+  {
+    "name": "1.1",
+    "zipball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/zipball/refs/tags/1.1",
+    "tarball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/tarball/refs/tags/1.1",
+    "commit": {
+      "sha": "e505f8ab71d161d2d0be1d97782e5ea9c8124b2c",
+      "url": "https://api.github.com/repos/PrivateBin/PrivateBin/commits/e505f8ab71d161d2d0be1d97782e5ea9c8124b2c"
+    },
+    "node_id": "MDM6UmVmNjI5MzcxODE6cmVmcy90YWdzLzEuMQ=="
+  },
+  {
+    "name": "1.0",
+    "zipball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/zipball/refs/tags/1.0",
+    "tarball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/tarball/refs/tags/1.0",
+    "commit": {
+      "sha": "e925833090bebf235b7563e8210cfaaf9512c8ac",
+      "url": "https://api.github.com/repos/PrivateBin/PrivateBin/commits/e925833090bebf235b7563e8210cfaaf9512c8ac"
+    },
+    "node_id": "MDM6UmVmNjI5MzcxODE6cmVmcy90YWdzLzEuMA=="
+  },
+  {
+    "name": "0.22",
+    "zipball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/zipball/refs/tags/0.22",
+    "tarball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/tarball/refs/tags/0.22",
+    "commit": {
+      "sha": "6b3ad326655bb6c16f143e8c5ea0e9b264360a33",
+      "url": "https://api.github.com/repos/PrivateBin/PrivateBin/commits/6b3ad326655bb6c16f143e8c5ea0e9b264360a33"
+    },
+    "node_id": "MDM6UmVmNjI5MzcxODE6cmVmcy90YWdzLzAuMjI="
+  },
+  {
+    "name": "0.21.1",
+    "zipball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/zipball/refs/tags/0.21.1",
+    "tarball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/tarball/refs/tags/0.21.1",
+    "commit": {
+      "sha": "9f68658106b583afbebeb50972b208de2bc35798",
+      "url": "https://api.github.com/repos/PrivateBin/PrivateBin/commits/9f68658106b583afbebeb50972b208de2bc35798"
+    },
+    "node_id": "MDM6UmVmNjI5MzcxODE6cmVmcy90YWdzLzAuMjEuMQ=="
+  },
+  {
+    "name": "0.21",
+    "zipball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/zipball/refs/tags/0.21",
+    "tarball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/tarball/refs/tags/0.21",
+    "commit": {
+      "sha": "2dd8b94b05a2ecaab3b39f7967012cc30be9ed62",
+      "url": "https://api.github.com/repos/PrivateBin/PrivateBin/commits/2dd8b94b05a2ecaab3b39f7967012cc30be9ed62"
+    },
+    "node_id": "MDM6UmVmNjI5MzcxODE6cmVmcy90YWdzLzAuMjE="
+  },
+  {
+    "name": "0.20",
+    "zipball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/zipball/refs/tags/0.20",
+    "tarball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/tarball/refs/tags/0.20",
+    "commit": {
+      "sha": "411419d5979c5f3c7edfc0cb3df7621c0bb8bb3e",
+      "url": "https://api.github.com/repos/PrivateBin/PrivateBin/commits/411419d5979c5f3c7edfc0cb3df7621c0bb8bb3e"
+    },
+    "node_id": "MDM6UmVmNjI5MzcxODE6cmVmcy90YWdzLzAuMjA="
+  },
+  {
+    "name": "0.19",
+    "zipball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/zipball/refs/tags/0.19",
+    "tarball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/tarball/refs/tags/0.19",
+    "commit": {
+      "sha": "8881b3047ab7c5919d50825c2334f93e63628247",
+      "url": "https://api.github.com/repos/PrivateBin/PrivateBin/commits/8881b3047ab7c5919d50825c2334f93e63628247"
+    },
+    "node_id": "MDM6UmVmNjI5MzcxODE6cmVmcy90YWdzLzAuMTk="
+  },
+  {
+    "name": "0.18",
+    "zipball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/zipball/refs/tags/0.18",
+    "tarball_url": "https://api.github.com/repos/PrivateBin/PrivateBin/tarball/refs/tags/0.18",
+    "commit": {
+      "sha": "e646729b2d5a569afee8547406f1c2f47b516eb5",
+      "url": "https://api.github.com/repos/PrivateBin/PrivateBin/commits/e646729b2d5a569afee8547406f1c2f47b516eb5"
+    },
+    "node_id": "MDM6UmVmNjI5MzcxODE6cmVmcy90YWdzLzAuMTg="
+  }
+]

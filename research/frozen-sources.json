@@ -1,0 +1,162 @@
+[
+  {
+    "repo": "Alespfer/wisenomy",
+    "commit": "ba80f94750362842a2a914fc5ac501a44c5380a9",
+    "requested_ref": null,
+    "snapshot_directory": "Alespfer__wisenomy",
+    "archive_url": "https://codeload.github.com/Alespfer/wisenomy/zip/ba80f94750362842a2a914fc5ac501a44c5380a9",
+    "archive_sha256": "af4dd660d9b4c5365a74f16e223daff5b0655b3cdc7926e69434169e99fff9fe"
+  },
+  {
+    "repo": "MarionForm/Tech2Teach-ExamSuite",
+    "commit": "444a2f71491b755ab3f84dbaa3e4ebf5f2227805",
+    "requested_ref": "main",
+    "snapshot_directory": "MarionForm__Tech2Teach-ExamSuite",
+    "archive_url": "https://codeload.github.com/MarionForm/Tech2Teach-ExamSuite/zip/444a2f71491b755ab3f84dbaa3e4ebf5f2227805",
+    "archive_sha256": "11d9bf5d2413bc9ca917c6c2a35101c8bbe73883fa867a8d15fb419e2883e1ec"
+  },
+  {
+    "repo": "Mohamedajab/transaction-ledger-api",
+    "commit": "9c152c26fd8bfc8c204e4b0d33c7616e42f6756c",
+    "requested_ref": null,
+    "snapshot_directory": "Mohamedajab__transaction-ledger-api",
+    "archive_url": "https://codeload.github.com/Mohamedajab/transaction-ledger-api/zip/9c152c26fd8bfc8c204e4b0d33c7616e42f6756c",
+    "archive_sha256": "42961591328822f76f7aadf23b4668883e4f67c240add452e3341f00029713d6"
+  },
+  {
+    "repo": "PHPixie/Demo-Todo",
+    "commit": "399483d98fb9f11f99781c444533734f1b35df6b",
+    "requested_ref": null,
+    "snapshot_directory": "PHPixie__Demo-Todo",
+    "archive_url": "https://codeload.github.com/PHPixie/Demo-Todo/zip/399483d98fb9f11f99781c444533734f1b35df6b",
+    "archive_sha256": "214439b9a4336d26a2df76e09965a65f606e2e654d676443f328fd38e039f2b9"
+  },
+  {
+    "repo": "PrivateBin/PrivateBin",
+    "commit": "d32b699d71c6d19ea183c110f5dda6b998da1e42",
+    "requested_ref": null,
+    "snapshot_directory": "PrivateBin__PrivateBin",
+    "archive_url": "https://codeload.github.com/PrivateBin/PrivateBin/zip/d32b699d71c6d19ea183c110f5dda6b998da1e42",
+    "archive_sha256": "94c36b212dd0d443be25fa2632b9a528841efee43a455fecb2f0e20ee5ab1f7e"
+  },
+  {
+    "repo": "PrivateBin/PrivateBin",
+    "commit": "6b3ad326655bb6c16f143e8c5ea0e9b264360a33",
+    "requested_ref": "0.22",
+    "snapshot_directory": "PrivateBin__PrivateBin__0.22",
+    "archive_url": "https://codeload.github.com/PrivateBin/PrivateBin/zip/6b3ad326655bb6c16f143e8c5ea0e9b264360a33",
+    "archive_sha256": "3482571ccbe51a70b5ace012bdc1cd8a026012ffc26787c349d945706e661daf"
+  },
+  {
+    "repo": "PrivateBin/PrivateBin",
+    "commit": "d65bf02d7819a530c3c2a88f6f9947651fe5258d",
+    "requested_ref": "1.3.5",
+    "snapshot_directory": "PrivateBin__PrivateBin__1.3.5",
+    "archive_url": "https://codeload.github.com/PrivateBin/PrivateBin/zip/d65bf02d7819a530c3c2a88f6f9947651fe5258d",
+    "archive_sha256": "d3c49391d1152c782eedb4253197bcd55d7c3ec46e221f96b0ce78e8141d83de"
+  },
+  {
+    "repo": "TyMick/php-todo",
+    "commit": "0178df120597d07d1d6beebcad70943734e01e84",
+    "requested_ref": null,
+    "snapshot_directory": "TyMick__php-todo",
+    "archive_url": "https://codeload.github.com/TyMick/php-todo/zip/0178df120597d07d1d6beebcad70943734e01e84",
+    "archive_sha256": "5eeb971f37b4085d7615e92dd4bc5ab2bf478cc892703c5f4551d7a1f0e18677"
+  },
+  {
+    "repo": "azlux/Simple-URL-Shortener",
+    "commit": "acba0eaf5b38edff285abec164e202a897ace07d",
+    "requested_ref": null,
+    "snapshot_directory": "azlux__Simple-URL-Shortener",
+    "archive_url": "https://codeload.github.com/azlux/Simple-URL-Shortener/zip/acba0eaf5b38edff285abec164e202a897ace07d",
+    "archive_sha256": "e2d35deb578ca27b6dc74a9220787fae62833d36345fb87342f18492156570c9"
+  },
+  {
+    "repo": "coskunsoysal/rest-api-sample",
+    "commit": "bee41d433bf6a88ef2ae1c7ff494616ae123e4fd",
+    "requested_ref": null,
+    "snapshot_directory": "coskunsoysal__rest-api-sample",
+    "archive_url": "https://codeload.github.com/coskunsoysal/rest-api-sample/zip/bee41d433bf6a88ef2ae1c7ff494616ae123e4fd",
+    "archive_sha256": "3f160e955a0e38beaf71db9c8553ee3726cc0aa01c91dc46f550fa7f164f43a5"
+  },
+  {
+    "repo": "kanboard/kanboard",
+    "commit": "c2f8e1c4360cbdd0c740b747d017034d97d8e053",
+    "requested_ref": "v1.0.0",
+    "snapshot_directory": "kanboard__kanboard__v1.0.0",
+    "archive_url": "https://codeload.github.com/kanboard/kanboard/zip/c2f8e1c4360cbdd0c740b747d017034d97d8e053",
+    "archive_sha256": "c3e9969a228a1b313cad591bd70bde53c410f66875ada8c6d9236103d775425c"
+  },
+  {
+    "repo": "kiswa/TaskBoard",
+    "commit": "857583e4bb508c7b449a8e45bb0747d22d88abdb",
+    "requested_ref": null,
+    "snapshot_directory": "kiswa__TaskBoard",
+    "archive_url": "https://codeload.github.com/kiswa/TaskBoard/zip/857583e4bb508c7b449a8e45bb0747d22d88abdb",
+    "archive_sha256": "1ba404b8108f09af39589812ef699194af5a1a4c9d31e14032290f998ac35690"
+  },
+  {
+    "repo": "lgg-archive/tasks.php",
+    "commit": "d01f9366b8e1f53ea63d26054346ad866f1ec57f",
+    "requested_ref": "master",
+    "snapshot_directory": "lgg-archive__tasks.php",
+    "archive_url": "https://codeload.github.com/lgg-archive/tasks.php/zip/d01f9366b8e1f53ea63d26054346ad866f1ec57f",
+    "archive_sha256": "938a36fa88b3ce97ab1fb3dcdaf4ecb0c294b2b83ffccd813797a8ead4725a87"
+  },
+  {
+    "repo": "lodev09/php-todo",
+    "commit": "95be4451c8c46ad7f25a3baa773118200ab3224e",
+    "requested_ref": null,
+    "snapshot_directory": "lodev09__php-todo",
+    "archive_url": "https://codeload.github.com/lodev09/php-todo/zip/95be4451c8c46ad7f25a3baa773118200ab3224e",
+    "archive_sha256": "2789c7293c0f26c5c8e3a86651120333f64390966ad139ab7622a8703c6a6303"
+  },
+  {
+    "repo": "ronaldaug/sim-rest",
+    "commit": "a6e0f40a6cc795ac4ddb95a3d1aef9ebb3ae851c",
+    "requested_ref": null,
+    "snapshot_directory": "ronaldaug__sim-rest",
+    "archive_url": "https://codeload.github.com/ronaldaug/sim-rest/zip/a6e0f40a6cc795ac4ddb95a3d1aef9ebb3ae851c",
+    "archive_sha256": "5993c3df86f96a1a094071dadf707c7a1ea434fe297c855fed988fb6e09cd33f"
+  },
+  {
+    "repo": "sebcode/b",
+    "commit": "d0d240bd99d12a43eb9740033854baeea09bf797",
+    "requested_ref": null,
+    "snapshot_directory": "sebcode__b",
+    "archive_url": "https://codeload.github.com/sebcode/b/zip/d0d240bd99d12a43eb9740033854baeea09bf797",
+    "archive_sha256": "8cd0aec78f53c6ef414abccf56c245835574ffdce6541bd20aa6efcd5eeb9cf7"
+  },
+  {
+    "repo": "seikan/Cart",
+    "commit": "cae64d344126951b8ca10ea68d4aeb097237602f",
+    "requested_ref": null,
+    "snapshot_directory": "seikan__Cart",
+    "archive_url": "https://codeload.github.com/seikan/Cart/zip/cae64d344126951b8ca10ea68d4aeb097237602f",
+    "archive_sha256": "9a6ab2cee1200b7ff023086b1931410c2e7729f1cb703d430833cb925f101ad5"
+  },
+  {
+    "repo": "sen-ltd/short-url",
+    "commit": "c2bead05235909e8e6d8052d9e5c8d133b95d968",
+    "requested_ref": null,
+    "snapshot_directory": "sen-ltd__short-url",
+    "archive_url": "https://codeload.github.com/sen-ltd/short-url/zip/c2bead05235909e8e6d8052d9e5c8d133b95d968",
+    "archive_sha256": "f49dbe02814feb0dbe1d5460f92bffafa9efab5ebd8c17d13a388c218a2b77d1"
+  },
+  {
+    "repo": "simplonco/php-rest-sqlite",
+    "commit": "d981dad37edd65277ee48db5bbcb805ab1a00704",
+    "requested_ref": null,
+    "snapshot_directory": "simplonco__php-rest-sqlite",
+    "archive_url": "https://codeload.github.com/simplonco/php-rest-sqlite/zip/d981dad37edd65277ee48db5bbcb805ab1a00704",
+    "archive_sha256": "bd9f3893d4a3ee3c4033adb16e288c05e128ead1730db5d57cab81478947be4d"
+  },
+  {
+    "repo": "yui0/php-db-api",
+    "commit": "db55be7e94d16d54e37b5c233fda3785419ba8aa",
+    "requested_ref": null,
+    "snapshot_directory": "yui0__php-db-api",
+    "archive_url": "https://codeload.github.com/yui0/php-db-api/zip/db55be7e94d16d54e37b5c233fda3785419ba8aa",
+    "archive_sha256": "dc9341d4070765a0c58b3bc2424a9af211ee8359a15a6f87ecc60d9e713b14e9"
+  }
+]

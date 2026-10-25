@@ -1,0 +1,8 @@
+.env
+var/
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+.idea/
+.vscode/
+

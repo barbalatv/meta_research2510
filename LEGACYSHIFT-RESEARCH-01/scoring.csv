@@ -1,0 +1,7 @@
+candidate,differential_25,setup_20,domain_15,scope_15,runtime_db_deps_15,license_provenance_10,weighted_total_100,assessment
+car-workshop,9.5,9.5,9.0,6.0,9.0,9.5,8.825,INFERRED from pinned-source evidence; not a runtime benchmark
+Sari-Sari-Store-System,7.0,6.5,9.0,8.5,8.0,8.5,7.725,INFERRED from pinned-source evidence; not a runtime benchmark
+client-billing-manager,6.0,9.0,6.5,7.0,8.5,9.0,7.5,INFERRED from pinned-source evidence; not a runtime benchmark
+HelpdeskPortablePHP,6.5,7.0,8.0,8.0,6.0,9.0,7.225,INFERRED from pinned-source evidence; not a runtime benchmark
+php-native-rest-api,7.0,7.5,4.5,6.5,7.0,9.0,6.85,INFERRED from pinned-source evidence; not a runtime benchmark
+Listas/Proyectos/03MVC,6.5,6.5,8.0,6.5,5.5,8.0,6.725,INFERRED from pinned-source evidence; not a runtime benchmark

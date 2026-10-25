@@ -1,0 +1,22 @@
+{
+  "repo": "WebEngineBlueprints/todo-list",
+  "stage": "DISCOVERY_ONLY",
+  "files": {
+    "README.md": {
+      "url": "https://raw.githubusercontent.com/WebEngineBlueprints/todo-list/HEAD/README.md",
+      "text": "# To do list\n\n![Screenshot of a to-do list app made in WebEngine](screenshot.png)\n\nA basic database-driven to-do list with CSS styling and no JavaScript.\n\nThis blueprint will help you get on the way with introducing a database and page interaction, and acts as a good learning tool.\n\nTo run: `composer install` to set up the project, `gt migrate` to create the database, `gt run` to start the server, then visit http://localhost:8080 \n\n## The database\n\nThis project uses an SQLite to persist its state, storing a `todo-list.sqlite` file in the project root. It is not built to be multi-user, so hosting this code online would mean that anyone can update the to-do list. Not too much work is required to add multi-user concurrency, but that's outside the scope of this blueprint.\n\nThere's only a single table `todo`, created in the `query/_migration/001-schema.sql` file (which can be executed using `gt migrate`).\n\nThe CRUD queries are stored in `query/todo` - there are only 4 query files: `create.sql`, `retrieve.sql`, `update.sql`, `delete.sql`.\n\n## The model\n\nEach record in the database is represented by an instance of `TodoItem`. This is handled by the `TodoList` class, which acts as a Repository, being constructed by the `ServiceLoader` with a reference to the database. \n\n## The page view and logic\n\nThere is only one page: `index`. The `index.html` stores the view, which is mainly static, apart from the `<li>` element that has the `data-list` attribute, indicating that it should be repeated for every item in the list.\n\nThe logic is stored in `index.php`. The `go()` function is executed every page view. Within the page there are `<button>` elements that have their `name` attribute set to `do`. Clicking these buttons executes the corresponding `do_*()` functions in `index.php`.\n\nAny classes that are required for the `go` and `do` functions to do their job are passed as parameters to the functions, and their construction is handled once in the `ServiceLoader`.\n"
+    },
+    "LICENSE": {
+      "url": "https://raw.githubusercontent.com/WebEngineBlueprints/todo-list/HEAD/LICENSE",
+      "error": "HTTP Error 404: Not Found"
+    },
+    "LICENSE.md": {
+      "url": "https://raw.githubusercontent.com/WebEngineBlueprints/todo-list/HEAD/LICENSE.md",
+      "error": "HTTP Error 404: Not Found"
+    },
+    "composer.json": {
+      "url": "https://raw.githubusercontent.com/WebEngineBlueprints/todo-list/HEAD/composer.json",
+      "text": "{\n\t\"name\": \"webengine-blueprints/todo-list\",\n\t\"description\": \"Database-driven CRUD application.\",\n\n\t\"require\": {\n\t\t\"phpgt/webengine\": \"dev-master\"\n\t},\n\n\t\"autoload\": {\n\t\t\"psr-4\": {\n\t\t\t\"App\\\\\": \"./class\"\n\t\t}\n\t}\n}\n"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "research_date": "2026-10-25",
+  "timezone": "Europe/Chisinau",
+  "decision": "CONDITIONAL GO",
+  "primary": {
+    "repo": "MarionForm/Tech2Teach-ExamSuite",
+    "url": "https://github.com/MarionForm/Tech2Teach-ExamSuite",
+    "commit": "444a2f71491b755ab3f84dbaa3e4ebf5f2227805",
+    "tag": null,
+    "source_archive_sha256": "11d9bf5d2413bc9ca917c6c2a35101c8bbe73883fa867a8d15fb419e2883e1ec",
+    "license": "MIT",
+    "php74": "STATICALLY_SUPPORTED",
+    "runtime": "NOT_RUN",
+    "production_php_sloc": 615,
+    "core_php_sloc": 521,
+    "presentation_php_sloc": 94,
+    "setup_php_sloc": 109,
+    "registered_http_method_paths": 10,
+    "business_route_slices": 7,
+    "sqlite_tables": 5,
+    "score": 83
+  },
+  "fallback": {
+    "repo": "sebcode/b",
+    "commit": "d0d240bd99d12a43eb9740033854baeea09bf797",
+    "source_archive_sha256": "8cd0aec78f53c6ef414abccf56c245835574ffdce6541bd20aa6efcd5eeb9cf7",
+    "license": "MIT",
+    "production_php_sloc": 392,
+    "runtime": "NOT_RUN",
+    "score": 78
+  },
+  "adoption_gates": [
+    "Authorized disposable PHP7.4.33 worker available with required extensions",
+    "Unchanged source lint/startup/success/invalid/stateful/reset/repeatability checks pass",
+    "Coverage of SQL RANDOM-based exam generation explicitly resolved; never claim exact HTTP differential from unit mock/property tests",
+    "Independent comparator passes positive and negative controls",
+    "Current contest conditions reviewed; OSS provenance disclosed without claiming original app authorship"
+  ],
+  "implemented_application_migration": false,
+  "architecture_changed": false,
+  "published": false
+}

@@ -1,0 +1,20 @@
+[
+  "LICENSE",
+  "README.md",
+  "_htaccess",
+  "_router.php",
+  "api.php",
+  "config.php",
+  "data/_htaccess",
+  "example/api.php",
+  "example/config.php",
+  "example/data/_htaccess",
+  "example/data/data.db",
+  "example/data/data.sql",
+  "example/index.html",
+  "example/index.js",
+  "example/lib/moment.min.js",
+  "example/lib/php_crud_api_transform.js",
+  "example/login.html",
+  "example/logout.php"
+]

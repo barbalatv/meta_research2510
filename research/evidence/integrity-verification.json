@@ -1,0 +1,257 @@
+{
+  "snapshot_integrity": [
+    {
+      "snapshot": "Alespfer__wisenomy",
+      "archive_sha256": "af4dd660d9b4c5365a74f16e223daff5b0655b3cdc7926e69434169e99fff9fe",
+      "files_verified": 45,
+      "result": "MATCH"
+    },
+    {
+      "snapshot": "azlux__Simple-URL-Shortener",
+      "archive_sha256": "e2d35deb578ca27b6dc74a9220787fae62833d36345fb87342f18492156570c9",
+      "files_verified": 21,
+      "result": "MATCH"
+    },
+    {
+      "snapshot": "coskunsoysal__rest-api-sample",
+      "archive_sha256": "3f160e955a0e38beaf71db9c8553ee3726cc0aa01c91dc46f550fa7f164f43a5",
+      "files_verified": 20,
+      "result": "MATCH"
+    },
+    {
+      "snapshot": "kanboard__kanboard__v1.0.0",
+      "archive_sha256": "c3e9969a228a1b313cad591bd70bde53c410f66875ada8c6d9236103d775425c",
+      "files_verified": 88,
+      "result": "MATCH"
+    },
+    {
+      "snapshot": "kiswa__TaskBoard",
+      "archive_sha256": "1ba404b8108f09af39589812ef699194af5a1a4c9d31e14032290f998ac35690",
+      "files_verified": 253,
+      "result": "MATCH"
+    },
+    {
+      "snapshot": "lgg-archive__tasks.php",
+      "archive_sha256": "938a36fa88b3ce97ab1fb3dcdaf4ecb0c294b2b83ffccd813797a8ead4725a87",
+      "files_verified": 108,
+      "result": "MATCH"
+    },
+    {
+      "snapshot": "lodev09__php-todo",
+      "archive_sha256": "2789c7293c0f26c5c8e3a86651120333f64390966ad139ab7622a8703c6a6303",
+      "files_verified": 40,
+      "result": "MATCH"
+    },
+    {
+      "snapshot": "MarionForm__Tech2Teach-ExamSuite",
+      "archive_sha256": "11d9bf5d2413bc9ca917c6c2a35101c8bbe73883fa867a8d15fb419e2883e1ec",
+      "files_verified": 33,
+      "result": "MATCH"
+    },
+    {
+      "snapshot": "Mohamedajab__transaction-ledger-api",
+      "archive_sha256": "42961591328822f76f7aadf23b4668883e4f67c240add452e3341f00029713d6",
+      "files_verified": 15,
+      "result": "MATCH"
+    },
+    {
+      "snapshot": "PHPixie__Demo-Todo",
+      "archive_sha256": "214439b9a4336d26a2df76e09965a65f606e2e654d676443f328fd38e039f2b9",
+      "files_verified": 32,
+      "result": "MATCH"
+    },
+    {
+      "snapshot": "PrivateBin__PrivateBin",
+      "archive_sha256": "94c36b212dd0d443be25fa2632b9a528841efee43a455fecb2f0e20ee5ab1f7e",
+      "files_verified": 229,
+      "result": "MATCH"
+    },
+    {
+      "snapshot": "PrivateBin__PrivateBin__0.22",
+      "archive_sha256": "3482571ccbe51a70b5ace012bdc1cd8a026012ffc26787c349d945706e661daf",
+      "files_verified": 78,
+      "result": "MATCH"
+    },
+    {
+      "snapshot": "PrivateBin__PrivateBin__1.3.5",
+      "archive_sha256": "d3c49391d1152c782eedb4253197bcd55d7c3ec46e221f96b0ce78e8141d83de",
+      "files_verified": 153,
+      "result": "MATCH"
+    },
+    {
+      "snapshot": "ronaldaug__sim-rest",
+      "archive_sha256": "5993c3df86f96a1a094071dadf707c7a1ea434fe297c855fed988fb6e09cd33f",
+      "files_verified": 17,
+      "result": "MATCH"
+    },
+    {
+      "snapshot": "sebcode__b",
+      "archive_sha256": "8cd0aec78f53c6ef414abccf56c245835574ffdce6541bd20aa6efcd5eeb9cf7",
+      "files_verified": 25,
+      "result": "MATCH"
+    },
+    {
+      "snapshot": "seikan__Cart",
+      "archive_sha256": "9a6ab2cee1200b7ff023086b1931410c2e7729f1cb703d430833cb925f101ad5",
+      "files_verified": 4,
+      "result": "MATCH"
+    },
+    {
+      "snapshot": "sen-ltd__short-url",
+      "archive_sha256": "f49dbe02814feb0dbe1d5460f92bffafa9efab5ebd8c17d13a388c218a2b77d1",
+      "files_verified": 18,
+      "result": "MATCH"
+    },
+    {
+      "snapshot": "simplonco__php-rest-sqlite",
+      "archive_sha256": "bd9f3893d4a3ee3c4033adb16e288c05e128ead1730db5d57cab81478947be4d",
+      "files_verified": 4,
+      "result": "MATCH"
+    },
+    {
+      "snapshot": "TyMick__php-todo",
+      "archive_sha256": "5eeb971f37b4085d7615e92dd4bc5ab2bf478cc892703c5f4551d7a1f0e18677",
+      "files_verified": 7,
+      "result": "MATCH"
+    },
+    {
+      "snapshot": "yui0__php-db-api",
+      "archive_sha256": "dc9341d4070765a0c58b3bc2424a9af211ee8359a15a6f87ecc60d9e713b14e9",
+      "files_verified": 18,
+      "result": "MATCH"
+    }
+  ],
+  "primary_independent_loc": [
+    {
+      "path": "app/config.php",
+      "both_sloc_counts": 11,
+      "result": "MATCH"
+    },
+    {
+      "path": "app/Controllers/ExamController.php",
+      "both_sloc_counts": 59,
+      "result": "MATCH"
+    },
+    {
+      "path": "app/Controllers/HomeController.php",
+      "both_sloc_counts": 6,
+      "result": "MATCH"
+    },
+    {
+      "path": "app/Controllers/IntakeController.php",
+      "both_sloc_counts": 20,
+      "result": "MATCH"
+    },
+    {
+      "path": "app/Controllers/PackController.php",
+      "both_sloc_counts": 14,
+      "result": "MATCH"
+    },
+    {
+      "path": "app/db.php",
+      "both_sloc_counts": 10,
+      "result": "MATCH"
+    },
+    {
+      "path": "app/helpers.php",
+      "both_sloc_counts": 26,
+      "result": "MATCH"
+    },
+    {
+      "path": "app/Models/Exam.php",
+      "both_sloc_counts": 64,
+      "result": "MATCH"
+    },
+    {
+      "path": "app/Models/Intake.php",
+      "both_sloc_counts": 22,
+      "result": "MATCH"
+    },
+    {
+      "path": "app/Models/Question.php",
+      "both_sloc_counts": 34,
+      "result": "MATCH"
+    },
+    {
+      "path": "app/Router.php",
+      "both_sloc_counts": 17,
+      "result": "MATCH"
+    },
+    {
+      "path": "app/Services/AnalyticsService.php",
+      "both_sloc_counts": 11,
+      "result": "MATCH"
+    },
+    {
+      "path": "app/Services/DidacticPackService.php",
+      "both_sloc_counts": 67,
+      "result": "MATCH"
+    },
+    {
+      "path": "app/Services/ExamGeneratorService.php",
+      "both_sloc_counts": 30,
+      "result": "MATCH"
+    },
+    {
+      "path": "app/Services/ExportService.php",
+      "both_sloc_counts": 72,
+      "result": "MATCH"
+    },
+    {
+      "path": "app/Services/QuestionBankService.php",
+      "both_sloc_counts": 27,
+      "result": "MATCH"
+    },
+    {
+      "path": "app/Views/exam_generate.php",
+      "both_sloc_counts": 4,
+      "result": "MATCH"
+    },
+    {
+      "path": "app/Views/exam_results.php",
+      "both_sloc_counts": 33,
+      "result": "MATCH"
+    },
+    {
+      "path": "app/Views/exam_take.php",
+      "both_sloc_counts": 30,
+      "result": "MATCH"
+    },
+    {
+      "path": "app/Views/home.php",
+      "both_sloc_counts": 0,
+      "result": "MATCH"
+    },
+    {
+      "path": "app/Views/intake_new.php",
+      "both_sloc_counts": 1,
+      "result": "MATCH"
+    },
+    {
+      "path": "app/Views/layout.php",
+      "both_sloc_counts": 1,
+      "result": "MATCH"
+    },
+    {
+      "path": "app/Views/pack_view.php",
+      "both_sloc_counts": 25,
+      "result": "MATCH"
+    },
+    {
+      "path": "public/index.php",
+      "both_sloc_counts": 31,
+      "result": "MATCH"
+    },
+    {
+      "path": "scripts/init_db.php",
+      "both_sloc_counts": 52,
+      "result": "MATCH"
+    },
+    {
+      "path": "scripts/seed_questions.php",
+      "both_sloc_counts": 57,
+      "result": "MATCH"
+    }
+  ],
+  "application_runtime": "NOT_RUN"
+}
